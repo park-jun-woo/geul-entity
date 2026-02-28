@@ -1,0 +1,1208 @@
+{
+  "version": "v1.0",
+  "description": "EntityType 64개 전체 48비트 Attributes 스키마 정의",
+  "total_bits": 48,
+  "created": "2026-02-01",
+  "schemas": {
+    "0x00_Human": {
+      "name": "인간",
+      "qid": "Q5",
+      "count": 12553810,
+      "fields": [
+        {"name": "subclass", "bits": 5, "offset": 0, "description": "소분류 32개"},
+        {"name": "occupation", "bits": 6, "offset": 5, "description": "직업 64개", "property": "P106"},
+        {"name": "country", "bits": 8, "offset": 11, "description": "국적 256개", "property": "P27"},
+        {"name": "era", "bits": 4, "offset": 19, "description": "시대 16개", "property": "P569"},
+        {"name": "decade", "bits": 4, "offset": 23, "description": "10년대"},
+        {"name": "gender", "bits": 2, "offset": 27, "description": "성별 4개", "property": "P21"},
+        {"name": "notability", "bits": 3, "offset": 29, "description": "저명도 8개"},
+        {"name": "language", "bits": 6, "offset": 32, "description": "사용 언어 64개", "property": "P1412"},
+        {"name": "birth_region", "bits": 6, "offset": 38, "description": "출생 지역 64개", "property": "P19"},
+        {"name": "activity_field", "bits": 4, "offset": 44, "description": "활동 분야 16개", "property": "P101"}
+      ]
+    },
+    "0x01_Taxon": {
+      "name": "생물종",
+      "qid": "Q16521",
+      "count": 3787844,
+      "fields": [
+        {"name": "kingdom", "bits": 3, "offset": 0, "description": "계 8개 (동물/식물/균류 등)", "property": "P171"},
+        {"name": "phylum", "bits": 5, "offset": 3, "description": "문 32개", "property": "P171"},
+        {"name": "class", "bits": 6, "offset": 8, "description": "강 64개", "property": "P171"},
+        {"name": "order", "bits": 6, "offset": 14, "description": "목 64개", "property": "P171"},
+        {"name": "family", "bits": 6, "offset": 20, "description": "과 64개", "property": "P171"},
+        {"name": "rank", "bits": 3, "offset": 26, "description": "분류 계급 8개", "property": "P105"},
+        {"name": "conservation", "bits": 3, "offset": 29, "description": "보전 상태 8개", "property": "P141"},
+        {"name": "habitat", "bits": 4, "offset": 32, "description": "서식지 16개", "property": "P2974"},
+        {"name": "body_size", "bits": 4, "offset": 36, "description": "체형 크기 16등급"},
+        {"name": "diet", "bits": 3, "offset": 40, "description": "식성 8개"},
+        {"name": "locomotion", "bits": 3, "offset": 43, "description": "이동 방식 8개"},
+        {"name": "endemic", "bits": 2, "offset": 46, "description": "고유종 여부 4개"}
+      ]
+    },
+    "0x02_Gene": {
+      "name": "유전자",
+      "qid": "Q7187",
+      "count": 1225271,
+      "fields": [
+        {"name": "organism", "bits": 6, "offset": 0, "description": "생물종 64개", "property": "P703"},
+        {"name": "chromosome", "bits": 5, "offset": 6, "description": "염색체 32개", "property": "P1057"},
+        {"name": "gene_type", "bits": 4, "offset": 11, "description": "유전자 유형 16개", "property": "P31"},
+        {"name": "strand", "bits": 1, "offset": 15, "description": "가닥 방향 +/-"},
+        {"name": "function", "bits": 6, "offset": 16, "description": "기능 분류 64개", "property": "P682"},
+        {"name": "expression", "bits": 5, "offset": 22, "description": "발현 조직 32개", "property": "P1050"},
+        {"name": "disease_assoc", "bits": 5, "offset": 27, "description": "관련 질병 32개", "property": "P2293"},
+        {"name": "length_class", "bits": 4, "offset": 32, "description": "길이 구간 16개"},
+        {"name": "exon_count", "bits": 4, "offset": 36, "description": "엑손 수 16구간"},
+        {"name": "conservation", "bits": 3, "offset": 40, "description": "진화적 보존도 8등급"},
+        {"name": "druggable", "bits": 2, "offset": 43, "description": "약물 표적 가능성 4등급"},
+        {"name": "ortholog", "bits": 3, "offset": 45, "description": "오솔로그 그룹 8개"}
+      ]
+    },
+    "0x03_Protein": {
+      "name": "단백질",
+      "qid": "Q8054",
+      "count": 1014021,
+      "fields": [
+        {"name": "organism", "bits": 6, "offset": 0, "description": "생물종 64개", "property": "P703"},
+        {"name": "protein_family", "bits": 6, "offset": 6, "description": "단백질 패밀리 64개", "property": "P31"},
+        {"name": "structure", "bits": 4, "offset": 12, "description": "구조 유형 16개"},
+        {"name": "function", "bits": 6, "offset": 16, "description": "기능 분류 64개", "property": "P680"},
+        {"name": "location", "bits": 5, "offset": 22, "description": "세포 내 위치 32개", "property": "P681"},
+        {"name": "mass_class", "bits": 4, "offset": 27, "description": "분자량 구간 16개", "property": "P2067"},
+        {"name": "length_class", "bits": 4, "offset": 31, "description": "아미노산 수 16구간"},
+        {"name": "enzyme", "bits": 5, "offset": 35, "description": "효소 분류 32개", "property": "P591"},
+        {"name": "interaction", "bits": 4, "offset": 40, "description": "상호작용 유형 16개"},
+        {"name": "disease_assoc", "bits": 4, "offset": 44, "description": "관련 질병 16개"}
+      ]
+    },
+    "0x04_CellLine": {
+      "name": "세포주",
+      "qid": "Q21014462",
+      "count": 153636,
+      "fields": [
+        {"name": "organism", "bits": 6, "offset": 0, "description": "생물종 64개", "property": "P703"},
+        {"name": "tissue", "bits": 6, "offset": 6, "description": "유래 조직 64개", "property": "P4007"},
+        {"name": "disease", "bits": 6, "offset": 12, "description": "관련 질병 64개", "property": "P1050"},
+        {"name": "cell_type", "bits": 5, "offset": 18, "description": "세포 유형 32개", "property": "P31"},
+        {"name": "immortalized", "bits": 2, "offset": 23, "description": "불멸화 방법 4개"},
+        {"name": "culture_type", "bits": 3, "offset": 25, "description": "배양 유형 8개"},
+        {"name": "era", "bits": 4, "offset": 28, "description": "확립 시대 16개", "property": "P571"},
+        {"name": "ploidy", "bits": 3, "offset": 32, "description": "배수성 8개"},
+        {"name": "morphology", "bits": 3, "offset": 35, "description": "형태 8개"},
+        {"name": "authentication", "bits": 2, "offset": 38, "description": "인증 상태 4개"},
+        {"name": "biosafety", "bits": 2, "offset": 40, "description": "생물안전 등급 4개"},
+        {"name": "sex", "bits": 2, "offset": 42, "description": "성별 4개", "property": "P21"},
+        {"name": "age_class", "bits": 3, "offset": 44, "description": "기증자 연령대 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x05_FamilyName": {
+      "name": "가문명",
+      "qid": "Q101352",
+      "count": 661697,
+      "fields": [
+        {"name": "origin_lang", "bits": 6, "offset": 0, "description": "기원 언어 64개", "property": "P407"},
+        {"name": "origin_country", "bits": 8, "offset": 6, "description": "기원 국가 256개", "property": "P495"},
+        {"name": "script", "bits": 4, "offset": 14, "description": "표기 문자 16개", "property": "P282"},
+        {"name": "meaning_type", "bits": 4, "offset": 18, "description": "의미 유형 16개"},
+        {"name": "frequency", "bits": 4, "offset": 22, "description": "빈도 등급 16단계"},
+        {"name": "era", "bits": 4, "offset": 26, "description": "기원 시대 16개"},
+        {"name": "etymology", "bits": 4, "offset": 30, "description": "어원 분류 16개"},
+        {"name": "nobility", "bits": 2, "offset": 34, "description": "귀족 여부 4개"},
+        {"name": "profession_derived", "bits": 4, "offset": 36, "description": "직업 유래 16개"},
+        {"name": "geographic_derived", "bits": 4, "offset": 40, "description": "지명 유래 16개"},
+        {"name": "length_class", "bits": 2, "offset": 44, "description": "길이 분류 4개"},
+        {"name": "romanization", "bits": 2, "offset": 46, "description": "로마자 표기 유형 4개"}
+      ]
+    },
+    "0x06_GivenName": {
+      "name": "이름",
+      "qid": "Q202444",
+      "count": 128000,
+      "fields": [
+        {"name": "origin_lang", "bits": 6, "offset": 0, "description": "기원 언어 64개", "property": "P407"},
+        {"name": "origin_country", "bits": 8, "offset": 6, "description": "기원 국가 256개", "property": "P495"},
+        {"name": "gender_assoc", "bits": 2, "offset": 14, "description": "성별 연관 4개", "property": "P5185"},
+        {"name": "script", "bits": 4, "offset": 16, "description": "표기 문자 16개", "property": "P282"},
+        {"name": "popularity", "bits": 4, "offset": 20, "description": "인기도 16등급"},
+        {"name": "era", "bits": 4, "offset": 24, "description": "유행 시대 16개"},
+        {"name": "religious", "bits": 4, "offset": 28, "description": "종교적 기원 16개"},
+        {"name": "meaning_type", "bits": 4, "offset": 32, "description": "의미 유형 16개"},
+        {"name": "length_class", "bits": 2, "offset": 36, "description": "길이 분류 4개"},
+        {"name": "syllables", "bits": 2, "offset": 38, "description": "음절 수 4개"},
+        {"name": "nickname_common", "bits": 2, "offset": 40, "description": "애칭 흔함 4개"},
+        {"name": "celebrity_assoc", "bits": 3, "offset": 42, "description": "유명인 연관 8등급"},
+        {"name": "compound", "bits": 2, "offset": 45, "description": "복합명 여부 4개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x07_FictionalCharacter": {
+      "name": "가상인물",
+      "qid": "Q15632617",
+      "count": 98000,
+      "fields": [
+        {"name": "medium", "bits": 4, "offset": 0, "description": "매체 16개", "property": "P31"},
+        {"name": "franchise", "bits": 6, "offset": 4, "description": "프랜차이즈 64개", "property": "P8345"},
+        {"name": "role", "bits": 3, "offset": 10, "description": "역할 8개 (주인공/악당 등)"},
+        {"name": "species", "bits": 4, "offset": 13, "description": "종족 16개"},
+        {"name": "gender", "bits": 2, "offset": 17, "description": "성별 4개", "property": "P21"},
+        {"name": "age_class", "bits": 3, "offset": 19, "description": "연령대 8개"},
+        {"name": "powers", "bits": 4, "offset": 22, "description": "능력 유형 16개"},
+        {"name": "alignment", "bits": 3, "offset": 26, "description": "성향 8개 (선/악/중립)"},
+        {"name": "occupation", "bits": 5, "offset": 29, "description": "직업 32개", "property": "P106"},
+        {"name": "country", "bits": 6, "offset": 34, "description": "출신국 64개", "property": "P27"},
+        {"name": "era", "bits": 4, "offset": 40, "description": "시대 배경 16개"},
+        {"name": "notability", "bits": 4, "offset": 44, "description": "저명도 16등급"}
+      ]
+    },
+    "0x08_Chemical": {
+      "name": "화학물질",
+      "qid": "Q113145171",
+      "count": 1278857,
+      "fields": [
+        {"name": "chem_class", "bits": 6, "offset": 0, "description": "화학 분류 64개", "property": "P31"},
+        {"name": "phase", "bits": 2, "offset": 6, "description": "상태 4개 (고체/액체/기체/플라즈마)"},
+        {"name": "element_count", "bits": 4, "offset": 8, "description": "원소 수 16개"},
+        {"name": "mol_weight", "bits": 5, "offset": 12, "description": "분자량 구간 32개", "property": "P2067"},
+        {"name": "toxicity", "bits": 3, "offset": 17, "description": "독성 등급 8개", "property": "P2175"},
+        {"name": "flammability", "bits": 3, "offset": 20, "description": "인화성 등급 8개"},
+        {"name": "reactivity", "bits": 3, "offset": 23, "description": "반응성 등급 8개"},
+        {"name": "solubility", "bits": 4, "offset": 26, "description": "용해도 구간 16개"},
+        {"name": "boiling", "bits": 4, "offset": 30, "description": "끓는점 구간 16개", "property": "P2102"},
+        {"name": "melting", "bits": 4, "offset": 34, "description": "녹는점 구간 16개", "property": "P2101"},
+        {"name": "density", "bits": 4, "offset": 38, "description": "밀도 구간 16개", "property": "P2054"},
+        {"name": "natural", "bits": 2, "offset": 42, "description": "천연/합성 4개"},
+        {"name": "regulation", "bits": 3, "offset": 44, "description": "규제 등급 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x09_Compound": {
+      "name": "화합물",
+      "qid": "Q11173",
+      "count": 1061080,
+      "fields": [
+        {"name": "compound_class", "bits": 6, "offset": 0, "description": "화합물 분류 64개", "property": "P31"},
+        {"name": "organic", "bits": 1, "offset": 6, "description": "유기/무기"},
+        {"name": "functional_group", "bits": 5, "offset": 7, "description": "관능기 32개"},
+        {"name": "bond_type", "bits": 3, "offset": 12, "description": "결합 유형 8개"},
+        {"name": "stereochem", "bits": 3, "offset": 15, "description": "입체화학 8개"},
+        {"name": "ring_count", "bits": 3, "offset": 18, "description": "고리 수 8개"},
+        {"name": "heteroatom", "bits": 3, "offset": 21, "description": "이종 원자 8개"},
+        {"name": "mol_weight", "bits": 5, "offset": 24, "description": "분자량 구간 32개", "property": "P2067"},
+        {"name": "charge", "bits": 3, "offset": 29, "description": "전하 상태 8개"},
+        {"name": "polymer", "bits": 2, "offset": 32, "description": "고분자 여부 4개"},
+        {"name": "aromatic", "bits": 2, "offset": 34, "description": "방향족 여부 4개"},
+        {"name": "chirality", "bits": 2, "offset": 36, "description": "키랄성 4개"},
+        {"name": "application", "bits": 5, "offset": 38, "description": "응용 분야 32개"},
+        {"name": "natural", "bits": 2, "offset": 43, "description": "천연/합성 4개"},
+        {"name": "regulation", "bits": 3, "offset": 45, "description": "규제 등급 8개"}
+      ]
+    },
+    "0x0A_Mineral": {
+      "name": "광물",
+      "qid": "Q7946",
+      "count": 62000,
+      "fields": [
+        {"name": "crystal_system", "bits": 3, "offset": 0, "description": "결정계 8개", "property": "P556"},
+        {"name": "mineral_class", "bits": 5, "offset": 3, "description": "광물 분류 32개", "property": "P31"},
+        {"name": "hardness", "bits": 4, "offset": 8, "description": "모스 경도 16단계", "property": "P1088"},
+        {"name": "luster", "bits": 3, "offset": 12, "description": "광택 8개", "property": "P1289"},
+        {"name": "color", "bits": 4, "offset": 15, "description": "색상 16개", "property": "P462"},
+        {"name": "streak", "bits": 4, "offset": 19, "description": "조흔색 16개"},
+        {"name": "cleavage", "bits": 3, "offset": 23, "description": "벽개 8개"},
+        {"name": "specific_gravity", "bits": 4, "offset": 26, "description": "비중 구간 16개", "property": "P2054"},
+        {"name": "transparency", "bits": 2, "offset": 30, "description": "투명도 4개"},
+        {"name": "magnetism", "bits": 2, "offset": 32, "description": "자성 4개"},
+        {"name": "fluorescence", "bits": 2, "offset": 34, "description": "형광 4개"},
+        {"name": "habit", "bits": 4, "offset": 36, "description": "결정 습성 16개"},
+        {"name": "occurrence", "bits": 4, "offset": 40, "description": "산출 환경 16개"},
+        {"name": "value", "bits": 3, "offset": 44, "description": "가치 등급 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x0B_Drug": {
+      "name": "약물",
+      "qid": "Q12140",
+      "count": 45000,
+      "fields": [
+        {"name": "drug_class", "bits": 6, "offset": 0, "description": "약물 분류 64개", "property": "P2868"},
+        {"name": "route", "bits": 4, "offset": 6, "description": "투여 경로 16개", "property": "P636"},
+        {"name": "schedule", "bits": 3, "offset": 10, "description": "규제 등급 8개"},
+        {"name": "indication", "bits": 6, "offset": 13, "description": "적응증 64개", "property": "P2175"},
+        {"name": "mechanism", "bits": 5, "offset": 19, "description": "작용 기전 32개", "property": "P3489"},
+        {"name": "target", "bits": 5, "offset": 24, "description": "표적 분류 32개"},
+        {"name": "side_effect", "bits": 4, "offset": 29, "description": "부작용 심각도 16등급", "property": "P1909"},
+        {"name": "interaction", "bits": 3, "offset": 33, "description": "상호작용 위험 8등급"},
+        {"name": "half_life", "bits": 4, "offset": 36, "description": "반감기 구간 16개"},
+        {"name": "approval", "bits": 3, "offset": 40, "description": "승인 상태 8개"},
+        {"name": "generic", "bits": 2, "offset": 43, "description": "제네릭 여부 4개"},
+        {"name": "patent_status", "bits": 3, "offset": 45, "description": "특허 상태 8개"}
+      ]
+    },
+    "0x0C_Star": {
+      "name": "항성",
+      "qid": "Q523",
+      "count": 3634978,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "spectral_type", "bits": 4, "offset": 7, "description": "분광형 O/B/A/F/G/K/M", "property": "P215"},
+        {"name": "luminosity", "bits": 3, "offset": 11, "description": "광도등급 I-VII"},
+        {"name": "magnitude", "bits": 4, "offset": 14, "description": "겉보기등급 구간", "property": "P1215"},
+        {"name": "ra_zone", "bits": 4, "offset": 18, "description": "적경 구역", "property": "P6257"},
+        {"name": "dec_zone", "bits": 4, "offset": 22, "description": "적위 구역", "property": "P6258"},
+        {"name": "flags", "bits": 6, "offset": 26, "description": "특성 플래그"},
+        {"name": "radial_vel", "bits": 5, "offset": 32, "description": "시선속도 구간 32개", "property": "P2216"},
+        {"name": "redshift", "bits": 5, "offset": 37, "description": "적색편이 구간 32개", "property": "P1090"},
+        {"name": "parallax", "bits": 4, "offset": 42, "description": "시차 구간 16개", "property": "P2214"},
+        {"name": "pm_class", "bits": 2, "offset": 46, "description": "고유운동 분류 4개", "property": "P10751"}
+      ]
+    },
+    "0x0D_Galaxy": {
+      "name": "은하",
+      "qid": "Q318",
+      "count": 2133383,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "ra_zone", "bits": 4, "offset": 7, "description": "적경 구역", "property": "P6257"},
+        {"name": "dec_zone", "bits": 4, "offset": 11, "description": "적위 구역", "property": "P6258"},
+        {"name": "morphology", "bits": 4, "offset": 15, "description": "형태 분류 16개 (타원/나선 등)", "property": "P223"},
+        {"name": "hubble_type", "bits": 4, "offset": 19, "description": "허블 분류 16개"},
+        {"name": "magnitude", "bits": 4, "offset": 23, "description": "겉보기등급 구간", "property": "P1215"},
+        {"name": "size_class", "bits": 4, "offset": 27, "description": "크기 등급 16개"},
+        {"name": "redshift", "bits": 5, "offset": 31, "description": "적색편이 구간 32개", "property": "P1090"},
+        {"name": "activity", "bits": 3, "offset": 36, "description": "활동성 8개 (AGN/세이퍼트 등)"},
+        {"name": "group", "bits": 5, "offset": 39, "description": "은하군/은하단 32개", "property": "P361"},
+        {"name": "bar", "bits": 2, "offset": 44, "description": "막대 구조 4개"},
+        {"name": "interaction", "bits": 2, "offset": 46, "description": "상호작용 상태 4개"}
+      ]
+    },
+    "0x0E_Asteroid": {
+      "name": "소행성",
+      "qid": "Q3863",
+      "count": 248597,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "orbit_type", "bits": 4, "offset": 7, "description": "궤도 유형 16개"},
+        {"name": "family", "bits": 5, "offset": 11, "description": "소행성 가족 32개"},
+        {"name": "composition", "bits": 4, "offset": 16, "description": "구성 16개 (C/S/M형 등)"},
+        {"name": "diameter", "bits": 5, "offset": 20, "description": "직경 구간 32개", "property": "P2386"},
+        {"name": "rotation", "bits": 4, "offset": 25, "description": "자전 주기 구간 16개", "property": "P2147"},
+        {"name": "albedo", "bits": 4, "offset": 29, "description": "반사율 구간 16개", "property": "P1096"},
+        {"name": "semi_major", "bits": 4, "offset": 33, "description": "장반경 구간 16개"},
+        {"name": "eccentricity", "bits": 4, "offset": 37, "description": "이심률 구간 16개"},
+        {"name": "inclination", "bits": 4, "offset": 41, "description": "궤도 경사 구간 16개"},
+        {"name": "discovery_era", "bits": 3, "offset": 45, "description": "발견 시대 8개"}
+      ]
+    },
+    "0x0F_Quasar": {
+      "name": "퀘이사",
+      "qid": "Q83373",
+      "count": 178336,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "ra_zone", "bits": 4, "offset": 7, "description": "적경 구역", "property": "P6257"},
+        {"name": "dec_zone", "bits": 4, "offset": 11, "description": "적위 구역", "property": "P6258"},
+        {"name": "redshift", "bits": 5, "offset": 15, "description": "적색편이 구간 32개", "property": "P1090"},
+        {"name": "magnitude", "bits": 4, "offset": 20, "description": "겉보기등급 구간", "property": "P1215"},
+        {"name": "luminosity", "bits": 4, "offset": 24, "description": "광도 등급 16개"},
+        {"name": "radio", "bits": 3, "offset": 28, "description": "전파 강도 8등급"},
+        {"name": "variability", "bits": 3, "offset": 31, "description": "변광성 8등급"},
+        {"name": "host_galaxy", "bits": 4, "offset": 34, "description": "모은하 유형 16개"},
+        {"name": "jet", "bits": 3, "offset": 38, "description": "제트 유형 8개"},
+        {"name": "absorption", "bits": 3, "offset": 41, "description": "흡수선 유형 8개"},
+        {"name": "lens", "bits": 2, "offset": 44, "description": "중력렌즈 여부 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x10_Planet": {
+      "name": "행성",
+      "qid": "Q634",
+      "count": 15000,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "parent_star", "bits": 5, "offset": 7, "description": "모항성 유형 32개"},
+        {"name": "planet_type", "bits": 4, "offset": 12, "description": "행성 유형 16개 (지구형/목성형 등)"},
+        {"name": "mass_class", "bits": 4, "offset": 16, "description": "질량 등급 16개", "property": "P2067"},
+        {"name": "radius_class", "bits": 4, "offset": 20, "description": "반경 등급 16개"},
+        {"name": "atmosphere", "bits": 4, "offset": 24, "description": "대기 유형 16개"},
+        {"name": "temperature", "bits": 4, "offset": 28, "description": "표면 온도 구간 16개"},
+        {"name": "orbital_period", "bits": 4, "offset": 32, "description": "공전 주기 구간 16개"},
+        {"name": "habitability", "bits": 3, "offset": 36, "description": "거주 가능성 8등급"},
+        {"name": "rings", "bits": 2, "offset": 39, "description": "고리 여부 4개"},
+        {"name": "moons", "bits": 4, "offset": 41, "description": "위성 수 구간 16개"},
+        {"name": "discovery_method", "bits": 3, "offset": 45, "description": "발견 방법 8개"}
+      ]
+    },
+    "0x11_Nebula": {
+      "name": "성운",
+      "qid": "Q12057",
+      "count": 8000,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "ra_zone", "bits": 4, "offset": 7, "description": "적경 구역", "property": "P6257"},
+        {"name": "dec_zone", "bits": 4, "offset": 11, "description": "적위 구역", "property": "P6258"},
+        {"name": "nebula_type", "bits": 4, "offset": 15, "description": "성운 유형 16개 (발광/반사/암흑 등)"},
+        {"name": "magnitude", "bits": 4, "offset": 19, "description": "겉보기등급 구간", "property": "P1215"},
+        {"name": "size_class", "bits": 4, "offset": 23, "description": "크기 등급 16개"},
+        {"name": "distance", "bits": 5, "offset": 27, "description": "거리 구간 32개"},
+        {"name": "emission", "bits": 4, "offset": 32, "description": "방출 유형 16개"},
+        {"name": "associated_star", "bits": 5, "offset": 36, "description": "관련 별 유형 32개"},
+        {"name": "age_class", "bits": 3, "offset": 41, "description": "나이 등급 8개"},
+        {"name": "visibility", "bits": 2, "offset": 44, "description": "가시성 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x12_StarCluster": {
+      "name": "성단",
+      "qid": "Q168845",
+      "count": 5000,
+      "fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리 88개", "property": "P59"},
+        {"name": "ra_zone", "bits": 4, "offset": 7, "description": "적경 구역", "property": "P6257"},
+        {"name": "dec_zone", "bits": 4, "offset": 11, "description": "적위 구역", "property": "P6258"},
+        {"name": "cluster_type", "bits": 3, "offset": 15, "description": "성단 유형 8개 (산개/구상)"},
+        {"name": "magnitude", "bits": 4, "offset": 18, "description": "겉보기등급 구간", "property": "P1215"},
+        {"name": "star_count", "bits": 4, "offset": 22, "description": "별 수 등급 16개"},
+        {"name": "age_class", "bits": 4, "offset": 26, "description": "나이 등급 16개"},
+        {"name": "distance", "bits": 5, "offset": 30, "description": "거리 구간 32개"},
+        {"name": "metallicity", "bits": 3, "offset": 35, "description": "금속성 8등급"},
+        {"name": "tidal_radius", "bits": 4, "offset": 38, "description": "조석 반경 구간 16개"},
+        {"name": "core_density", "bits": 3, "offset": 42, "description": "중심 밀도 8등급"},
+        {"name": "color", "bits": 3, "offset": 45, "description": "색상 8개"}
+      ]
+    },
+    "0x13_Moon": {
+      "name": "위성",
+      "qid": "Q2537",
+      "count": 3000,
+      "fields": [
+        {"name": "parent_planet", "bits": 5, "offset": 0, "description": "모행성 32개"},
+        {"name": "size_class", "bits": 4, "offset": 5, "description": "크기 등급 16개"},
+        {"name": "mass_class", "bits": 4, "offset": 9, "description": "질량 등급 16개"},
+        {"name": "orbital_period", "bits": 4, "offset": 13, "description": "공전 주기 구간 16개"},
+        {"name": "orbit_type", "bits": 3, "offset": 17, "description": "궤도 유형 8개"},
+        {"name": "surface", "bits": 4, "offset": 20, "description": "표면 유형 16개"},
+        {"name": "atmosphere", "bits": 3, "offset": 24, "description": "대기 유형 8개"},
+        {"name": "tidal_lock", "bits": 2, "offset": 27, "description": "조석 고정 여부 4개"},
+        {"name": "composition", "bits": 4, "offset": 29, "description": "구성 16개"},
+        {"name": "activity", "bits": 3, "offset": 33, "description": "지질 활동 8등급"},
+        {"name": "discovery_era", "bits": 3, "offset": 36, "description": "발견 시대 8개"},
+        {"name": "exploration", "bits": 3, "offset": 39, "description": "탐사 수준 8등급"},
+        {"name": "retrograde", "bits": 1, "offset": 42, "description": "역행 여부"},
+        {"name": "regular", "bits": 2, "offset": 43, "description": "규칙/불규칙 4개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x14_Mountain": {
+      "name": "산",
+      "qid": "Q8502",
+      "count": 518080,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "elevation", "bits": 5, "offset": 22, "description": "고도 구간 32개", "property": "P2044"},
+        {"name": "prominence", "bits": 4, "offset": 27, "description": "돌출도 구간 16개", "property": "P2660"},
+        {"name": "range", "bits": 5, "offset": 31, "description": "산맥 32개", "property": "P4552"},
+        {"name": "volcano", "bits": 2, "offset": 36, "description": "화산 유형 4개"},
+        {"name": "climbing", "bits": 3, "offset": 38, "description": "등반 난이도 8등급"},
+        {"name": "snow", "bits": 2, "offset": 41, "description": "만년설 여부 4개"},
+        {"name": "isolation", "bits": 3, "offset": 43, "description": "고립도 8등급"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x15_Hill": {
+      "name": "언덕",
+      "qid": "Q54050",
+      "count": 321151,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "elevation", "bits": 4, "offset": 22, "description": "고도 구간 16개", "property": "P2044"},
+        {"name": "prominence", "bits": 3, "offset": 26, "description": "돌출도 구간 8개", "property": "P2660"},
+        {"name": "hill_type", "bits": 3, "offset": 29, "description": "언덕 유형 8개"},
+        {"name": "vegetation", "bits": 4, "offset": 32, "description": "식생 유형 16개"},
+        {"name": "geology", "bits": 4, "offset": 36, "description": "지질 유형 16개"},
+        {"name": "use", "bits": 4, "offset": 40, "description": "토지 이용 16개"},
+        {"name": "protected", "bits": 2, "offset": 44, "description": "보호 구역 여부 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x16_River": {
+      "name": "강",
+      "qid": "Q4022",
+      "count": 426873,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "length", "bits": 5, "offset": 22, "description": "길이 구간 32개", "property": "P2043"},
+        {"name": "basin", "bits": 5, "offset": 27, "description": "유역 면적 구간 32개", "property": "P2053"},
+        {"name": "discharge", "bits": 4, "offset": 32, "description": "유량 구간 16개", "property": "P2225"},
+        {"name": "source_elev", "bits": 4, "offset": 36, "description": "발원지 고도 구간 16개"},
+        {"name": "mouth_type", "bits": 3, "offset": 40, "description": "하구 유형 8개"},
+        {"name": "navigable", "bits": 2, "offset": 43, "description": "항행 가능 여부 4개"},
+        {"name": "dams", "bits": 3, "offset": 45, "description": "댐 수 구간 8개"}
+      ]
+    },
+    "0x17_Lake": {
+      "name": "호수",
+      "qid": "Q23397",
+      "count": 292152,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "area", "bits": 5, "offset": 22, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "depth", "bits": 4, "offset": 27, "description": "최대 수심 구간 16개", "property": "P4511"},
+        {"name": "lake_type", "bits": 3, "offset": 31, "description": "호수 유형 8개"},
+        {"name": "salinity", "bits": 2, "offset": 34, "description": "염도 4개"},
+        {"name": "elevation", "bits": 4, "offset": 36, "description": "해발 고도 구간 16개", "property": "P2044"},
+        {"name": "outflow", "bits": 2, "offset": 40, "description": "유출 유형 4개"},
+        {"name": "origin", "bits": 3, "offset": 42, "description": "형성 원인 8개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x18_Stream": {
+      "name": "시내",
+      "qid": "Q47521",
+      "count": 194388,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "order", "bits": 3, "offset": 22, "description": "하천 차수 8개"},
+        {"name": "length", "bits": 4, "offset": 25, "description": "길이 구간 16개", "property": "P2043"},
+        {"name": "gradient", "bits": 3, "offset": 29, "description": "경사도 구간 8개"},
+        {"name": "stream_type", "bits": 3, "offset": 32, "description": "유형 8개"},
+        {"name": "permanence", "bits": 2, "offset": 35, "description": "상시/간헐 4개"},
+        {"name": "watershed", "bits": 5, "offset": 37, "description": "유역 32개"},
+        {"name": "substrate", "bits": 3, "offset": 42, "description": "하상 재질 8개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x19_Island": {
+      "name": "섬",
+      "qid": "Q23442",
+      "count": 152610,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "area", "bits": 5, "offset": 22, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "island_type", "bits": 3, "offset": 27, "description": "섬 유형 8개"},
+        {"name": "population", "bits": 4, "offset": 30, "description": "인구 구간 16개", "property": "P1082"},
+        {"name": "elevation", "bits": 4, "offset": 34, "description": "최고점 고도 구간 16개", "property": "P2044"},
+        {"name": "archipelago", "bits": 5, "offset": 38, "description": "군도 32개", "property": "P361"},
+        {"name": "inhabited", "bits": 2, "offset": 43, "description": "거주 상태 4개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x1A_Bay": {
+      "name": "만",
+      "qid": "Q39594",
+      "count": 25000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "area", "bits": 5, "offset": 22, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "depth", "bits": 4, "offset": 27, "description": "최대 수심 구간 16개"},
+        {"name": "bay_type", "bits": 3, "offset": 31, "description": "만 유형 8개"},
+        {"name": "enclosed", "bits": 2, "offset": 34, "description": "폐쇄도 4개"},
+        {"name": "tidal", "bits": 3, "offset": 36, "description": "조석 유형 8개"},
+        {"name": "port", "bits": 2, "offset": 39, "description": "항구 여부 4개"},
+        {"name": "protected", "bits": 2, "offset": 41, "description": "보호 구역 여부 4개"},
+        {"name": "use", "bits": 4, "offset": 43, "description": "이용 유형 16개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x1B_Cave": {
+      "name": "동굴",
+      "qid": "Q35509",
+      "count": 20000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 6, "offset": 16, "description": "행정구역 64개", "property": "P131"},
+        {"name": "length", "bits": 5, "offset": 22, "description": "길이 구간 32개", "property": "P2043"},
+        {"name": "depth", "bits": 4, "offset": 27, "description": "깊이 구간 16개"},
+        {"name": "cave_type", "bits": 3, "offset": 31, "description": "동굴 유형 8개"},
+        {"name": "formation", "bits": 3, "offset": 34, "description": "형성 과정 8개"},
+        {"name": "protected", "bits": 2, "offset": 37, "description": "보호 구역 여부 4개"},
+        {"name": "tourist", "bits": 2, "offset": 39, "description": "관광 개방 여부 4개"},
+        {"name": "difficulty", "bits": 3, "offset": 41, "description": "탐사 난이도 8등급"},
+        {"name": "fauna", "bits": 3, "offset": 44, "description": "동굴 생물 8종류"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x1C_Settlement": {
+      "name": "정주지",
+      "qid": "Q486972",
+      "count": 580084,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "population", "bits": 4, "offset": 28, "description": "인구 규모", "property": "P1082"},
+        {"name": "timezone", "bits": 5, "offset": 32, "description": "시간대", "property": "P421"},
+        {"name": "elevation", "bits": 5, "offset": 37, "description": "고도 구간 32개", "property": "P2044"},
+        {"name": "settlement_type", "bits": 4, "offset": 42, "description": "정주지 유형 16개", "property": "P31"},
+        {"name": "coastal", "bits": 2, "offset": 46, "description": "해안 여부 4개"}
+      ]
+    },
+    "0x1D_Village": {
+      "name": "마을",
+      "qid": "Q532",
+      "count": 245116,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "population", "bits": 4, "offset": 28, "description": "인구 규모", "property": "P1082"},
+        {"name": "elevation", "bits": 4, "offset": 32, "description": "고도 구간 16개", "property": "P2044"},
+        {"name": "village_type", "bits": 3, "offset": 36, "description": "마을 유형 8개"},
+        {"name": "agriculture", "bits": 3, "offset": 39, "description": "농업 유형 8개"},
+        {"name": "facilities", "bits": 4, "offset": 42, "description": "시설 수준 16등급"},
+        {"name": "access", "bits": 2, "offset": 46, "description": "접근성 4등급"}
+      ]
+    },
+    "0x1E_Hamlet": {
+      "name": "소촌",
+      "qid": "Q5084",
+      "count": 148250,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "population", "bits": 3, "offset": 28, "description": "인구 규모", "property": "P1082"},
+        {"name": "elevation", "bits": 4, "offset": 31, "description": "고도 구간 16개", "property": "P2044"},
+        {"name": "hamlet_type", "bits": 3, "offset": 35, "description": "소촌 유형 8개"},
+        {"name": "isolation", "bits": 3, "offset": 38, "description": "고립도 8등급"},
+        {"name": "infrastructure", "bits": 3, "offset": 41, "description": "기반시설 8등급"},
+        {"name": "era", "bits": 3, "offset": 44, "description": "형성 시대 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x1F_Street": {
+      "name": "도로",
+      "qid": "Q79007",
+      "count": 710621,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "length", "bits": 4, "offset": 28, "description": "길이 구간 16개", "property": "P2043"},
+        {"name": "width", "bits": 3, "offset": 32, "description": "폭 구간 8개"},
+        {"name": "street_type", "bits": 4, "offset": 35, "description": "도로 유형 16개"},
+        {"name": "surface", "bits": 3, "offset": 39, "description": "노면 유형 8개"},
+        {"name": "traffic", "bits": 3, "offset": 42, "description": "교통량 8등급"},
+        {"name": "pedestrian", "bits": 2, "offset": 45, "description": "보행자 전용 여부 4개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x20_Cemetery": {
+      "name": "묘지",
+      "qid": "Q39614",
+      "count": 298046,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "area", "bits": 4, "offset": 28, "description": "면적 구간 16개", "property": "P2046"},
+        {"name": "cemetery_type", "bits": 3, "offset": 32, "description": "묘지 유형 8개"},
+        {"name": "religion", "bits": 4, "offset": 35, "description": "종교 16개", "property": "P140"},
+        {"name": "era", "bits": 4, "offset": 39, "description": "조성 시대 16개", "property": "P571"},
+        {"name": "capacity", "bits": 3, "offset": 43, "description": "수용 규모 8등급"},
+        {"name": "heritage", "bits": 2, "offset": 46, "description": "문화재 여부 4개"}
+      ]
+    },
+    "0x21_AdminRegion": {
+      "name": "행정구역",
+      "qid": "Q15284",
+      "count": 100000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "상위 행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "population", "bits": 5, "offset": 28, "description": "인구 구간 32개", "property": "P1082"},
+        {"name": "area", "bits": 5, "offset": 33, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "capital_size", "bits": 4, "offset": 38, "description": "수도 규모 16등급"},
+        {"name": "established", "bits": 4, "offset": 42, "description": "설립 시대 16개", "property": "P571"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x22_Park": {
+      "name": "공원",
+      "qid": "Q22698",
+      "count": 45000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "area", "bits": 5, "offset": 28, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "park_type", "bits": 4, "offset": 33, "description": "공원 유형 16개"},
+        {"name": "facilities", "bits": 4, "offset": 37, "description": "시설 수준 16등급"},
+        {"name": "entrance", "bits": 2, "offset": 41, "description": "입장료 여부 4개"},
+        {"name": "protected", "bits": 3, "offset": 43, "description": "보호 등급 8개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x23_ProtectedArea": {
+      "name": "보호구역",
+      "qid": "Q473972",
+      "count": 35000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역", "property": "P131"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도 구역", "property": "P625"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도 구역"},
+        {"name": "area", "bits": 5, "offset": 28, "description": "면적 구간 32개", "property": "P2046"},
+        {"name": "iucn_category", "bits": 3, "offset": 33, "description": "IUCN 카테고리 8개", "property": "P814"},
+        {"name": "established", "bits": 4, "offset": 36, "description": "지정 시대 16개", "property": "P571"},
+        {"name": "protection_type", "bits": 3, "offset": 40, "description": "보호 유형 8개"},
+        {"name": "threats", "bits": 3, "offset": 43, "description": "위협 수준 8등급"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x24_Building": {
+      "name": "건물",
+      "qid": "Q41176",
+      "count": 291961,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "style", "bits": 4, "offset": 20, "description": "건축 양식 16개", "property": "P149"},
+        {"name": "height", "bits": 5, "offset": 24, "description": "높이 구간 32개", "property": "P2048"},
+        {"name": "floors", "bits": 4, "offset": 29, "description": "층수 구간 16개", "property": "P1101"},
+        {"name": "use", "bits": 5, "offset": 33, "description": "용도 32개"},
+        {"name": "material", "bits": 4, "offset": 38, "description": "건축 재료 16개", "property": "P186"},
+        {"name": "heritage", "bits": 3, "offset": 42, "description": "문화재 등급 8개"},
+        {"name": "status", "bits": 2, "offset": 45, "description": "상태 4개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x25_Church": {
+      "name": "교회",
+      "qid": "Q16970",
+      "count": 286141,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "style", "bits": 4, "offset": 20, "description": "건축 양식 16개", "property": "P149"},
+        {"name": "denomination", "bits": 5, "offset": 24, "description": "교단 32개", "property": "P140"},
+        {"name": "size", "bits": 3, "offset": 29, "description": "규모 8등급"},
+        {"name": "diocese", "bits": 5, "offset": 32, "description": "교구 32개", "property": "P708"},
+        {"name": "heritage", "bits": 3, "offset": 37, "description": "문화재 등급 8개"},
+        {"name": "active", "bits": 2, "offset": 40, "description": "활동 상태 4개"},
+        {"name": "organ", "bits": 2, "offset": 42, "description": "오르간 여부 4개"},
+        {"name": "bells", "bits": 2, "offset": 44, "description": "종 보유 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x26_School": {
+      "name": "학교",
+      "qid": "Q9842",
+      "count": 242467,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "설립 시대 16개", "property": "P571"},
+        {"name": "level", "bits": 4, "offset": 20, "description": "학교 급 16개"},
+        {"name": "school_type", "bits": 4, "offset": 24, "description": "학교 유형 16개"},
+        {"name": "size", "bits": 4, "offset": 28, "description": "규모 (학생수) 16등급"},
+        {"name": "public", "bits": 2, "offset": 32, "description": "공립/사립 4개"},
+        {"name": "specialty", "bits": 4, "offset": 34, "description": "특성화 분야 16개"},
+        {"name": "accreditation", "bits": 3, "offset": 38, "description": "인가 상태 8등급"},
+        {"name": "gender", "bits": 2, "offset": 41, "description": "공학/남녀분리 4개"},
+        {"name": "boarding", "bits": 2, "offset": 43, "description": "기숙 여부 4개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x27_House": {
+      "name": "주택",
+      "qid": "Q3947",
+      "count": 234919,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "style", "bits": 4, "offset": 20, "description": "건축 양식 16개", "property": "P149"},
+        {"name": "house_type", "bits": 4, "offset": 24, "description": "주택 유형 16개"},
+        {"name": "size", "bits": 4, "offset": 28, "description": "규모 (면적) 16등급"},
+        {"name": "floors", "bits": 3, "offset": 32, "description": "층수 8개", "property": "P1101"},
+        {"name": "material", "bits": 3, "offset": 35, "description": "건축 재료 8개", "property": "P186"},
+        {"name": "heritage", "bits": 3, "offset": 38, "description": "문화재 등급 8개"},
+        {"name": "famous_resident", "bits": 4, "offset": 41, "description": "유명 거주자 유형 16개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x28_Structure": {
+      "name": "구조물",
+      "qid": "Q811979",
+      "count": 216026,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "structure_type", "bits": 5, "offset": 20, "description": "구조물 유형 32개"},
+        {"name": "height", "bits": 5, "offset": 25, "description": "높이 구간 32개", "property": "P2048"},
+        {"name": "material", "bits": 4, "offset": 30, "description": "건축 재료 16개", "property": "P186"},
+        {"name": "purpose", "bits": 4, "offset": 34, "description": "용도 16개"},
+        {"name": "heritage", "bits": 3, "offset": 38, "description": "문화재 등급 8개"},
+        {"name": "status", "bits": 2, "offset": 41, "description": "상태 4개"},
+        {"name": "span", "bits": 3, "offset": 43, "description": "경간 구간 8개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x29_SportsVenue": {
+      "name": "경기장",
+      "qid": "Q1076486",
+      "count": 145076,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "sport", "bits": 5, "offset": 20, "description": "스포츠 종목 32개", "property": "P641"},
+        {"name": "capacity", "bits": 5, "offset": 25, "description": "수용 인원 구간 32개", "property": "P1083"},
+        {"name": "surface", "bits": 3, "offset": 30, "description": "경기장 표면 8개"},
+        {"name": "indoor", "bits": 2, "offset": 33, "description": "실내/실외 4개"},
+        {"name": "tier", "bits": 3, "offset": 35, "description": "등급 8등급"},
+        {"name": "multi", "bits": 2, "offset": 38, "description": "다목적 여부 4개"},
+        {"name": "renovation", "bits": 3, "offset": 40, "description": "최근 리모델링 8등급"},
+        {"name": "owner", "bits": 3, "offset": 43, "description": "소유 유형 8개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x2A_Castle": {
+      "name": "성",
+      "qid": "Q23413",
+      "count": 42000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "style", "bits": 4, "offset": 20, "description": "건축 양식 16개", "property": "P149"},
+        {"name": "castle_type", "bits": 4, "offset": 24, "description": "성곽 유형 16개"},
+        {"name": "size", "bits": 3, "offset": 28, "description": "규모 8등급"},
+        {"name": "condition", "bits": 3, "offset": 31, "description": "보존 상태 8등급"},
+        {"name": "heritage", "bits": 3, "offset": 34, "description": "문화재 등급 8개"},
+        {"name": "tourism", "bits": 3, "offset": 37, "description": "관광 개방 8등급"},
+        {"name": "fortification", "bits": 3, "offset": 40, "description": "방어 시설 8등급"},
+        {"name": "moat", "bits": 2, "offset": 43, "description": "해자 여부 4개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x2B_Bridge": {
+      "name": "다리",
+      "qid": "Q12280",
+      "count": 38000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "admin_code", "bits": 8, "offset": 8, "description": "행정구역 256개", "property": "P131"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대 16개", "property": "P571"},
+        {"name": "bridge_type", "bits": 4, "offset": 20, "description": "교량 유형 16개"},
+        {"name": "length", "bits": 5, "offset": 24, "description": "길이 구간 32개", "property": "P2043"},
+        {"name": "span", "bits": 4, "offset": 29, "description": "경간 구간 16개"},
+        {"name": "material", "bits": 3, "offset": 33, "description": "재료 8개", "property": "P186"},
+        {"name": "lanes", "bits": 3, "offset": 36, "description": "차선 수 8개"},
+        {"name": "heritage", "bits": 3, "offset": 39, "description": "문화재 등급 8개"},
+        {"name": "status", "bits": 2, "offset": 42, "description": "상태 4개"},
+        {"name": "clearance", "bits": 3, "offset": 44, "description": "통과 높이 8구간"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x2C_Organization": {
+      "name": "조직",
+      "qid": "Q43229",
+      "count": 531222,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "org_type", "bits": 4, "offset": 8, "description": "조직 유형"},
+        {"name": "legal_form", "bits": 6, "offset": 12, "description": "법인 형태", "property": "P1454"},
+        {"name": "industry", "bits": 8, "offset": 18, "description": "산업 분류", "property": "P452"},
+        {"name": "era", "bits": 4, "offset": 26, "description": "설립 시대", "property": "P571"},
+        {"name": "size", "bits": 4, "offset": 30, "description": "규모"},
+        {"name": "hq_region", "bits": 6, "offset": 34, "description": "본사 지역 64개", "property": "P159"},
+        {"name": "status", "bits": 3, "offset": 40, "description": "상태 8개", "property": "P576"},
+        {"name": "ideology", "bits": 3, "offset": 43, "description": "이념 8개", "property": "P1142"},
+        {"name": "sector", "bits": 2, "offset": 46, "description": "공공/민간 4개"}
+      ]
+    },
+    "0x2D_Business": {
+      "name": "기업",
+      "qid": "Q4830453",
+      "count": 241620,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "org_type", "bits": 4, "offset": 8, "description": "기업 유형"},
+        {"name": "legal_form", "bits": 6, "offset": 12, "description": "법인 형태", "property": "P1454"},
+        {"name": "industry", "bits": 8, "offset": 18, "description": "산업 분류", "property": "P452"},
+        {"name": "era", "bits": 4, "offset": 26, "description": "설립 시대", "property": "P571"},
+        {"name": "employees", "bits": 4, "offset": 30, "description": "직원 수 구간 16개", "property": "P1128"},
+        {"name": "revenue", "bits": 4, "offset": 34, "description": "매출 구간 16개", "property": "P2139"},
+        {"name": "public", "bits": 2, "offset": 38, "description": "상장 여부 4개"},
+        {"name": "multinational", "bits": 2, "offset": 40, "description": "다국적 여부 4개"},
+        {"name": "subsidiary", "bits": 2, "offset": 42, "description": "자회사 여부 4개"},
+        {"name": "status", "bits": 3, "offset": 44, "description": "상태 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x2E_PoliticalParty": {
+      "name": "정당",
+      "qid": "Q7278",
+      "count": 35000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "org_type", "bits": 4, "offset": 8, "description": "정당 유형"},
+        {"name": "ideology", "bits": 5, "offset": 12, "description": "이념 32개", "property": "P1142"},
+        {"name": "spectrum", "bits": 3, "offset": 17, "description": "정치 스펙트럼 8개", "property": "P1387"},
+        {"name": "era", "bits": 4, "offset": 20, "description": "창당 시대", "property": "P571"},
+        {"name": "size", "bits": 4, "offset": 24, "description": "당원 수 구간 16개"},
+        {"name": "seats", "bits": 5, "offset": 28, "description": "의석 수 구간 32개"},
+        {"name": "coalition", "bits": 3, "offset": 33, "description": "연립 상태 8개"},
+        {"name": "active", "bits": 2, "offset": 36, "description": "활동 상태 4개"},
+        {"name": "government", "bits": 3, "offset": 38, "description": "정부 참여 8등급"},
+        {"name": "international", "bits": 4, "offset": 41, "description": "국제 연대 16개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x2F_SportsTeam": {
+      "name": "스포츠팀",
+      "qid": "Q847017",
+      "count": 95000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "sport", "bits": 5, "offset": 8, "description": "스포츠 종목 32개", "property": "P641"},
+        {"name": "league", "bits": 6, "offset": 13, "description": "리그 64개", "property": "P118"},
+        {"name": "tier", "bits": 3, "offset": 19, "description": "부 등급 8개"},
+        {"name": "era", "bits": 4, "offset": 22, "description": "창단 시대", "property": "P571"},
+        {"name": "city", "bits": 6, "offset": 26, "description": "연고지 64개", "property": "P159"},
+        {"name": "titles", "bits": 4, "offset": 32, "description": "우승 횟수 구간 16개"},
+        {"name": "stadium_capacity", "bits": 4, "offset": 36, "description": "홈구장 규모 16등급"},
+        {"name": "gender", "bits": 2, "offset": 40, "description": "성별 4개"},
+        {"name": "professional", "bits": 2, "offset": 42, "description": "프로/아마 4개"},
+        {"name": "active", "bits": 2, "offset": 44, "description": "활동 상태 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x30_Painting": {
+      "name": "그림",
+      "qid": "Q3305213",
+      "count": 1060257,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "제작연도 (1500+)", "property": "P571"},
+        {"name": "genre", "bits": 5, "offset": 15, "description": "장르 32개", "property": "P136"},
+        {"name": "style", "bits": 5, "offset": 20, "description": "양식 32개", "property": "P135"},
+        {"name": "medium", "bits": 4, "offset": 25, "description": "매체 16개", "property": "P186"},
+        {"name": "size_class", "bits": 3, "offset": 29, "description": "크기 등급 8개"},
+        {"name": "subject", "bits": 4, "offset": 32, "description": "주제 16개", "property": "P180"},
+        {"name": "location", "bits": 5, "offset": 36, "description": "소장처 32개", "property": "P276"},
+        {"name": "artist_fame", "bits": 4, "offset": 41, "description": "작가 저명도 16등급"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x31_Document": {
+      "name": "문서",
+      "qid": "Q49848",
+      "count": 45000000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "출판국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "출판연도 (1900+)", "property": "P577"},
+        {"name": "doc_type", "bits": 5, "offset": 15, "description": "문서 유형 32개 (논문/기사/백과)"},
+        {"name": "language", "bits": 6, "offset": 20, "description": "언어 64개", "property": "P407"},
+        {"name": "field", "bits": 6, "offset": 26, "description": "분야 64개", "property": "P921"},
+        {"name": "length_class", "bits": 4, "offset": 32, "description": "길이 구간 16개"},
+        {"name": "format", "bits": 3, "offset": 36, "description": "형식 8개"},
+        {"name": "access", "bits": 3, "offset": 39, "description": "접근성 8개"},
+        {"name": "citations", "bits": 4, "offset": 42, "description": "인용 수 구간 16개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x32_LiteraryWork": {
+      "name": "문학작품",
+      "qid": "Q7725634",
+      "count": 395411,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "출판국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "출판연도 (1500+)", "property": "P577"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르 64개", "property": "P136"},
+        {"name": "form", "bits": 4, "offset": 21, "description": "형식 16개 (소설/시/희곡)", "property": "P31"},
+        {"name": "language", "bits": 6, "offset": 25, "description": "언어 64개", "property": "P407"},
+        {"name": "length_class", "bits": 4, "offset": 31, "description": "길이 구간 16개"},
+        {"name": "audience", "bits": 3, "offset": 35, "description": "대상 독자 8개"},
+        {"name": "awards", "bits": 4, "offset": 38, "description": "수상 등급 16등급"},
+        {"name": "translations", "bits": 4, "offset": 42, "description": "번역 언어 수 16구간"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x33_Film": {
+      "name": "영화",
+      "qid": "Q11424",
+      "count": 335651,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "개봉연도 (1900+)", "property": "P577"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르 64개", "property": "P136"},
+        {"name": "language", "bits": 8, "offset": 21, "description": "원어 256개", "property": "P364"},
+        {"name": "color", "bits": 2, "offset": 29, "description": "컬러/흑백", "property": "P462"},
+        {"name": "duration", "bits": 4, "offset": 31, "description": "상영시간 구간", "property": "P2047"},
+        {"name": "director_fame", "bits": 4, "offset": 35, "description": "감독 저명도 16등급", "property": "P57"},
+        {"name": "cast_tier", "bits": 3, "offset": 39, "description": "출연진 등급 8개", "property": "P161"},
+        {"name": "rating", "bits": 3, "offset": 42, "description": "연령등급 8개"},
+        {"name": "format", "bits": 3, "offset": 45, "description": "포맷 8개", "property": "P31"}
+      ]
+    },
+    "0x34_Album": {
+      "name": "앨범",
+      "qid": "Q482994",
+      "count": 303243,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "발매국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "발매연도 (1900+)", "property": "P577"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르 64개", "property": "P136"},
+        {"name": "format", "bits": 3, "offset": 21, "description": "형식 8개 (LP/CD/디지털)", "property": "P437"},
+        {"name": "language", "bits": 5, "offset": 24, "description": "언어 32개", "property": "P407"},
+        {"name": "tracks", "bits": 4, "offset": 29, "description": "트랙 수 구간 16개"},
+        {"name": "duration", "bits": 4, "offset": 33, "description": "재생 시간 구간 16개", "property": "P2047"},
+        {"name": "label", "bits": 5, "offset": 37, "description": "레이블 32개", "property": "P264"},
+        {"name": "charts", "bits": 4, "offset": 42, "description": "차트 순위 16등급"},
+        {"name": "certification", "bits": 2, "offset": 46, "description": "인증 등급 4개"}
+      ]
+    },
+    "0x35_MusicalWork": {
+      "name": "음악작품",
+      "qid": "Q105543609",
+      "count": 194833,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "작곡연도 (1500+)", "property": "P571"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르 64개", "property": "P136"},
+        {"name": "form", "bits": 4, "offset": 21, "description": "형식 16개 (교향곡/소나타 등)", "property": "P31"},
+        {"name": "key", "bits": 4, "offset": 25, "description": "조성 16개", "property": "P826"},
+        {"name": "duration", "bits": 4, "offset": 29, "description": "재생 시간 구간 16개", "property": "P2047"},
+        {"name": "instruments", "bits": 5, "offset": 33, "description": "악기 편성 32개", "property": "P870"},
+        {"name": "voices", "bits": 3, "offset": 38, "description": "성부 수 8개"},
+        {"name": "tempo", "bits": 3, "offset": 41, "description": "템포 8등급"},
+        {"name": "composer_fame", "bits": 4, "offset": 44, "description": "작곡가 저명도 16등급"}
+      ]
+    },
+    "0x36_TVEpisode": {
+      "name": "TV에피소드",
+      "qid": "Q21191270",
+      "count": 177351,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "방영연도 (1950+)", "property": "P577"},
+        {"name": "genre", "bits": 5, "offset": 15, "description": "장르 32개", "property": "P136"},
+        {"name": "season", "bits": 4, "offset": 20, "description": "시즌 번호 16개"},
+        {"name": "episode", "bits": 5, "offset": 24, "description": "에피소드 번호 32개"},
+        {"name": "duration", "bits": 4, "offset": 29, "description": "재생 시간 구간 16개", "property": "P2047"},
+        {"name": "series_pop", "bits": 4, "offset": 33, "description": "시리즈 인기도 16등급"},
+        {"name": "rating", "bits": 3, "offset": 37, "description": "연령등급 8개"},
+        {"name": "format", "bits": 2, "offset": 40, "description": "형식 4개"},
+        {"name": "finale", "bits": 2, "offset": 42, "description": "시즌/시리즈 피날레 4개"},
+        {"name": "viewers", "bits": 4, "offset": 44, "description": "시청자 수 구간 16개"}
+      ]
+    },
+    "0x37_VideoGame": {
+      "name": "비디오게임",
+      "qid": "Q7889",
+      "count": 171517,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "개발국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "출시연도 (1970+)", "property": "P577"},
+        {"name": "genre", "bits": 5, "offset": 15, "description": "장르 32개", "property": "P136"},
+        {"name": "platform", "bits": 5, "offset": 20, "description": "플랫폼 32개", "property": "P400"},
+        {"name": "mode", "bits": 3, "offset": 25, "description": "게임 모드 8개", "property": "P404"},
+        {"name": "esrb", "bits": 3, "offset": 28, "description": "등급 8개", "property": "P852"},
+        {"name": "developer_fame", "bits": 4, "offset": 31, "description": "개발사 저명도 16등급"},
+        {"name": "franchise", "bits": 4, "offset": 35, "description": "프랜차이즈 16개", "property": "P8345"},
+        {"name": "multiplayer", "bits": 3, "offset": 39, "description": "멀티플레이어 유형 8개"},
+        {"name": "vr", "bits": 2, "offset": 42, "description": "VR 지원 4개"},
+        {"name": "sales", "bits": 4, "offset": 44, "description": "판매량 구간 16등급"}
+      ]
+    },
+    "0x38_TVSeries": {
+      "name": "TV시리즈",
+      "qid": "Q5398426",
+      "count": 85000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "시작연도 (1950+)", "property": "P580"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르 64개", "property": "P136"},
+        {"name": "seasons", "bits": 4, "offset": 21, "description": "시즌 수 구간 16개"},
+        {"name": "episodes", "bits": 5, "offset": 25, "description": "에피소드 수 구간 32개"},
+        {"name": "duration", "bits": 4, "offset": 30, "description": "회당 시간 구간 16개", "property": "P2047"},
+        {"name": "network", "bits": 5, "offset": 34, "description": "방송사 32개", "property": "P449"},
+        {"name": "status", "bits": 2, "offset": 39, "description": "방영 상태 4개"},
+        {"name": "format", "bits": 3, "offset": 41, "description": "형식 8개"},
+        {"name": "rating", "bits": 3, "offset": 44, "description": "연령등급 8개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x39_Patent": {
+      "name": "특허",
+      "qid": "Q43305660",
+      "count": 289010,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "출원국 256개", "property": "P17"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "출원연도 (1900+)", "property": "P577"},
+        {"name": "ipc_section", "bits": 3, "offset": 15, "description": "IPC 섹션 8개"},
+        {"name": "ipc_class", "bits": 5, "offset": 18, "description": "IPC 클래스 32개"},
+        {"name": "status", "bits": 3, "offset": 23, "description": "특허 상태 8개"},
+        {"name": "citations", "bits": 4, "offset": 26, "description": "인용 수 구간 16개"},
+        {"name": "family_size", "bits": 4, "offset": 30, "description": "패밀리 크기 16등급"},
+        {"name": "claims", "bits": 4, "offset": 34, "description": "청구항 수 구간 16개"},
+        {"name": "priority", "bits": 4, "offset": 38, "description": "우선권 국가 수 16개"},
+        {"name": "assignee_type", "bits": 3, "offset": 42, "description": "출원인 유형 8개"},
+        {"name": "flags", "bits": 3, "offset": 45, "description": "플래그"}
+      ]
+    },
+    "0x3A_Software": {
+      "name": "소프트웨어",
+      "qid": "Q7397",
+      "count": 13000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "개발국 256개", "property": "P495"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "출시연도 (1970+)", "property": "P577"},
+        {"name": "sw_type", "bits": 4, "offset": 15, "description": "소프트웨어 유형 16개", "property": "P31"},
+        {"name": "platform", "bits": 4, "offset": 19, "description": "플랫폼 16개", "property": "P306"},
+        {"name": "license", "bits": 4, "offset": 23, "description": "라이선스 유형 16개", "property": "P275"},
+        {"name": "prog_lang", "bits": 5, "offset": 27, "description": "개발 언어 32개", "property": "P277"},
+        {"name": "maturity", "bits": 3, "offset": 32, "description": "성숙도 8등급"},
+        {"name": "users", "bits": 4, "offset": 35, "description": "사용자 수 구간 16등급"},
+        {"name": "active", "bits": 2, "offset": 39, "description": "활성 상태 4개"},
+        {"name": "open_source", "bits": 2, "offset": 41, "description": "오픈소스 여부 4개"},
+        {"name": "category", "bits": 4, "offset": 43, "description": "카테고리 16개"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x3B_Website": {
+      "name": "웹사이트",
+      "qid": "Q35127",
+      "count": 12000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "운영국 256개", "property": "P17"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "개설연도 (1990+)", "property": "P571"},
+        {"name": "site_type", "bits": 4, "offset": 15, "description": "사이트 유형 16개", "property": "P31"},
+        {"name": "language", "bits": 5, "offset": 19, "description": "주요 언어 32개", "property": "P407"},
+        {"name": "traffic", "bits": 4, "offset": 24, "description": "트래픽 등급 16등급"},
+        {"name": "monetization", "bits": 3, "offset": 28, "description": "수익 모델 8개"},
+        {"name": "age", "bits": 4, "offset": 31, "description": "운영 기간 구간 16등급"},
+        {"name": "https", "bits": 1, "offset": 35, "description": "HTTPS 여부"},
+        {"name": "mobile", "bits": 2, "offset": 36, "description": "모바일 지원 4개"},
+        {"name": "accessibility", "bits": 2, "offset": 38, "description": "접근성 4등급"},
+        {"name": "content_type", "bits": 4, "offset": 40, "description": "콘텐츠 유형 16개"},
+        {"name": "registration", "bits": 2, "offset": 44, "description": "가입 필요 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x3C_SportsSeason": {
+      "name": "스포츠시즌",
+      "qid": "Q27020041",
+      "count": 183463,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "개최국 256개", "property": "P17"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "시즌 연도", "property": "P580"},
+        {"name": "sport", "bits": 5, "offset": 15, "description": "스포츠 종목 32개", "property": "P641"},
+        {"name": "league", "bits": 6, "offset": 20, "description": "리그 64개", "property": "P3450"},
+        {"name": "tier", "bits": 3, "offset": 26, "description": "부 등급 8개"},
+        {"name": "teams", "bits": 5, "offset": 29, "description": "팀 수 구간 32개"},
+        {"name": "matches", "bits": 5, "offset": 34, "description": "경기 수 구간 32개"},
+        {"name": "champion_type", "bits": 3, "offset": 39, "description": "우승 결정 방식 8개"},
+        {"name": "international", "bits": 2, "offset": 42, "description": "국제 대회 여부 4개"},
+        {"name": "postponed", "bits": 2, "offset": 44, "description": "연기/취소 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x3D_Event": {
+      "name": "이벤트",
+      "qid": "Q1656682",
+      "count": 10000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "개최국 256개", "property": "P17"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "개최연도", "property": "P580"},
+        {"name": "event_type", "bits": 5, "offset": 15, "description": "이벤트 유형 32개", "property": "P31"},
+        {"name": "scale", "bits": 4, "offset": 20, "description": "규모 16등급"},
+        {"name": "duration", "bits": 4, "offset": 24, "description": "기간 구간 16개"},
+        {"name": "attendance", "bits": 4, "offset": 28, "description": "참가자 수 구간 16개"},
+        {"name": "indoor", "bits": 2, "offset": 32, "description": "실내/실외 4개"},
+        {"name": "recurring", "bits": 2, "offset": 34, "description": "정기/일회 4개"},
+        {"name": "participants", "bits": 5, "offset": 36, "description": "참가 주체 수 32개"},
+        {"name": "media", "bits": 3, "offset": 41, "description": "미디어 커버리지 8등급"},
+        {"name": "sponsors", "bits": 3, "offset": 44, "description": "후원 규모 8등급"},
+        {"name": "flags", "bits": 1, "offset": 47, "description": "플래그"}
+      ]
+    },
+    "0x3E_Election": {
+      "name": "선거",
+      "qid": "Q40231",
+      "count": 11000,
+      "fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가 256개", "property": "P17"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "선거연도", "property": "P580"},
+        {"name": "election_type", "bits": 4, "offset": 15, "description": "선거 유형 16개", "property": "P31"},
+        {"name": "level", "bits": 3, "offset": 19, "description": "행정 수준 8개"},
+        {"name": "turnout", "bits": 4, "offset": 22, "description": "투표율 구간 16등급"},
+        {"name": "parties", "bits": 4, "offset": 26, "description": "참여 정당 수 16개"},
+        {"name": "winner_margin", "bits": 4, "offset": 30, "description": "승자 득표차 구간 16등급"},
+        {"name": "controversy", "bits": 3, "offset": 34, "description": "논란 수준 8등급"},
+        {"name": "runoff", "bits": 2, "offset": 37, "description": "결선투표 여부 4개"},
+        {"name": "electronic", "bits": 2, "offset": 39, "description": "전자투표 여부 4개"},
+        {"name": "observers", "bits": 3, "offset": 41, "description": "국제 감시단 8등급"},
+        {"name": "incumbent", "bits": 2, "offset": 44, "description": "현직자 재선 4개"},
+        {"name": "flags", "bits": 2, "offset": 46, "description": "플래그"}
+      ]
+    },
+    "0x3F_Other": {
+      "name": "기타",
+      "qid": null,
+      "count": 0,
+      "note": "확장용 예약",
+      "fields": [
+        {"name": "reserved", "bits": 48, "offset": 0, "description": "확장 예약"}
+      ]
+    }
+  },
+  "default_schema": {
+    "description": "정의되지 않은 타입용 기본 스키마",
+    "fields": [
+      {"name": "subtype", "bits": 8, "offset": 0, "description": "하위 타입"},
+      {"name": "country", "bits": 8, "offset": 8, "description": "관련 국가"},
+      {"name": "era", "bits": 4, "offset": 16, "description": "시대"},
+      {"name": "generic1", "bits": 8, "offset": 20, "description": "범용1"},
+      {"name": "generic2", "bits": 8, "offset": 28, "description": "범용2"},
+      {"name": "generic3", "bits": 6, "offset": 36, "description": "범용3"},
+      {"name": "generic4", "bits": 6, "offset": 42, "description": "범용4"}
+    ]
+  }
+}

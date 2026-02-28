@@ -1,0 +1,185 @@
+{
+  "version": "v1.0",
+  "description": "하위 타입 QID → 64개 EntityType 매핑. 인코더가 P31 값을 보고 적절한 타입으로 라우팅.",
+  "created": "2026-02-01",
+  "exclude": {
+    "description": "Wikimedia 내부 타입 - SIDX 인코딩 대상 아님",
+    "qids": [
+      {"qid": "Q4167836", "count": 5698822, "label": "Wikimedia category"},
+      {"qid": "Q4167410", "count": 1517308, "label": "Wikimedia disambiguation page"},
+      {"qid": "Q11266439", "count": 830519, "label": "Wikimedia template"},
+      {"qid": "Q13406463", "count": 378180, "label": "Wikimedia list article"},
+      {"qid": "Q115595777", "count": 140524, "label": "taxonomy template"}
+    ]
+  },
+  "mappings": {
+    "document_subtypes": {
+      "target_type": "0x31_Document",
+      "target_field": "doc_type",
+      "entries": [
+        {"qid": "Q13442814", "count": 45216368, "label": "scholarly article", "doc_type": 1},
+        {"qid": "Q13433827", "count": 642974, "label": "encyclopedia article", "doc_type": 2},
+        {"qid": "Q871232", "count": 513039, "label": "editorial", "doc_type": 3},
+        {"qid": "Q17633526", "count": 296002, "label": "Wikinews article", "doc_type": 4},
+        {"qid": "Q2782326", "count": 187462, "label": "case report", "doc_type": 5},
+        {"qid": "Q19389637", "count": 181805, "label": "biographical article", "doc_type": 6},
+        {"qid": "Q47461344", "count": 170007, "label": "written work", "doc_type": 7},
+        {"qid": "Q1580166", "count": 158057, "label": "dictionary entry", "doc_type": 8},
+        {"qid": "Q191067", "count": 155529, "label": "article", "doc_type": 9},
+        {"qid": "Q5633421", "count": 99940, "label": "scientific journal", "doc_type": 10},
+        {"qid": "Q87167", "count": 98681, "label": "manuscript", "doc_type": 11},
+        {"qid": "Q187685", "count": 94650, "label": "doctoral thesis", "doc_type": 12},
+        {"qid": "Q3331189", "count": 729756, "label": "version/edition/translation", "doc_type": 13},
+        {"qid": "Q815382", "count": 109676, "label": "meta-analysis", "doc_type": 14},
+        {"qid": "Q7604686", "count": 100092, "label": "UK Statutory Instrument", "doc_type": 15}
+      ]
+    },
+    "star_subtypes": {
+      "target_type": "0x0C_Star",
+      "target_field": "flags",
+      "flag_bits": {
+        "IR": 0, "Radio": 1, "X-ray": 2, "Binary": 3, "Variable": 4, "HighPM": 5
+      },
+      "entries": [
+        {"qid": "Q67206691", "count": 2621805, "label": "infrared source", "flag": "IR"},
+        {"qid": "Q1931185", "count": 396880, "label": "astronomical radio source", "flag": "Radio"},
+        {"qid": "Q2247863", "count": 306766, "label": "high proper-motion star", "flag": "HighPM"},
+        {"qid": "Q1457376", "count": 298485, "label": "eclipsing binary star", "flag": "Binary"},
+        {"qid": "Q2154519", "count": 157565, "label": "astrophysical X-ray source", "flag": "X-ray"},
+        {"qid": "Q1153690", "count": 101271, "label": "long-period variable star", "flag": "Variable"},
+        {"qid": "Q726242", "count": 96968, "label": "RR Lyrae variable", "flag": "Variable"}
+      ]
+    },
+    "village_subtypes": {
+      "target_type": "0x1D_Village",
+      "entries": [
+        {"qid": "Q13100073", "count": 592626, "label": "village of China"},
+        {"qid": "Q56436498", "count": 154095, "label": "village in India"}
+      ]
+    },
+    "settlement_subtypes": {
+      "target_type": "0x1C_Settlement",
+      "entries": [
+        {"qid": "Q985488", "count": 96640, "label": "residential community"}
+      ]
+    },
+    "stream_subtypes": {
+      "target_type": "0x18_Stream",
+      "entries": [
+        {"qid": "Q355304", "count": 174789, "label": "watercourse"}
+      ]
+    },
+    "hill_subtypes": {
+      "target_type": "0x15_Hill",
+      "entries": [
+        {"qid": "Q39816", "count": 134922, "label": "valley"}
+      ]
+    },
+    "school_subtypes": {
+      "target_type": "0x26_School",
+      "entries": [
+        {"qid": "Q1080794", "count": 188771, "label": "public school"}
+      ]
+    },
+    "building_subtypes": {
+      "target_type": "0x24_Building",
+      "entries": [
+        {"qid": "Q27686", "count": 131503, "label": "hotel"},
+        {"qid": "Q61443690", "count": 129183, "label": "branch post office"},
+        {"qid": "Q2065736", "count": 107479, "label": "cultural property"}
+      ]
+    },
+    "structure_subtypes": {
+      "target_type": "0x28_Structure",
+      "entries": [
+        {"qid": "Q55488", "count": 113556, "label": "railway station"}
+      ]
+    },
+    "painting_subtypes": {
+      "target_type": "0x30_Painting",
+      "target_field": "medium",
+      "entries": [
+        {"qid": "Q98276829", "count": 163839, "label": "porcelain ware", "medium": 10},
+        {"qid": "Q11060274", "count": 144901, "label": "print", "medium": 11},
+        {"qid": "Q860861", "count": 125054, "label": "sculpture", "medium": 12},
+        {"qid": "Q93184", "count": 122863, "label": "drawing", "medium": 13}
+      ]
+    },
+    "album_subtypes": {
+      "target_type": "0x34_Album",
+      "entries": [
+        {"qid": "Q134556", "count": 115325, "label": "single"}
+      ]
+    },
+    "literary_subtypes": {
+      "target_type": "0x32_LiteraryWork",
+      "entries": [
+        {"qid": "Q5185279", "count": 106076, "label": "poem"}
+      ]
+    },
+    "organization_subtypes": {
+      "target_type": "0x2C_Organization",
+      "entries": [
+        {"qid": "Q215380", "count": 95816, "label": "musical group"}
+      ]
+    },
+    "taxon_subtypes": {
+      "target_type": "0x01_Taxon",
+      "entries": [
+        {"qid": "Q23038290", "count": 116450, "label": "fossil taxon"}
+      ]
+    },
+    "gene_subtypes": {
+      "target_type": "0x02_Gene",
+      "entries": [
+        {"qid": "Q427087", "count": 98747, "label": "non-coding RNA"}
+      ]
+    },
+    "compound_subtypes": {
+      "target_type": "0x09_Compound",
+      "entries": [
+        {"qid": "Q59199015", "count": 148411, "label": "group of stereoisomers"}
+      ]
+    },
+    "event_subtypes": {
+      "target_type": "0x3D_Event",
+      "entries": [
+        {"qid": "Q30612", "count": 391919, "label": "clinical trial"}
+      ]
+    },
+    "sports_season_subtypes": {
+      "target_type": "0x3C_SportsSeason",
+      "entries": [
+        {"qid": "Q57733494", "count": 100495, "label": "badminton event"}
+      ]
+    },
+    "other_subtypes": {
+      "target_type": "0x3F_Other",
+      "target_field": "subtype",
+      "subtype_codes": {
+        "math": 1, "time": 2, "character": 3, "collection": 4, "position": 5
+      },
+      "entries": [
+        {"qid": "Q47150325", "count": 201356, "label": "calendar day", "subtype": "time"},
+        {"qid": "Q29654788", "count": 161479, "label": "Unicode character", "subtype": "character"},
+        {"qid": "Q49008", "count": 136820, "label": "prime number", "subtype": "math"},
+        {"qid": "Q28920044", "count": 121221, "label": "positive integer", "subtype": "math"},
+        {"qid": "Q50707", "count": 95193, "label": "composite number", "subtype": "math"},
+        {"qid": "Q2668072", "count": 504230, "label": "collection", "subtype": "collection"},
+        {"qid": "Q2342494", "count": 371472, "label": "collectible", "subtype": "collection"},
+        {"qid": "Q113813711", "count": 214456, "label": "coin type", "subtype": "collection"},
+        {"qid": "Q18593264", "count": 132519, "label": "item of collection", "subtype": "collection"},
+        {"qid": "Q4164871", "count": 128080, "label": "position", "subtype": "position"}
+      ]
+    }
+  },
+  "statistics": {
+    "total_wikidata": 117419925,
+    "excluded_wikimedia": 8565353,
+    "sidx_target": 108854572,
+    "direct_64_types": 36295074,
+    "mapped_subtypes": 71842429,
+    "other_fallback": 717069,
+    "coverage": "100%"
+  }
+}

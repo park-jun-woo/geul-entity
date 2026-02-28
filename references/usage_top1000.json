@@ -1,0 +1,7002 @@
+[
+  {
+    "object_label": "scholarly article",
+    "object_value": "Q13442814",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45216368
+  },
+  {
+    "object_label": "English",
+    "object_value": "Q1860",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 18833458
+  },
+  {
+    "object_label": "human",
+    "object_value": "Q5",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12553810
+  },
+  {
+    "object_label": "J2000.0",
+    "object_value": "Q1264450",
+    "property_id": "P6259",
+    "property_label": "epoch",
+    "usage_count": 8072918
+  },
+  {
+    "object_label": "male",
+    "object_value": "Q6581097",
+    "property_id": "P21",
+    "property_label": "sex or gender",
+    "usage_count": 7512152
+  },
+  {
+    "object_label": "Wikimedia category",
+    "object_value": "Q4167836",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5698822
+  },
+  {
+    "object_label": "taxon",
+    "object_value": "Q16521",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3787844
+  },
+  {
+    "object_label": "star",
+    "object_value": "Q523",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3634978
+  },
+  {
+    "object_label": "Chinese",
+    "object_value": "Q7850",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 3391456
+  },
+  {
+    "object_label": "species",
+    "object_value": "Q7432",
+    "property_id": "P105",
+    "property_label": "taxon rank",
+    "usage_count": 3236766
+  },
+  {
+    "object_label": "female",
+    "object_value": "Q6581072",
+    "property_id": "P21",
+    "property_label": "sex or gender",
+    "usage_count": 2722547
+  },
+  {
+    "object_label": "infrared source",
+    "object_value": "Q67206691",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 2621805
+  },
+  {
+    "object_label": "copyrighted",
+    "object_value": "Q50423863",
+    "property_id": "P6216",
+    "property_label": "copyright status",
+    "usage_count": 2470472
+  },
+  {
+    "object_label": "United States",
+    "object_value": "Q30",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 2160776
+  },
+  {
+    "object_label": "galaxy",
+    "object_value": "Q318",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 2133383
+  },
+  {
+    "object_label": "review article",
+    "object_value": "Q7318358",
+    "property_id": "P13046",
+    "property_label": "publication type of scholarly work",
+    "usage_count": 2099779
+  },
+  {
+    "object_label": "researcher",
+    "object_value": "Q1650915",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 2078523
+  },
+  {
+    "object_label": "public domain",
+    "object_value": "Q19652",
+    "property_id": "P6216",
+    "property_label": "copyright status",
+    "usage_count": 1974699
+  },
+  {
+    "object_label": "France",
+    "object_value": "Q142",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 1647119
+  },
+  {
+    "object_label": "Wikimedia disambiguation page",
+    "object_value": "Q4167410",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1517308
+  },
+  {
+    "object_label": "Creative Commons Attribution 4.0 International",
+    "object_value": "Q20007257",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 1481176
+  },
+  {
+    "object_label": "Germany",
+    "object_value": "Q183",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 1357368
+  },
+  {
+    "object_label": "type of chemical entity",
+    "object_value": "Q113145171",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1278857
+  },
+  {
+    "object_label": "gene",
+    "object_value": "Q7187",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1225271
+  },
+  {
+    "object_label": "United Kingdom",
+    "object_value": "Q145",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 1159827
+  },
+  {
+    "object_label": "chemical compound",
+    "object_value": "Q11173",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 1061080
+  },
+  {
+    "object_label": "painting",
+    "object_value": "Q3305213",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1060257
+  },
+  {
+    "object_label": "protein",
+    "object_value": "Q8054",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1014021
+  },
+  {
+    "object_label": "People's Republic of China",
+    "object_value": "Q148",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 1013891
+  },
+  {
+    "object_label": "protein-coding gene",
+    "object_value": "Q20747295",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 945998
+  },
+  {
+    "object_label": "India",
+    "object_value": "Q668",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 905316
+  },
+  {
+    "object_label": "politician",
+    "object_value": "Q82955",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 880372
+  },
+  {
+    "object_label": "Wikimedia template",
+    "object_value": "Q11266439",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 830519
+  },
+  {
+    "object_label": "German",
+    "object_value": "Q188",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 818831
+  },
+  {
+    "object_label": "UTC+08:00",
+    "object_value": "Q6985",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 781095
+  },
+  {
+    "object_label": "protein",
+    "object_value": "Q8054",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 769242
+  },
+  {
+    "object_label": "Russian",
+    "object_value": "Q7737",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 737999
+  },
+  {
+    "object_label": "version, edition or translation",
+    "object_value": "Q3331189",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 729756
+  },
+  {
+    "object_label": "street",
+    "object_value": "Q79007",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 710621
+  },
+  {
+    "object_label": "Latin script",
+    "object_value": "Q8229",
+    "property_id": "P282",
+    "property_label": "writing system",
+    "usage_count": 693229
+  },
+  {
+    "object_label": "English",
+    "object_value": "Q1860",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 687363
+  },
+  {
+    "object_label": "family name",
+    "object_value": "Q101352",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 661697
+  },
+  {
+    "object_label": "association football",
+    "object_value": "Q2736",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 656986
+  },
+  {
+    "object_label": "encyclopedia article",
+    "object_value": "Q13433827",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 642974
+  },
+  {
+    "object_label": "United States",
+    "object_value": "Q30",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 626953
+  },
+  {
+    "object_label": "National Archives and Records Administration",
+    "object_value": "Q518155",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 616829
+  },
+  {
+    "object_label": "village of the People's Republic of China",
+    "object_value": "Q13100073",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 592626
+  },
+  {
+    "object_label": "oil paint",
+    "object_value": "Q296955",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 589098
+  },
+  {
+    "object_label": "Spain",
+    "object_value": "Q29",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 581828
+  },
+  {
+    "object_label": "human settlement",
+    "object_value": "Q486972",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 580084
+  },
+  {
+    "object_label": "French",
+    "object_value": "Q150",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 565213
+  },
+  {
+    "object_label": "human",
+    "object_value": "Q5",
+    "property_id": "P4224",
+    "property_label": "category contains",
+    "usage_count": 544101
+  },
+  {
+    "object_label": "forward strand",
+    "object_value": "Q22809680",
+    "property_id": "P2548",
+    "property_label": "strand orientation",
+    "usage_count": 536602
+  },
+  {
+    "object_label": "reverse strand",
+    "object_value": "Q22809711",
+    "property_id": "P2548",
+    "property_label": "strand orientation",
+    "usage_count": 533292
+  },
+  {
+    "object_label": "WikiProject Mathematics",
+    "object_value": "Q8487137",
+    "property_id": "P6104",
+    "property_label": "maintained by WikiProject",
+    "usage_count": 533011
+  },
+  {
+    "object_label": "organization",
+    "object_value": "Q43229",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 531222
+  },
+  {
+    "object_label": "Canada",
+    "object_value": "Q16",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 518935
+  },
+  {
+    "object_label": "mountain",
+    "object_value": "Q8502",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 518080
+  },
+  {
+    "object_label": "Italy",
+    "object_value": "Q38",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 517160
+  },
+  {
+    "object_label": "Indonesia",
+    "object_value": "Q252",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 513317
+  },
+  {
+    "object_label": "editorial",
+    "object_value": "Q871232",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 513039
+  },
+  {
+    "object_label": "collection",
+    "object_value": "Q2668072",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 504230
+  },
+  {
+    "object_label": "Russia",
+    "object_value": "Q159",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 503589
+  },
+  {
+    "object_label": "Netherlands",
+    "object_value": "Q55",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 488594
+  },
+  {
+    "object_label": "canvas",
+    "object_value": "Q12321255",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 480979
+  },
+  {
+    "object_label": "gene",
+    "object_value": "Q7187",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 453798
+  },
+  {
+    "object_label": "Qing dynasty",
+    "object_value": "Q8733",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 440801
+  },
+  {
+    "object_label": "Norway",
+    "object_value": "Q20",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 436262
+  },
+  {
+    "object_label": "Sweden",
+    "object_value": "Q34",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 431870
+  },
+  {
+    "object_label": "Czech Republic",
+    "object_value": "Q213",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 431239
+  },
+  {
+    "object_label": "river",
+    "object_value": "Q4022",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 426873
+  },
+  {
+    "object_label": "The BMJ",
+    "object_value": "Q546003",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 407538
+  },
+  {
+    "object_label": "German",
+    "object_value": "Q188",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 400043
+  },
+  {
+    "object_label": "astronomical radio source",
+    "object_value": "Q1931185",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 396880
+  },
+  {
+    "object_label": "literary work",
+    "object_value": "Q7725634",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 395411
+  },
+  {
+    "object_label": "clinical trial",
+    "object_value": "Q30612",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 391919
+  },
+  {
+    "object_label": "writer",
+    "object_value": "Q36180",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 390854
+  },
+  {
+    "object_label": "Nature",
+    "object_value": "Q180445",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 384609
+  },
+  {
+    "object_label": "association football player",
+    "object_value": "Q937857",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 379434
+  },
+  {
+    "object_label": "Wikimedia list article",
+    "object_value": "Q13406463",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 378180
+  },
+  {
+    "object_label": "Japan",
+    "object_value": "Q17",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 377183
+  },
+  {
+    "object_label": "Grade II listed building",
+    "object_value": "Q15700834",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 377114
+  },
+  {
+    "object_label": "French",
+    "object_value": "Q150",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 376337
+  },
+  {
+    "object_label": "France",
+    "object_value": "Q142",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 373866
+  },
+  {
+    "object_label": "unrestricted access",
+    "object_value": "Q66739888",
+    "property_id": "P7228",
+    "property_label": "access restriction status",
+    "usage_count": 372444
+  },
+  {
+    "object_label": "collectible",
+    "object_value": "Q2342494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 371472
+  },
+  {
+    "object_label": "Swedish",
+    "object_value": "Q9027",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 366580
+  },
+  {
+    "object_label": "Mexico",
+    "object_value": "Q96",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 360934
+  },
+  {
+    "object_label": "actor",
+    "object_value": "Q33999",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 358834
+  },
+  {
+    "object_label": "United States",
+    "object_value": "Q30",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 339098
+  },
+  {
+    "object_label": "film",
+    "object_value": "Q11424",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 335651
+  },
+  {
+    "object_label": "Virgo",
+    "object_value": "Q8842",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 332198
+  },
+  {
+    "object_label": "Sagittarius",
+    "object_value": "Q8866",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 331717
+  },
+  {
+    "object_label": "hill",
+    "object_value": "Q54050",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 321151
+  },
+  {
+    "object_label": "Germany",
+    "object_value": "Q183",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 320043
+  },
+  {
+    "object_label": "UTC+01:00",
+    "object_value": "Q6655",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 317810
+  },
+  {
+    "object_label": "UTC+02:00",
+    "object_value": "Q6723",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 317493
+  },
+  {
+    "object_label": "unrestricted access",
+    "object_value": "Q66739888",
+    "property_id": "P7261",
+    "property_label": "use restriction status",
+    "usage_count": 308058
+  },
+  {
+    "object_label": "Japanese",
+    "object_value": "Q5287",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 307660
+  },
+  {
+    "object_label": "Poland",
+    "object_value": "Q36",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 306952
+  },
+  {
+    "object_label": "high proper-motion star",
+    "object_value": "Q2247863",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 306766
+  },
+  {
+    "object_label": "interventional study",
+    "object_value": "Q78089383",
+    "property_id": "P8363",
+    "property_label": "study type",
+    "usage_count": 304627
+  },
+  {
+    "object_label": "Spanish",
+    "object_value": "Q1321",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 304432
+  },
+  {
+    "object_label": "album",
+    "object_value": "Q482994",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 303243
+  },
+  {
+    "object_label": "eclipsing binary star",
+    "object_value": "Q1457376",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 298485
+  },
+  {
+    "object_label": "cemetery",
+    "object_value": "Q39614",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 298046
+  },
+  {
+    "object_label": "Wikinews article",
+    "object_value": "Q17633526",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 296002
+  },
+  {
+    "object_label": "lake",
+    "object_value": "Q23397",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 292152
+  },
+  {
+    "object_label": "building",
+    "object_value": "Q41176",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 291961
+  },
+  {
+    "object_label": "United States patent",
+    "object_value": "Q43305660",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 289010
+  },
+  {
+    "object_label": "consent",
+    "object_value": "Q231043",
+    "property_id": "P793",
+    "property_label": "significant event",
+    "usage_count": 288845
+  },
+  {
+    "object_label": "filing",
+    "object_value": "Q17146064",
+    "property_id": "P793",
+    "property_label": "significant event",
+    "usage_count": 288838
+  },
+  {
+    "object_label": "university teacher",
+    "object_value": "Q1622272",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 287802
+  },
+  {
+    "object_label": "church building",
+    "object_value": "Q16970",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 286141
+  },
+  {
+    "object_label": "basketball",
+    "object_value": "Q5372",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 285965
+  },
+  {
+    "object_label": "genus",
+    "object_value": "Q34740",
+    "property_id": "P105",
+    "property_label": "taxon rank",
+    "usage_count": 278760
+  },
+  {
+    "object_label": "Sweden",
+    "object_value": "Q34",
+    "property_id": "P1001",
+    "property_label": "applies to jurisdiction",
+    "usage_count": 270246
+  },
+  {
+    "object_label": "Brazil",
+    "object_value": "Q155",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 269500
+  },
+  {
+    "object_label": "Australia",
+    "object_value": "Q408",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 269066
+  },
+  {
+    "object_label": "Czech",
+    "object_value": "Q9056",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 267890
+  },
+  {
+    "object_label": "National Museum of China",
+    "object_value": "Q1074318",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 267756
+  },
+  {
+    "object_label": "National Museum of China",
+    "object_value": "Q1074318",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 267754
+  },
+  {
+    "object_label": "series",
+    "object_value": "Q3511132",
+    "property_id": "P6224",
+    "property_label": "level of description",
+    "usage_count": 265807
+  },
+  {
+    "object_label": "diurnality",
+    "object_value": "Q4284186",
+    "property_id": "P9566",
+    "property_label": "diel cycle",
+    "usage_count": 261863
+  },
+  {
+    "object_label": "Ursa Major",
+    "object_value": "Q8918",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 259483
+  },
+  {
+    "object_label": "Project Riksdagen's documents",
+    "object_value": "Q114364300",
+    "property_id": "P6104",
+    "property_label": "maintained by WikiProject",
+    "usage_count": 257904
+  },
+  {
+    "object_label": "works protected by copyrights",
+    "object_value": "Q73555012",
+    "property_id": "P7763",
+    "property_label": "copyright status as a creator",
+    "usage_count": 253728
+  },
+  {
+    "object_label": null,
+    "object_value": "Q564954",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 252453
+  },
+  {
+    "object_label": "Japan",
+    "object_value": "Q17",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 249660
+  },
+  {
+    "object_label": "asteroid",
+    "object_value": "Q3863",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 248597
+  },
+  {
+    "object_label": "Russian Empire",
+    "object_value": "Q34266",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 246576
+  },
+  {
+    "object_label": "village",
+    "object_value": "Q532",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 245116
+  },
+  {
+    "object_label": "Cetus",
+    "object_value": "Q8839",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 244807
+  },
+  {
+    "object_label": "primary school",
+    "object_value": "Q9842",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 242467
+  },
+  {
+    "object_label": "Polish",
+    "object_value": "Q809",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 241769
+  },
+  {
+    "object_label": "business",
+    "object_value": "Q4830453",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 241620
+  },
+  {
+    "object_label": "Spanish",
+    "object_value": "Q1321",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 237934
+  },
+  {
+    "object_label": "house",
+    "object_value": "Q3947",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 234919
+  },
+  {
+    "object_label": "National Archives Building",
+    "object_value": "Q6970416",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 234559
+  },
+  {
+    "object_label": "National Archives at Washington, DC - Textual Reference",
+    "object_value": "Q59661072",
+    "property_id": "P126",
+    "property_label": "maintained by",
+    "usage_count": 232952
+  },
+  {
+    "object_label": "basketball player",
+    "object_value": "Q3665646",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 228285
+  },
+  {
+    "object_label": "file unit",
+    "object_value": "Q59221146",
+    "property_id": "P6224",
+    "property_label": "level of description",
+    "usage_count": 228182
+  },
+  {
+    "object_label": "United Kingdom",
+    "object_value": "Q145",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 223837
+  },
+  {
+    "object_label": "Cygnus",
+    "object_value": "Q8921",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 219218
+  },
+  {
+    "object_label": "painter",
+    "object_value": "Q1028181",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 216735
+  },
+  {
+    "object_label": "Ukraine",
+    "object_value": "Q212",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 216187
+  },
+  {
+    "object_label": "architectural structure",
+    "object_value": "Q811979",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 216026
+  },
+  {
+    "object_label": "coin type",
+    "object_value": "Q113813711",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 214456
+  },
+  {
+    "object_label": "Italian",
+    "object_value": "Q652",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 213015
+  },
+  {
+    "object_label": "Carded Records Showing Military Service of Soldiers Who Fought in Volunteer Organizations During the American Civil War (NAID 300398)",
+    "object_value": "Q64177498",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 207499
+  },
+  {
+    "object_label": "Leo",
+    "object_value": "Q8853",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 206408
+  },
+  {
+    "object_label": "calendar day of a given year",
+    "object_value": "Q47150325",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 201356
+  },
+  {
+    "object_label": "Iran",
+    "object_value": "Q794",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 200795
+  },
+  {
+    "object_label": "Finland",
+    "object_value": "Q33",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 195138
+  },
+  {
+    "object_label": "musical work/composition",
+    "object_value": "Q105543609",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 194833
+  },
+  {
+    "object_label": "copyrights on works have expired",
+    "object_value": "Q71887839",
+    "property_id": "P7763",
+    "property_label": "copyright status as a creator",
+    "usage_count": 194679
+  },
+  {
+    "object_label": "stream",
+    "object_value": "Q47521",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 194388
+  },
+  {
+    "object_label": "Science",
+    "object_value": "Q192864",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 190134
+  },
+  {
+    "object_label": "public school",
+    "object_value": "Q1080794",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 188771
+  },
+  {
+    "object_label": "Hercules",
+    "object_value": "Q10448",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 188579
+  },
+  {
+    "object_label": "case report",
+    "object_value": "Q2782326",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 187462
+  },
+  {
+    "object_label": "Creative Commons Attribution 3.0 Unported",
+    "object_value": "Q14947546",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 187370
+  },
+  {
+    "object_label": "Scorpius",
+    "object_value": "Q8865",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 184528
+  },
+  {
+    "object_label": "Boötes",
+    "object_value": "Q8667",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 184060
+  },
+  {
+    "object_label": "Journal of Biological Chemistry",
+    "object_value": "Q867727",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 183759
+  },
+  {
+    "object_label": "ImageJ",
+    "object_value": "Q1659584",
+    "property_id": "P4510",
+    "property_label": "describes a project that uses",
+    "usage_count": 183692
+  },
+  {
+    "object_label": "sports season",
+    "object_value": "Q27020041",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 183463
+  },
+  {
+    "object_label": "Centaurus",
+    "object_value": "Q8844",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 182940
+  },
+  {
+    "object_label": "biographical article",
+    "object_value": "Q19389637",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 181805
+  },
+  {
+    "object_label": "journalist",
+    "object_value": "Q1930187",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 178680
+  },
+  {
+    "object_label": "quasar",
+    "object_value": "Q83373",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 178336
+  },
+  {
+    "object_label": "television series episode",
+    "object_value": "Q21191270",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 177351
+  },
+  {
+    "object_label": "Sextans",
+    "object_value": "Q10525",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 176967
+  },
+  {
+    "object_label": "English",
+    "object_value": "Q1860",
+    "property_id": "P364",
+    "property_label": "original language of film or TV show",
+    "usage_count": 176864
+  },
+  {
+    "object_label": "Aquarius",
+    "object_value": "Q10576",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 175752
+  },
+  {
+    "object_label": "watercourse",
+    "object_value": "Q355304",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 174789
+  },
+  {
+    "object_label": "Ophiuchus",
+    "object_value": "Q8906",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 173718
+  },
+  {
+    "object_label": "Austria",
+    "object_value": "Q40",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 172488
+  },
+  {
+    "object_label": "video game",
+    "object_value": "Q7889",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 171517
+  },
+  {
+    "object_label": "written work",
+    "object_value": "Q47461344",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 170007
+  },
+  {
+    "object_label": "UTC+03:00",
+    "object_value": "Q6760",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 169829
+  },
+  {
+    "object_label": "limited liability company (with no further details)",
+    "object_value": "Q98889979",
+    "property_id": "P1454",
+    "property_label": "legal form",
+    "usage_count": 168666
+  },
+  {
+    "object_label": "Spain",
+    "object_value": "Q29",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 164627
+  },
+  {
+    "object_label": "porcelain ware",
+    "object_value": "Q98276829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 163839
+  },
+  {
+    "object_label": "badminton",
+    "object_value": "Q7291",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 162994
+  },
+  {
+    "object_label": "Unicode character",
+    "object_value": "Q29654788",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 161479
+  },
+  {
+    "object_label": "Catholicism",
+    "object_value": "Q1841",
+    "property_id": "P140",
+    "property_label": "religion or worldview",
+    "usage_count": 160618
+  },
+  {
+    "object_label": "portrait",
+    "object_value": "Q134307",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 159944
+  },
+  {
+    "object_label": "Italian",
+    "object_value": "Q652",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 159280
+  },
+  {
+    "object_label": "dictionary entry",
+    "object_value": "Q1580166",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 158057
+  },
+  {
+    "object_label": "société par actions simplifiée",
+    "object_value": "Q112176862",
+    "property_id": "P1454",
+    "property_label": "legal form",
+    "usage_count": 158032
+  },
+  {
+    "object_label": "astrophysical X-ray source",
+    "object_value": "Q2154519",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 157565
+  },
+  {
+    "object_label": "article",
+    "object_value": "Q191067",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 155529
+  },
+  {
+    "object_label": "India Post",
+    "object_value": "Q3519720",
+    "property_id": "P127",
+    "property_label": "owned by",
+    "usage_count": 154766
+  },
+  {
+    "object_label": "village in India",
+    "object_value": "Q56436498",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 154095
+  },
+  {
+    "object_label": "cell line",
+    "object_value": "Q21014462",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 153636
+  },
+  {
+    "object_label": "island",
+    "object_value": "Q23442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 152610
+  },
+  {
+    "object_label": "Hydra",
+    "object_value": "Q10578",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 152403
+  },
+  {
+    "object_label": "subspecies",
+    "object_value": "Q68947",
+    "property_id": "P105",
+    "property_label": "taxon rank",
+    "usage_count": 152336
+  },
+  {
+    "object_label": "Proceedings of the National Academy of Sciences of the United States of America",
+    "object_value": "Q1146531",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 151638
+  },
+  {
+    "object_label": "Italy",
+    "object_value": "Q38",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 149951
+  },
+  {
+    "object_label": "group of stereoisomers",
+    "object_value": "Q59199015",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 148411
+  },
+  {
+    "object_label": "hamlet",
+    "object_value": "Q5084",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 148250
+  },
+  {
+    "object_label": "Homo sapiens",
+    "object_value": "Q15978631",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 147739
+  },
+  {
+    "object_label": "architectural heritage monument in Bavaria",
+    "object_value": "Q17297633",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 146154
+  },
+  {
+    "object_label": "Escherichia coli",
+    "object_value": "Q25419",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 146073
+  },
+  {
+    "object_label": "monument in Fornminnesregistret",
+    "object_value": "Q21287602",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 145509
+  },
+  {
+    "object_label": "sports venue",
+    "object_value": "Q1076486",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 145076
+  },
+  {
+    "object_label": "print",
+    "object_value": "Q11060274",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 144901
+  },
+  {
+    "object_label": "coin",
+    "object_value": "Q41207",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 142530
+  },
+  {
+    "object_label": "The Lancet",
+    "object_value": "Q939416",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 142441
+  },
+  {
+    "object_label": "variety",
+    "object_value": "Q767728",
+    "property_id": "P105",
+    "property_label": "taxon rank",
+    "usage_count": 142342
+  },
+  {
+    "object_label": "John",
+    "object_value": "Q4925477",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 142316
+  },
+  {
+    "object_label": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "object_value": "Q34179348",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 141819
+  },
+  {
+    "object_label": "single-player video game",
+    "object_value": "Q208850",
+    "property_id": "P404",
+    "property_label": "game mode",
+    "usage_count": 140879
+  },
+  {
+    "object_label": "taxonomy template",
+    "object_value": "Q115595777",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 140524
+  },
+  {
+    "object_label": "document",
+    "object_value": "Q49848",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 139969
+  },
+  {
+    "object_label": "Scientific Reports",
+    "object_value": "Q2261792",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 139920
+  },
+  {
+    "object_label": "Soviet Union",
+    "object_value": "Q15180",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 139766
+  },
+  {
+    "object_label": "Microsoft Windows",
+    "object_value": "Q1406",
+    "property_id": "P400",
+    "property_label": "platform",
+    "usage_count": 139432
+  },
+  {
+    "object_label": "Draco",
+    "object_value": "Q8675",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 137436
+  },
+  {
+    "object_label": "Ireland",
+    "object_value": "Q27",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 137018
+  },
+  {
+    "object_label": "prime number",
+    "object_value": "Q49008",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 136820
+  },
+  {
+    "object_label": "Turkey",
+    "object_value": "Q43",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 136786
+  },
+  {
+    "object_label": "membrane",
+    "object_value": "Q14349455",
+    "property_id": "P681",
+    "property_label": "cell component",
+    "usage_count": 135500
+  },
+  {
+    "object_label": "valley",
+    "object_value": "Q39816",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 134922
+  },
+  {
+    "object_label": "National Archives at College Park",
+    "object_value": "Q38945047",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 133275
+  },
+  {
+    "object_label": "Pegasus",
+    "object_value": "Q8864",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 132662
+  },
+  {
+    "object_label": "item of collection or exhibition",
+    "object_value": "Q18593264",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 132519
+  },
+  {
+    "object_label": "in use",
+    "object_value": "Q55654238",
+    "property_id": "P5817",
+    "property_label": "state of use",
+    "usage_count": 131688
+  },
+  {
+    "object_label": "hotel",
+    "object_value": "Q27686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 131503
+  },
+  {
+    "object_label": "Puppis",
+    "object_value": "Q9251",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 130480
+  },
+  {
+    "object_label": "digital distribution",
+    "object_value": "Q269415",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 130130
+  },
+  {
+    "object_label": "biochemistry",
+    "object_value": "Q7094",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 129582
+  },
+  {
+    "object_label": "Holocaust victim",
+    "object_value": "Q5883980",
+    "property_id": "P2868",
+    "property_label": "subject has role",
+    "usage_count": 129186
+  },
+  {
+    "object_label": "branch post office",
+    "object_value": "Q61443690",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 129183
+  },
+  {
+    "object_label": "position",
+    "object_value": "Q4164871",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 128080
+  },
+  {
+    "object_label": "National Gallery of Art",
+    "object_value": "Q214867",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 127977
+  },
+  {
+    "object_label": "Steam",
+    "object_value": "Q337535",
+    "property_id": "P750",
+    "property_label": "distributed by",
+    "usage_count": 127865
+  },
+  {
+    "object_label": "The Palace Museum",
+    "object_value": "Q2047427",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 127603
+  },
+  {
+    "object_label": "The Palace Museum",
+    "object_value": "Q2047427",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 127599
+  },
+  {
+    "object_label": "Belgium",
+    "object_value": "Q31",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 127348
+  },
+  {
+    "object_label": "cell biology",
+    "object_value": "Q7141",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 126478
+  },
+  {
+    "object_label": "Republic of China",
+    "object_value": "Q13426199",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 126449
+  },
+  {
+    "object_label": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+    "object_value": "Q18810331",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 126326
+  },
+  {
+    "object_label": "WikiProject Badminton/tournament focus list",
+    "object_value": "Q66098665",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 126035
+  },
+  {
+    "object_label": "Sculptor",
+    "object_value": "Q9286",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 125533
+  },
+  {
+    "object_label": "circle",
+    "object_value": "Q17278",
+    "property_id": "P1419",
+    "property_label": "shape",
+    "usage_count": 125078
+  },
+  {
+    "object_label": "sculpture",
+    "object_value": "Q860861",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 125054
+  },
+  {
+    "object_label": "integral component of membrane",
+    "object_value": "Q14327652",
+    "property_id": "P681",
+    "property_label": "cell component",
+    "usage_count": 124532
+  },
+  {
+    "object_label": "Russian",
+    "object_value": "Q7737",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 124370
+  },
+  {
+    "object_label": "poet",
+    "object_value": "Q49757",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 124167
+  },
+  {
+    "object_label": "Ming dynasty",
+    "object_value": "Q9903",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 124163
+  },
+  {
+    "object_label": "Switzerland",
+    "object_value": "Q39",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 123713
+  },
+  {
+    "object_label": "Aquila",
+    "object_value": "Q10586",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 123344
+  },
+  {
+    "object_label": "drawing",
+    "object_value": "Q93184",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 122863
+  },
+  {
+    "object_label": "Poland",
+    "object_value": "Q36",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 122385
+  },
+  {
+    "object_label": "Theresienstadt Ghetto",
+    "object_value": "Q15111616",
+    "property_id": "P2632",
+    "property_label": "place of detention",
+    "usage_count": 122297
+  },
+  {
+    "object_label": "singer",
+    "object_value": "Q177220",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 121504
+  },
+  {
+    "object_label": "poem",
+    "object_value": "Q5185279",
+    "property_id": "P7937",
+    "property_label": "form of creative work",
+    "usage_count": 121240
+  },
+  {
+    "object_label": "novel",
+    "object_value": "Q8261",
+    "property_id": "P7937",
+    "property_label": "form of creative work",
+    "usage_count": 121222
+  },
+  {
+    "object_label": "positive integer",
+    "object_value": "Q28920044",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 121221
+  },
+  {
+    "object_label": "National Gallery of Art",
+    "object_value": "Q214867",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 120657
+  },
+  {
+    "object_label": "Pisces",
+    "object_value": "Q8679",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 119216
+  },
+  {
+    "object_label": "item",
+    "object_value": "Q11723795",
+    "property_id": "P6224",
+    "property_label": "level of description",
+    "usage_count": 118990
+  },
+  {
+    "object_label": "historian",
+    "object_value": "Q201788",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 118512
+  },
+  {
+    "object_label": "Canes Venatici",
+    "object_value": "Q10452",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 118353
+  },
+  {
+    "object_label": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "object_value": "Q24082749",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 117529
+  },
+  {
+    "object_label": "Eridanus",
+    "object_value": "Q10433",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 117107
+  },
+  {
+    "object_label": "fossil taxon",
+    "object_value": "Q23038290",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 116450
+  },
+  {
+    "object_label": "Fornax",
+    "object_value": "Q8913",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 116261
+  },
+  {
+    "object_label": "single",
+    "object_value": "Q134556",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 115325
+  },
+  {
+    "object_label": "Canada",
+    "object_value": "Q16",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 115132
+  },
+  {
+    "object_label": "Dorado",
+    "object_value": "Q8837",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 114884
+  },
+  {
+    "object_label": "Homo sapiens",
+    "object_value": "Q15978631",
+    "property_id": "P9072",
+    "property_label": "derived from organism type",
+    "usage_count": 114173
+  },
+  {
+    "object_label": "Catholic Church",
+    "object_value": "Q9592",
+    "property_id": "P140",
+    "property_label": "religion or worldview",
+    "usage_count": 114001
+  },
+  {
+    "object_label": "Sweden",
+    "object_value": "Q34",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 113614
+  },
+  {
+    "object_label": "railway station",
+    "object_value": "Q55488",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 113556
+  },
+  {
+    "object_label": "composer",
+    "object_value": "Q36834",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 113152
+  },
+  {
+    "object_label": "NCAA Division I men's basketball",
+    "object_value": "Q94861615",
+    "property_id": "P118",
+    "property_label": "league or competition",
+    "usage_count": 113043
+  },
+  {
+    "object_label": "paper",
+    "object_value": "Q11472",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 111809
+  },
+  {
+    "object_label": "color",
+    "object_value": "Q22006653",
+    "property_id": "P462",
+    "property_label": "color",
+    "usage_count": 111452
+  },
+  {
+    "object_label": "Monoceros",
+    "object_value": "Q10428",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 109844
+  },
+  {
+    "object_label": "2010 United States Census surname index",
+    "object_value": "Q92953148",
+    "property_id": "P5323",
+    "property_label": "attested in",
+    "usage_count": 109734
+  },
+  {
+    "object_label": "meta-analysis",
+    "object_value": "Q815382",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 109676
+  },
+  {
+    "object_label": "Ming dynasty",
+    "object_value": "Q9903",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 109405
+  },
+  {
+    "object_label": "Cancer",
+    "object_value": "Q8849",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 107899
+  },
+  {
+    "object_label": "cultural property",
+    "object_value": "Q2065736",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 107479
+  },
+  {
+    "object_label": "cultural heritage monument in Germany",
+    "object_value": "Q11691318",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 107336
+  },
+  {
+    "object_label": "Carina",
+    "object_value": "Q10470",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 107115
+  },
+  {
+    "object_label": "military personnel",
+    "object_value": "Q47064",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 106832
+  },
+  {
+    "object_label": "poem",
+    "object_value": "Q5185279",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 106076
+  },
+  {
+    "object_label": "physician",
+    "object_value": "Q39631",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 105677
+  },
+  {
+    "object_label": "Japan",
+    "object_value": "Q17",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 105529
+  },
+  {
+    "object_label": "Polish",
+    "object_value": "Q809",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 105513
+  },
+  {
+    "object_label": "Coma Berenices",
+    "object_value": "Q9285",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 104683
+  },
+  {
+    "object_label": "lawyer",
+    "object_value": "Q40348",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 104283
+  },
+  {
+    "object_label": "Indonesia",
+    "object_value": "Q252",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 104259
+  },
+  {
+    "object_label": "Prague",
+    "object_value": "Q1085",
+    "property_id": "P291",
+    "property_label": "place of publication",
+    "usage_count": 104216
+  },
+  {
+    "object_label": "Kingdom of the Netherlands",
+    "object_value": "Q29999",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 103664
+  },
+  {
+    "object_label": "Sun",
+    "object_value": "Q525",
+    "property_id": "P397",
+    "property_label": "parent astronomical body",
+    "usage_count": 103070
+  },
+  {
+    "object_label": "object classified as a historical monument",
+    "object_value": "Q61058403",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 102906
+  },
+  {
+    "object_label": "milled coinage",
+    "object_value": "Q3860741",
+    "property_id": "P2079",
+    "property_label": "fabrication method",
+    "usage_count": 102594
+  },
+  {
+    "object_label": "Denmark",
+    "object_value": "Q35",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 101739
+  },
+  {
+    "object_label": "long-period variable star",
+    "object_value": "Q1153690",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 101271
+  },
+  {
+    "object_label": "voice",
+    "object_value": "Q17172850",
+    "property_id": "P1303",
+    "property_label": "instrument",
+    "usage_count": 101143
+  },
+  {
+    "object_label": "badminton event",
+    "object_value": "Q57733494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 100495
+  },
+  {
+    "object_label": "Lynx",
+    "object_value": "Q10443",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 100297
+  },
+  {
+    "object_label": "UK Statutory Instrument",
+    "object_value": "Q7604686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 100092
+  },
+  {
+    "object_label": "Russia",
+    "object_value": "Q159",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 100068
+  },
+  {
+    "object_label": "scientific journal",
+    "object_value": "Q5633421",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 99940
+  },
+  {
+    "object_label": "religious art",
+    "object_value": "Q2864737",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 99670
+  },
+  {
+    "object_label": "undetermined use restriction",
+    "object_value": "Q99868032",
+    "property_id": "P7261",
+    "property_label": "use restriction status",
+    "usage_count": 99505
+  },
+  {
+    "object_label": "Biochimica et Biophysica Acta",
+    "object_value": "Q864239",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 99477
+  },
+  {
+    "object_label": "Vela",
+    "object_value": "Q10521",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 98893
+  },
+  {
+    "object_label": "non-coding RNA",
+    "object_value": "Q427087",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 98747
+  },
+  {
+    "object_label": "cultural heritage monument in Hesse",
+    "object_value": "Q85171284",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 98741
+  },
+  {
+    "object_label": "manuscript",
+    "object_value": "Q87167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 98681
+  },
+  {
+    "object_label": "film director",
+    "object_value": "Q2526255",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 98579
+  },
+  {
+    "object_label": "Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4",
+    "object_value": "Q25938983",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 98092
+  },
+  {
+    "object_label": "Tucana",
+    "object_value": "Q10567",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 97543
+  },
+  {
+    "object_label": "park",
+    "object_value": "Q22698",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 97136
+  },
+  {
+    "object_label": "Serpens",
+    "object_value": "Q8910",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 97092
+  },
+  {
+    "object_label": "RR Lyrae variable",
+    "object_value": "Q726242",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 96968
+  },
+  {
+    "object_label": "Physical Review Letters",
+    "object_value": "Q2018386",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 96854
+  },
+  {
+    "object_label": "residential community",
+    "object_value": "Q985488",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 96640
+  },
+  {
+    "object_label": "cytoplasm",
+    "object_value": "Q79899",
+    "property_id": "P681",
+    "property_label": "cell component",
+    "usage_count": 96614
+  },
+  {
+    "object_label": "WikiProject Invasion Biology",
+    "object_value": "Q56241615",
+    "property_id": "P6104",
+    "property_label": "maintained by WikiProject",
+    "usage_count": 96229
+  },
+  {
+    "object_label": "musician",
+    "object_value": "Q639669",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 96092
+  },
+  {
+    "object_label": "house mouse",
+    "object_value": "Q83310",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 96044
+  },
+  {
+    "object_label": "Morocco",
+    "object_value": "Q1028",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 95837
+  },
+  {
+    "object_label": "musical group",
+    "object_value": "Q215380",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 95816
+  },
+  {
+    "object_label": "composite number",
+    "object_value": "Q50707",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 95193
+  },
+  {
+    "object_label": null,
+    "object_value": "Q84263196",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 94932
+  },
+  {
+    "object_label": "National Archives at College Park - Motion Pictures",
+    "object_value": "Q59661039",
+    "property_id": "P126",
+    "property_label": "maintained by",
+    "usage_count": 94718
+  },
+  {
+    "object_label": "doctoral thesis",
+    "object_value": "Q187685",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 94650
+  },
+  {
+    "object_label": "UTC+05:30",
+    "object_value": "Q6828",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 94543
+  },
+  {
+    "object_label": "Andromeda",
+    "object_value": "Q9256",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 94056
+  },
+  {
+    "object_label": "Shanghai Museum",
+    "object_value": "Q1051293",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 94027
+  },
+  {
+    "object_label": "Shanghai Museum",
+    "object_value": "Q1051293",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 94009
+  },
+  {
+    "object_label": "song",
+    "object_value": "Q7366",
+    "property_id": "P7937",
+    "property_label": "form of creative work",
+    "usage_count": 93745
+  },
+  {
+    "object_label": "midfielder",
+    "object_value": "Q193592",
+    "property_id": "P413",
+    "property_label": "position played on team / speciality",
+    "usage_count": 93728
+  },
+  {
+    "object_label": "Wikimedia human name disambiguation page",
+    "object_value": "Q22808320",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 93431
+  },
+  {
+    "object_label": "erratum",
+    "object_value": "Q1348305",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 92485
+  },
+  {
+    "object_label": "Brazil",
+    "object_value": "Q155",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 91986
+  },
+  {
+    "object_label": "Soviet Union",
+    "object_value": "Q15180",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 91898
+  },
+  {
+    "object_label": "Classical Chinese",
+    "object_value": "Q37041",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 91567
+  },
+  {
+    "object_label": "Protein measurement with the Folin phenol reagent",
+    "object_value": "Q20900776",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 91070
+  },
+  {
+    "object_label": "pharmacology",
+    "object_value": "Q128406",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 90929
+  },
+  {
+    "object_label": "ship",
+    "object_value": "Q11446",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 90848
+  },
+  {
+    "object_label": "Cassiopeia",
+    "object_value": "Q10464",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 90802
+  },
+  {
+    "object_label": "William",
+    "object_value": "Q12344159",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 90686
+  },
+  {
+    "object_label": "Auriga",
+    "object_value": "Q10476",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 90452
+  },
+  {
+    "object_label": "Romania",
+    "object_value": "Q218",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 90365
+  },
+  {
+    "object_label": "NZThesisProject",
+    "object_value": "Q111645234",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 90167
+  },
+  {
+    "object_label": "United Kingdom",
+    "object_value": "Q145",
+    "property_id": "P1001",
+    "property_label": "applies to jurisdiction",
+    "usage_count": 89842
+  },
+  {
+    "object_label": "Biochemical and Biophysical Research Communications",
+    "object_value": "Q864228",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 89698
+  },
+  {
+    "object_label": "India",
+    "object_value": "Q668",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 89560
+  },
+  {
+    "object_label": "athletics",
+    "object_value": "Q542",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 89438
+  },
+  {
+    "object_label": "Czech",
+    "object_value": "Q9056",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 89430
+  },
+  {
+    "object_label": "teacher",
+    "object_value": "Q37226",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 89252
+  },
+  {
+    "object_label": "New Zealand",
+    "object_value": "Q664",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 89182
+  },
+  {
+    "object_label": "Blood",
+    "object_value": "Q885070",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 88373
+  },
+  {
+    "object_label": "American football",
+    "object_value": "Q41323",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 88338
+  },
+  {
+    "object_label": "immovable monument in Poland",
+    "object_value": "Q29940414",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 88260
+  },
+  {
+    "object_label": "time of day",
+    "object_value": "Q1260524",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87896
+  },
+  {
+    "object_label": "architect",
+    "object_value": "Q42973",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 87853
+  },
+  {
+    "object_label": "businessperson",
+    "object_value": "Q43845",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 87722
+  },
+  {
+    "object_label": "CJKV character",
+    "object_value": "Q53764732",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87468
+  },
+  {
+    "object_label": "teenager",
+    "object_value": "Q1492760",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 87204
+  },
+  {
+    "object_label": "galaxy cluster",
+    "object_value": "Q204107",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87180
+  },
+  {
+    "object_label": "panel",
+    "object_value": "Q106857709",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 87070
+  },
+  {
+    "object_label": "Pakistan",
+    "object_value": "Q843",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 86935
+  },
+  {
+    "object_label": "Association for Computing Machinery",
+    "object_value": "Q127992",
+    "property_id": "P123",
+    "property_label": "publisher",
+    "usage_count": 86383
+  },
+  {
+    "object_label": "biomarker",
+    "object_value": "Q864574",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 86317
+  },
+  {
+    "object_label": "Lyra",
+    "object_value": "Q10484",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 86158
+  },
+  {
+    "object_label": "unknown",
+    "object_value": "Q24238356",
+    "property_id": "P6216",
+    "property_label": "copyright status",
+    "usage_count": 86149
+  },
+  {
+    "object_label": "Hong Kong Baptist University Library",
+    "object_value": "Q95977692",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 85460
+  },
+  {
+    "object_label": "Orion",
+    "object_value": "Q8860",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 85442
+  },
+  {
+    "object_label": "South Korea",
+    "object_value": "Q884",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 85439
+  },
+  {
+    "object_label": "schizophrenia",
+    "object_value": "Q41112",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 85287
+  },
+  {
+    "object_label": "photograph",
+    "object_value": "Q125191",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 85025
+  },
+  {
+    "object_label": "near-IR source",
+    "object_value": "Q67206785",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84778
+  },
+  {
+    "object_label": "motion",
+    "object_value": "Q452237",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84224
+  },
+  {
+    "object_label": "road",
+    "object_value": "Q34442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84037
+  },
+  {
+    "object_label": "issue",
+    "object_value": "Q28869365",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 82947
+  },
+  {
+    "object_label": "Creative Commons Attribution 2.0 Generic",
+    "object_value": "Q19125117",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 82847
+  },
+  {
+    "object_label": "drama film",
+    "object_value": "Q130232",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 82827
+  },
+  {
+    "object_label": "Gemini",
+    "object_value": "Q8923",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 82775
+  },
+  {
+    "object_label": "asteroid belt",
+    "object_value": "Q2179",
+    "property_id": "P196",
+    "property_label": "minor planet group",
+    "usage_count": 82423
+  },
+  {
+    "object_label": "Perseus",
+    "object_value": "Q10511",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 82150
+  },
+  {
+    "object_label": "calligraphic work",
+    "object_value": "Q22669850",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 82112
+  },
+  {
+    "object_label": "film actor",
+    "object_value": "Q10800557",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 82068
+  },
+  {
+    "object_label": "black-and-white",
+    "object_value": "Q838368",
+    "property_id": "P462",
+    "property_label": "color",
+    "usage_count": 81645
+  },
+  {
+    "object_label": "United Kingdom of Great Britain and Ireland",
+    "object_value": "Q174193",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 81613
+  },
+  {
+    "object_label": "membrane protein",
+    "object_value": "Q423042",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 81581
+  },
+  {
+    "object_label": "Institute of Electrical and Electronics Engineers",
+    "object_value": "Q131566",
+    "property_id": "P123",
+    "property_label": "publisher",
+    "usage_count": 81441
+  },
+  {
+    "object_label": "Christianity",
+    "object_value": "Q5043",
+    "property_id": "P140",
+    "property_label": "religion or worldview",
+    "usage_count": 81394
+  },
+  {
+    "object_label": "screenwriter",
+    "object_value": "Q28389",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 81330
+  },
+  {
+    "object_label": "Nigeria",
+    "object_value": "Q1033",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 81259
+  },
+  {
+    "object_label": "artist",
+    "object_value": "Q483501",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 81186
+  },
+  {
+    "object_label": "Portuguese",
+    "object_value": "Q5146",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 80453
+  },
+  {
+    "object_label": "Catholic priest",
+    "object_value": "Q250867",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 80147
+  },
+  {
+    "object_label": "Turkey",
+    "object_value": "Q43",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 80104
+  },
+  {
+    "object_label": "deficient number",
+    "object_value": "Q467511",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 80072
+  },
+  {
+    "object_label": "Wikimedia–NIOSH collaboration",
+    "object_value": "Q104416361",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 79972
+  },
+  {
+    "object_label": "sekolah dasar",
+    "object_value": "Q97042318",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 79784
+  },
+  {
+    "object_label": "Taiwan",
+    "object_value": "Q865",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 79693
+  },
+  {
+    "object_label": "Canadian Medical Association Journal",
+    "object_value": "Q5030320",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 79616
+  },
+  {
+    "object_label": "A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding",
+    "object_value": "Q25938984",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 79218
+  },
+  {
+    "object_label": "National Register of Historic Places listed place",
+    "object_value": "Q19558910",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 78991
+  },
+  {
+    "object_label": "asthma",
+    "object_value": "Q35869",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 78968
+  },
+  {
+    "object_label": "compact group of galaxies",
+    "object_value": "Q65259218",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 78898
+  },
+  {
+    "object_label": "species nova",
+    "object_value": "Q27652812",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 78747
+  },
+  {
+    "object_label": "photographer",
+    "object_value": "Q33231",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 78672
+  },
+  {
+    "object_label": "television series",
+    "object_value": "Q5398426",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 78552
+  },
+  {
+    "object_label": "Portuguese",
+    "object_value": "Q5146",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 78415
+  },
+  {
+    "object_label": "Least Concern",
+    "object_value": "Q211005",
+    "property_id": "P141",
+    "property_label": "IUCN conservation status",
+    "usage_count": 78371
+  },
+  {
+    "object_label": "English",
+    "object_value": "Q1860",
+    "property_id": "P6886",
+    "property_label": "writing language",
+    "usage_count": 77791
+  },
+  {
+    "object_label": "Malaysia",
+    "object_value": "Q833",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 77612
+  },
+  {
+    "object_label": "observational study",
+    "object_value": "Q818574",
+    "property_id": "P8363",
+    "property_label": "study type",
+    "usage_count": 77596
+  },
+  {
+    "object_label": "far-IR source",
+    "object_value": "Q67206701",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 77432
+  },
+  {
+    "object_label": "WikiProject Ukraine",
+    "object_value": "Q10780973",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 77363
+  },
+  {
+    "object_label": "The Journal of the American Medical Association",
+    "object_value": "Q1470970",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 77290
+  },
+  {
+    "object_label": "tennis",
+    "object_value": "Q847",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 77085
+  },
+  {
+    "object_label": "dam",
+    "object_value": "Q12323",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 76637
+  },
+  {
+    "object_label": "Finland",
+    "object_value": "Q33",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 76622
+  },
+  {
+    "object_label": "nanoparticle",
+    "object_value": "Q61231",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 76581
+  },
+  {
+    "object_label": "Islam",
+    "object_value": "Q432",
+    "property_id": "P140",
+    "property_label": "religion or worldview",
+    "usage_count": 76416
+  },
+  {
+    "object_label": "Physical Review B",
+    "object_value": "Q2284414",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 76279
+  },
+  {
+    "object_label": "UTC+07:00",
+    "object_value": "Q6940",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 76238
+  },
+  {
+    "object_label": "brightest cluster galaxy",
+    "object_value": "Q1151284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 76061
+  },
+  {
+    "object_label": "Bibliothèque nationale de France",
+    "object_value": "Q193563",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 75965
+  },
+  {
+    "object_label": "Camelopardalis",
+    "object_value": "Q8832",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 75797
+  },
+  {
+    "object_label": "systematic review",
+    "object_value": "Q1504425",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 75795
+  },
+  {
+    "object_label": "coeducational school",
+    "object_value": "Q11902693",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 75432
+  },
+  {
+    "object_label": "road bicycle racing",
+    "object_value": "Q3609",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 75391
+  },
+  {
+    "object_label": "periodical",
+    "object_value": "Q1002697",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 75386
+  },
+  {
+    "object_label": "The New England Journal of Medicine",
+    "object_value": "Q582728",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 74807
+  },
+  {
+    "object_label": "WikiProject Christian Hymns",
+    "object_value": "Q100975219",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 74540
+  },
+  {
+    "object_label": "United Kingdom",
+    "object_value": "Q145",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 74521
+  },
+  {
+    "object_label": "Greece",
+    "object_value": "Q41",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 74517
+  },
+  {
+    "object_label": "obesity",
+    "object_value": "Q12174",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 74411
+  },
+  {
+    "object_label": "translator",
+    "object_value": "Q333634",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 74371
+  },
+  {
+    "object_label": "defender",
+    "object_value": "Q336286",
+    "property_id": "P413",
+    "property_label": "position played on team / speciality",
+    "usage_count": 74246
+  },
+  {
+    "object_label": null,
+    "object_value": "Q4927937",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 74166
+  },
+  {
+    "object_label": "Argentina",
+    "object_value": "Q414",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 74083
+  },
+  {
+    "object_label": "Russian Empire",
+    "object_value": "Q34266",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 73735
+  },
+  {
+    "object_label": "Cepheus",
+    "object_value": "Q10468",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 73640
+  },
+  {
+    "object_label": "rural school",
+    "object_value": "Q19855165",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 73237
+  },
+  {
+    "object_label": "Taurus",
+    "object_value": "Q10570",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 72707
+  },
+  {
+    "object_label": "locality of Mexico",
+    "object_value": "Q20202352",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 72611
+  },
+  {
+    "object_label": "spring",
+    "object_value": "Q124714",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 72541
+  },
+  {
+    "object_label": "Metropolitan Museum of Art",
+    "object_value": "Q160236",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 72330
+  },
+  {
+    "object_label": "tuberculosis",
+    "object_value": "Q12204",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 71957
+  },
+  {
+    "object_label": "Han dynasty",
+    "object_value": "Q7209",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 71771
+  },
+  {
+    "object_label": "metal object",
+    "object_value": "Q11646939",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71766
+  },
+  {
+    "object_label": "possible red giant branch star",
+    "object_value": "Q72802727",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71684
+  },
+  {
+    "object_label": "chapel",
+    "object_value": "Q108325",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71504
+  },
+  {
+    "object_label": "Journal of the American Chemical Society",
+    "object_value": "Q898902",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 71490
+  },
+  {
+    "object_label": "Switzerland",
+    "object_value": "Q39",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 71335
+  },
+  {
+    "object_label": "science project",
+    "object_value": "Q1298668",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71209
+  },
+  {
+    "object_label": "brown rat",
+    "object_value": "Q184224",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 71135
+  },
+  {
+    "object_label": "Thomas",
+    "object_value": "Q16428906",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 70702
+  },
+  {
+    "object_label": "Joseph Foster",
+    "object_value": "Q6283171",
+    "property_id": "P50",
+    "property_label": "author",
+    "usage_count": 70566
+  },
+  {
+    "object_label": "Illustrated dictionary of the Polish language",
+    "object_value": "Q99315060",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 70425
+  },
+  {
+    "object_label": "New Zealand",
+    "object_value": "Q664",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 70322
+  },
+  {
+    "object_label": "red giant branch star",
+    "object_value": "Q66619666",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 70061
+  },
+  {
+    "object_label": "RR Lyrae variable with asymmetric light curves",
+    "object_value": "Q66725273",
+    "property_id": "P881",
+    "property_label": "type of variable star",
+    "usage_count": 69980
+  },
+  {
+    "object_label": "individual motion",
+    "object_value": "Q96739634",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 69975
+  },
+  {
+    "object_label": "immunology",
+    "object_value": "Q101929",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 69794
+  },
+  {
+    "object_label": "PanARMENIAN.Net",
+    "object_value": "Q7129527",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 69574
+  },
+  {
+    "object_label": "Brockhaus and Efron Encyclopedic Dictionary",
+    "object_value": "Q602358",
+    "property_id": "P1343",
+    "property_label": "described by source",
+    "usage_count": 69394
+  },
+  {
+    "object_label": "British English",
+    "object_value": "Q7979",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 68957
+  },
+  {
+    "object_label": "Dutch",
+    "object_value": "Q7411",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 68955
+  },
+  {
+    "object_label": "protected area",
+    "object_value": "Q473972",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 68651
+  },
+  {
+    "object_label": "person related to this place",
+    "object_value": "Q19660746",
+    "property_id": "P971",
+    "property_label": "category combines topics",
+    "usage_count": 68636
+  },
+  {
+    "object_label": "school",
+    "object_value": "Q3914",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 68603
+  },
+  {
+    "object_label": "patient",
+    "object_value": "Q181600",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 68387
+  },
+  {
+    "object_label": "Norway",
+    "object_value": "Q20",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 68331
+  },
+  {
+    "object_label": "Belgium",
+    "object_value": "Q31",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 68126
+  },
+  {
+    "object_label": "The Astrophysical Journal Letters",
+    "object_value": "Q3470990",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 67872
+  },
+  {
+    "object_label": "Cleveland Museum of Art",
+    "object_value": "Q657415",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 67827
+  },
+  {
+    "object_label": "phase II clinical trial",
+    "object_value": "Q42824440",
+    "property_id": "P6099",
+    "property_label": "clinical trial phase",
+    "usage_count": 67689
+  },
+  {
+    "object_label": "blue and white ceramic",
+    "object_value": "Q2444973",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 67519
+  },
+  {
+    "object_label": "Prints in the National Gallery of Art",
+    "object_value": "Q64946756",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 67439
+  },
+  {
+    "object_label": "author",
+    "object_value": "Q482980",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 67299
+  },
+  {
+    "object_label": "France",
+    "object_value": "Q142",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 67097
+  },
+  {
+    "object_label": "natural causes",
+    "object_value": "Q3739104",
+    "property_id": "P1196",
+    "property_label": "manner of death",
+    "usage_count": 66990
+  },
+  {
+    "object_label": "Journal of Immunology",
+    "object_value": "Q3521441",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 66947
+  },
+  {
+    "object_label": "Cleveland Museum of Art",
+    "object_value": "Q657415",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 66919
+  },
+  {
+    "object_label": "jurist",
+    "object_value": "Q185351",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 66862
+  },
+  {
+    "object_label": "fictional human",
+    "object_value": "Q15632617",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 66823
+  },
+  {
+    "object_label": "Australia",
+    "object_value": "Q408",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 66560
+  },
+  {
+    "object_label": "Pauly–Wissowa",
+    "object_value": "Q1138524",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 66556
+  },
+  {
+    "object_label": "Tang dynasty",
+    "object_value": "Q9683",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 66501
+  },
+  {
+    "object_label": "Italian national heritage",
+    "object_value": "Q26971668",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 66467
+  },
+  {
+    "object_label": "Caenorhabditis elegans",
+    "object_value": "Q91703",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 66195
+  },
+  {
+    "object_label": "long-period variable star",
+    "object_value": "Q1153690",
+    "property_id": "P881",
+    "property_label": "type of variable star",
+    "usage_count": 66136
+  },
+  {
+    "object_label": "Biochemistry",
+    "object_value": "Q764876",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 66120
+  },
+  {
+    "object_label": "forward",
+    "object_value": "Q280658",
+    "property_id": "P413",
+    "property_label": "position played on team / speciality",
+    "usage_count": 66116
+  },
+  {
+    "object_label": "Portugal",
+    "object_value": "Q45",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 65945
+  },
+  {
+    "object_label": "visual artist",
+    "object_value": "Q3391743",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 65892
+  },
+  {
+    "object_label": "private school",
+    "object_value": "Q423208",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 65673
+  },
+  {
+    "object_label": "German Research Foundation",
+    "object_value": "Q707283",
+    "property_id": "P859",
+    "property_label": "sponsor",
+    "usage_count": 65658
+  },
+  {
+    "object_label": "Serbian",
+    "object_value": "Q9299",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 65284
+  },
+  {
+    "object_label": "Hungary",
+    "object_value": "Q28",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 65202
+  },
+  {
+    "object_label": "Ortsteil",
+    "object_value": "Q253019",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 65040
+  },
+  {
+    "object_label": "English",
+    "object_value": "Q1860",
+    "property_id": "P103",
+    "property_label": "native language",
+    "usage_count": 65021
+  },
+  {
+    "object_label": "ice hockey",
+    "object_value": "Q41466",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 64691
+  },
+  {
+    "object_label": "Romanian",
+    "object_value": "Q7913",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 64677
+  },
+  {
+    "object_label": "Traditional Chinese",
+    "object_value": "Q18130932",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 64444
+  },
+  {
+    "object_label": "Rijksmonument",
+    "object_value": "Q916333",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 64277
+  },
+  {
+    "object_label": "James",
+    "object_value": "Q677191",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 64192
+  },
+  {
+    "object_label": "botanist",
+    "object_value": "Q2374149",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 64112
+  },
+  {
+    "object_label": "war memorial",
+    "object_value": "Q575759",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 64067
+  },
+  {
+    "object_label": "educational facility",
+    "object_value": "Q20860083",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 64011
+  },
+  {
+    "object_label": "archaeological site",
+    "object_value": "Q839954",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63929
+  },
+  {
+    "object_label": "Kingdom of Italy",
+    "object_value": "Q172579",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 63874
+  },
+  {
+    "object_label": "statistics",
+    "object_value": "Q12483",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 63873
+  },
+  {
+    "object_label": "Canis Major",
+    "object_value": "Q10538",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 63814
+  },
+  {
+    "object_label": "Phoenix",
+    "object_value": "Q10441",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 63741
+  },
+  {
+    "object_label": "gas station",
+    "object_value": "Q128302279",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63648
+  },
+  {
+    "object_label": "The London Gazette",
+    "object_value": "Q1137581",
+    "property_id": "P179",
+    "property_label": "part of the series",
+    "usage_count": 63519
+  },
+  {
+    "object_label": "Peru",
+    "object_value": "Q419",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 63371
+  },
+  {
+    "object_label": "Benezit Dictionary of Artists",
+    "object_value": "Q24255573",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 63357
+  },
+  {
+    "object_label": "Alumni Oxonienses: the Members of the University of Oxford, 1715–1886",
+    "object_value": "Q19036877",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 63190
+  },
+  {
+    "object_label": "enterprise",
+    "object_value": "Q6881511",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63079
+  },
+  {
+    "object_label": "Germany",
+    "object_value": "Q183",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 62956
+  },
+  {
+    "object_label": "studio album",
+    "object_value": "Q208569",
+    "property_id": "P7937",
+    "property_label": "form of creative work",
+    "usage_count": 62840
+  },
+  {
+    "object_label": "Austria",
+    "object_value": "Q40",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 62831
+  },
+  {
+    "object_label": "architectural landmark",
+    "object_value": "Q2319498",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 62741
+  },
+  {
+    "object_label": "WikiProject Ecology",
+    "object_value": "Q10818384",
+    "property_id": "P6104",
+    "property_label": "maintained by WikiProject",
+    "usage_count": 62644
+  },
+  {
+    "object_label": "baseball",
+    "object_value": "Q5369",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 62506
+  },
+  {
+    "object_label": "Brazilian Portuguese",
+    "object_value": "Q750553",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 62462
+  },
+  {
+    "object_label": "colorectal cancer",
+    "object_value": "Q188874",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 62378
+  },
+  {
+    "object_label": "pharmacokinetics",
+    "object_value": "Q323936",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 62287
+  },
+  {
+    "object_label": "David",
+    "object_value": "Q18057751",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 62246
+  },
+  {
+    "object_label": "Astronomy and Astrophysics",
+    "object_value": "Q752075",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 62105
+  },
+  {
+    "object_label": "People's Republic of China",
+    "object_value": "Q148",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 61972
+  },
+  {
+    "object_label": "wood",
+    "object_value": "Q287",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 61900
+  },
+  {
+    "object_label": "pseudogene",
+    "object_value": "Q277338",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61096
+  },
+  {
+    "object_label": "variable star",
+    "object_value": "Q6243",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61008
+  },
+  {
+    "object_label": "television program",
+    "object_value": "Q15416",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61000
+  },
+  {
+    "object_label": "Qing dynasty",
+    "object_value": "Q8733",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 60852
+  },
+  {
+    "object_label": "type 2 diabetes",
+    "object_value": "Q3025883",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 60750
+  },
+  {
+    "object_label": "stone setting",
+    "object_value": "Q2341654",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60688
+  },
+  {
+    "object_label": "odd number",
+    "object_value": "Q13366129",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60612
+  },
+  {
+    "object_label": null,
+    "object_value": "Q200",
+    "property_id": "P5236",
+    "property_label": "prime factor",
+    "usage_count": 60586
+  },
+  {
+    "object_label": "even number",
+    "object_value": "Q13366104",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60578
+  },
+  {
+    "object_label": "endothelium",
+    "object_value": "Q111140",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 60369
+  },
+  {
+    "object_label": "World War II",
+    "object_value": "Q362",
+    "property_id": "P607",
+    "property_label": "participated in conflict",
+    "usage_count": 60364
+  },
+  {
+    "object_label": "townland",
+    "object_value": "Q2151232",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60104
+  },
+  {
+    "object_label": "Wikimedia module",
+    "object_value": "Q15184295",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60041
+  },
+  {
+    "object_label": "testicle",
+    "object_value": "Q9384",
+    "property_id": "P5572",
+    "property_label": "expressed in",
+    "usage_count": 59944
+  },
+  {
+    "object_label": "chemotherapy",
+    "object_value": "Q974135",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 59865
+  },
+  {
+    "object_label": "Brain Research",
+    "object_value": "Q4955782",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 59520
+  },
+  {
+    "object_label": "Cancer Research",
+    "object_value": "Q326097",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 59360
+  },
+  {
+    "object_label": "desa",
+    "object_value": "Q26211545",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 59158
+  },
+  {
+    "object_label": "Yemen",
+    "object_value": "Q805",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 59031
+  },
+  {
+    "object_label": "rheumatoid arthritis",
+    "object_value": "Q187255",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 58848
+  },
+  {
+    "object_label": "sculptor",
+    "object_value": "Q1281618",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 58813
+  },
+  {
+    "object_label": "Journal of the Royal Society of Medicine",
+    "object_value": "Q6296198",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 58759
+  },
+  {
+    "object_label": "volume",
+    "object_value": "Q1238720",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 58632
+  },
+  {
+    "object_label": "bronze",
+    "object_value": "Q34095",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 58514
+  },
+  {
+    "object_label": "Chinese characters",
+    "object_value": "Q8201",
+    "property_id": "P282",
+    "property_label": "writing system",
+    "usage_count": 58496
+  },
+  {
+    "object_label": "Capital Museum",
+    "object_value": "Q1189666",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 58474
+  },
+  {
+    "object_label": "Capital Museum",
+    "object_value": "Q1189666",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 58474
+  },
+  {
+    "object_label": "statue",
+    "object_value": "Q179700",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 58204
+  },
+  {
+    "object_label": "landscape painting",
+    "object_value": "Q191163",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 58188
+  },
+  {
+    "object_label": "Chinese Newspaper Clipping Database",
+    "object_value": "Q115907598",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 58072
+  },
+  {
+    "object_label": "Danish",
+    "object_value": "Q9035",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 57804
+  },
+  {
+    "object_label": "movie theater",
+    "object_value": "Q41253",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 57349
+  },
+  {
+    "object_label": "Armenia",
+    "object_value": "Q399",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 57278
+  },
+  {
+    "object_label": "Biochemical Journal",
+    "object_value": "Q864221",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 57088
+  },
+  {
+    "object_label": "Physical Review E",
+    "object_value": "Q2128181",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 57036
+  },
+  {
+    "object_label": "Michael",
+    "object_value": "Q4927524",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 56989
+  },
+  {
+    "object_label": "Kingdom of Denmark",
+    "object_value": "Q756617",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 56757
+  },
+  {
+    "object_label": "coin",
+    "object_value": "Q41207",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 56729
+  },
+  {
+    "object_label": "South Africa",
+    "object_value": "Q258",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 56723
+  },
+  {
+    "object_label": "physiology",
+    "object_value": "Q521",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 56638
+  },
+  {
+    "object_label": "Thailand",
+    "object_value": "Q869",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 56391
+  },
+  {
+    "object_label": "Belarus",
+    "object_value": "Q184",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 56269
+  },
+  {
+    "object_label": "Monthly Notices of the Royal Astronomical Society",
+    "object_value": "Q1536490",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 56266
+  },
+  {
+    "object_label": "Journal of Urology",
+    "object_value": "Q15709979",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 56012
+  },
+  {
+    "object_label": "Mensa",
+    "object_value": "Q9289",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 55982
+  },
+  {
+    "object_label": "village of Poland",
+    "object_value": "Q3558970",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 55932
+  },
+  {
+    "object_label": "Wikimedia navigational template",
+    "object_value": "Q11753321",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 55838
+  },
+  {
+    "object_label": "biophysics",
+    "object_value": "Q7100",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 55758
+  },
+  {
+    "object_label": "Russian Empire",
+    "object_value": "Q34266",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 55593
+  },
+  {
+    "object_label": "Charles",
+    "object_value": "Q2958359",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 55581
+  },
+  {
+    "object_label": "Fusarium graminearum PH-1",
+    "object_value": "Q62116341",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 55347
+  },
+  {
+    "object_label": "Alzheimer's disease",
+    "object_value": "Q11081",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 55329
+  },
+  {
+    "object_label": "American Journal of Physiology",
+    "object_value": "Q2160146",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 55031
+  },
+  {
+    "object_label": "economist",
+    "object_value": "Q188094",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 54917
+  },
+  {
+    "object_label": "Grus",
+    "object_value": "Q10563",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 54905
+  },
+  {
+    "object_label": "Journal of Bacteriology",
+    "object_value": "Q478419",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 54818
+  },
+  {
+    "object_label": "India",
+    "object_value": "Q668",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 54757
+  },
+  {
+    "object_label": "male given name",
+    "object_value": "Q12308941",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 54710
+  },
+  {
+    "object_label": "Hungary",
+    "object_value": "Q28",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 54662
+  },
+  {
+    "object_label": "Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method",
+    "object_value": "Q25938999",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 54479
+  },
+  {
+    "object_label": "nonprofit organization",
+    "object_value": "Q163740",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 54370
+  },
+  {
+    "object_label": "Slovakia",
+    "object_value": "Q214",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 54263
+  },
+  {
+    "object_label": "Parkinson's disease",
+    "object_value": "Q11085",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 54226
+  },
+  {
+    "object_label": "military officer",
+    "object_value": "Q189290",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 54158
+  },
+  {
+    "object_label": "South Korea",
+    "object_value": "Q884",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 53986
+  },
+  {
+    "object_label": "engineer",
+    "object_value": "Q81096",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 53968
+  },
+  {
+    "object_label": "sinogram",
+    "object_value": "Q17300291",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 53958
+  },
+  {
+    "object_label": "Czechoslovakia",
+    "object_value": "Q33946",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 53910
+  },
+  {
+    "object_label": "jinshi",
+    "object_value": "Q420477",
+    "property_id": "P512",
+    "property_label": "academic degree",
+    "usage_count": 53781
+  },
+  {
+    "object_label": "atherosclerosis",
+    "object_value": "Q12252367",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 53453
+  },
+  {
+    "object_label": "documentary film",
+    "object_value": "Q93204",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 53285
+  },
+  {
+    "object_label": "UTC±00:00",
+    "object_value": "Q6574",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 52990
+  },
+  {
+    "object_label": "place of birth",
+    "object_value": "Q1322263",
+    "property_id": "P971",
+    "property_label": "category combines topics",
+    "usage_count": 52881
+  },
+  {
+    "object_label": "plasma membrane",
+    "object_value": "Q29548",
+    "property_id": "P681",
+    "property_label": "cell component",
+    "usage_count": 52790
+  },
+  {
+    "object_label": "facility",
+    "object_value": "Q13226383",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52781
+  },
+  {
+    "object_label": "cricket",
+    "object_value": "Q5375",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 52743
+  },
+  {
+    "object_label": "fonds",
+    "object_value": "Q3052382",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52662
+  },
+  {
+    "object_label": "Simplified Chinese",
+    "object_value": "Q13414913",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 52521
+  },
+  {
+    "object_label": "diplomat",
+    "object_value": "Q193391",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 52482
+  },
+  {
+    "object_label": "Peter",
+    "object_value": "Q2793400",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 52423
+  },
+  {
+    "object_label": "leukemia",
+    "object_value": "Q29496",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 52405
+  },
+  {
+    "object_label": "open access",
+    "object_value": "Q232932",
+    "property_id": "P6954",
+    "property_label": "online access status",
+    "usage_count": 52237
+  },
+  {
+    "object_label": "video on demand",
+    "object_value": "Q723685",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 52234
+  },
+  {
+    "object_label": "events in a specific year or time period",
+    "object_value": "Q18340514",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52185
+  },
+  {
+    "object_label": "mental health",
+    "object_value": "Q317309",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 52175
+  },
+  {
+    "object_label": "ATP binding",
+    "object_value": "Q14817981",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 52116
+  },
+  {
+    "object_label": "wadi",
+    "object_value": "Q187971",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52077
+  },
+  {
+    "object_label": "Ontario",
+    "object_value": "Q1904",
+    "property_id": "P131",
+    "property_label": "located in the administrative territorial entity",
+    "usage_count": 52043
+  },
+  {
+    "object_label": "bay",
+    "object_value": "Q39594",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 51980
+  },
+  {
+    "object_label": "Asia",
+    "object_value": "Q48",
+    "property_id": "P30",
+    "property_label": "continent",
+    "usage_count": 51931
+  },
+  {
+    "object_label": "transferase activity",
+    "object_value": "Q14840131",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 51926
+  },
+  {
+    "object_label": "phase I clinical trial",
+    "object_value": "Q5452194",
+    "property_id": "P6099",
+    "property_label": "clinical trial phase",
+    "usage_count": 51872
+  },
+  {
+    "object_label": "Applied Optics",
+    "object_value": "Q4781557",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 51818
+  },
+  {
+    "object_label": "Cancer Research",
+    "object_value": "Q326097",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 51749
+  },
+  {
+    "object_label": "Methods in Molecular Biology",
+    "object_value": "Q15752859",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 51569
+  },
+  {
+    "object_label": "Philippines",
+    "object_value": "Q928",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 51539
+  },
+  {
+    "object_label": "condensed matter physics",
+    "object_value": "Q214781",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 51424
+  },
+  {
+    "object_label": "Lithuania",
+    "object_value": "Q37",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 51317
+  },
+  {
+    "object_label": "date of establishment",
+    "object_value": "Q3406134",
+    "property_id": "P971",
+    "property_label": "category combines topics",
+    "usage_count": 51252
+  },
+  {
+    "object_label": "Henan Museum",
+    "object_value": "Q857752",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 51224
+  },
+  {
+    "object_label": "Henan Museum",
+    "object_value": "Q857752",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 51222
+  },
+  {
+    "object_label": "Met Museum artworks on display",
+    "object_value": "Q116234000",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 51131
+  },
+  {
+    "object_label": "newspaper",
+    "object_value": "Q11032",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 51079
+  },
+  {
+    "object_label": "brass",
+    "object_value": "Q39782",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 51005
+  },
+  {
+    "object_label": "Gansu Provincial Museum",
+    "object_value": "Q2114104",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 50981
+  },
+  {
+    "object_label": "Gansu Provincial Museum",
+    "object_value": "Q2114104",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 50981
+  },
+  {
+    "object_label": "television actor",
+    "object_value": "Q10798782",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 50906
+  },
+  {
+    "object_label": "Tianjin Museum",
+    "object_value": "Q936345",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 50790
+  },
+  {
+    "object_label": "Tianjin Museum",
+    "object_value": "Q936345",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 50790
+  },
+  {
+    "object_label": "rotating variable star",
+    "object_value": "Q2168098",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50739
+  },
+  {
+    "object_label": "transformed cell line",
+    "object_value": "Q27555384",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50724
+  },
+  {
+    "object_label": "Bodendenkmal",
+    "object_value": "Q22969563",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50564
+  },
+  {
+    "object_label": "hammered coinage",
+    "object_value": "Q1054121",
+    "property_id": "P2079",
+    "property_label": "fabrication method",
+    "usage_count": 50412
+  },
+  {
+    "object_label": "Yorkshire",
+    "object_value": "Q163",
+    "property_id": "P7959",
+    "property_label": "historic county",
+    "usage_count": 50360
+  },
+  {
+    "object_label": "music streaming",
+    "object_value": "Q15982450",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 50205
+  },
+  {
+    "object_label": "Chile",
+    "object_value": "Q298",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 50203
+  },
+  {
+    "object_label": "indie game",
+    "object_value": "Q2762504",
+    "property_id": "P1552",
+    "property_label": "has characteristic",
+    "usage_count": 50090
+  },
+  {
+    "object_label": "Annals of the New York Academy of Sciences",
+    "object_value": "Q2431664",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 50078
+  },
+  {
+    "object_label": "pseudogene",
+    "object_value": "Q277338",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 50018
+  },
+  {
+    "object_label": "archaeological heritage monument in Bavaria",
+    "object_value": "Q97154904",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 50003
+  },
+  {
+    "object_label": "reproduction right represented by CISAC-member",
+    "object_value": "Q71528227",
+    "property_id": "P6275",
+    "property_label": "copyright representative",
+    "usage_count": 49990
+  },
+  {
+    "object_label": "FEBS Letters",
+    "object_value": "Q1388051",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 49799
+  },
+  {
+    "object_label": "map",
+    "object_value": "Q4006",
+    "property_id": "P971",
+    "property_label": "category combines topics",
+    "usage_count": 49776
+  },
+  {
+    "object_label": "association football team season",
+    "object_value": "Q26887310",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 49680
+  },
+  {
+    "object_label": "CAS COVID-19 Anti-Viral Candidate Compounds",
+    "object_value": "Q90481889",
+    "property_id": "P972",
+    "property_label": "catalog",
+    "usage_count": 49442
+  },
+  {
+    "object_label": "Richard",
+    "object_value": "Q1249148",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 49310
+  },
+  {
+    "object_label": "Trypanosoma cruzi",
+    "object_value": "Q150162",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 49289
+  },
+  {
+    "object_label": "Shandong Museum",
+    "object_value": "Q4132844",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 49193
+  },
+  {
+    "object_label": "Ara",
+    "object_value": "Q9253",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 49193
+  },
+  {
+    "object_label": "Shandong Museum",
+    "object_value": "Q4132844",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 49192
+  },
+  {
+    "object_label": "Nucleic Acids Research",
+    "object_value": "Q135122",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 48985
+  },
+  {
+    "object_label": "malaria",
+    "object_value": "Q12156",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 48894
+  },
+  {
+    "object_label": "SSRN Electronic Journal",
+    "object_value": "Q53949192",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 48847
+  },
+  {
+    "object_label": "short film",
+    "object_value": "Q24862",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48723
+  },
+  {
+    "object_label": "public library",
+    "object_value": "Q28564",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48640
+  },
+  {
+    "object_label": "rotating variable star",
+    "object_value": "Q2168098",
+    "property_id": "P881",
+    "property_label": "type of variable star",
+    "usage_count": 48614
+  },
+  {
+    "object_label": "southern pig-tailed macaque",
+    "object_value": "Q618026",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 48474
+  },
+  {
+    "object_label": "Journal of Virology",
+    "object_value": "Q1251128",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 48390
+  },
+  {
+    "object_label": "Arabic",
+    "object_value": "Q13955",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 48283
+  },
+  {
+    "object_label": "Chemical Communications",
+    "object_value": "Q426303",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 48257
+  },
+  {
+    "object_label": "canal",
+    "object_value": "Q12284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48202
+  },
+  {
+    "object_label": "Bulgaria",
+    "object_value": "Q219",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 48152
+  },
+  {
+    "object_label": "non-English",
+    "object_value": "Q66724591",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 48148
+  },
+  {
+    "object_label": "coronary artery disease",
+    "object_value": "Q844935",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 48057
+  },
+  {
+    "object_label": "Colombia",
+    "object_value": "Q739",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 48036
+  },
+  {
+    "object_label": "microRNA",
+    "object_value": "Q310899",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 47964
+  },
+  {
+    "object_label": "People's Republic of China",
+    "object_value": "Q148",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 47925
+  },
+  {
+    "object_label": "Roman Imperial Coinage",
+    "object_value": "Q1225240",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 47917
+  },
+  {
+    "object_label": "non-coding RNA",
+    "object_value": "Q427087",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 47847
+  },
+  {
+    "object_label": "Journal of Chemical Physics",
+    "object_value": "Q900472",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 47648
+  },
+  {
+    "object_label": "Arabic",
+    "object_value": "Q13955",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 47630
+  },
+  {
+    "object_label": "Obálky knih",
+    "object_value": "Q67311526",
+    "property_id": "P1343",
+    "property_label": "described by source",
+    "usage_count": 47629
+  },
+  {
+    "object_label": "Stolpersteine",
+    "object_value": "Q314003",
+    "property_id": "P361",
+    "property_label": "part of",
+    "usage_count": 47600
+  },
+  {
+    "object_label": "nucleus",
+    "object_value": "Q40260",
+    "property_id": "P681",
+    "property_label": "cell component",
+    "usage_count": 47599
+  },
+  {
+    "object_label": "Gunter Demnig",
+    "object_value": "Q195796",
+    "property_id": "P170",
+    "property_label": "creator",
+    "usage_count": 47577
+  },
+  {
+    "object_label": "Vulpecula",
+    "object_value": "Q10519",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 47559
+  },
+  {
+    "object_label": "Stolperstein",
+    "object_value": "Q26703203",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47555
+  },
+  {
+    "object_label": "India",
+    "object_value": "Q668",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 47517
+  },
+  {
+    "object_label": "Libra",
+    "object_value": "Q10580",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 47460
+  },
+  {
+    "object_label": "museum",
+    "object_value": "Q33506",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47367
+  },
+  {
+    "object_label": "George",
+    "object_value": "Q15921732",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 47362
+  },
+  {
+    "object_label": "gender gap on Dutch Wikipedia",
+    "object_value": "Q60687720",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 47342
+  },
+  {
+    "object_label": "men's association football",
+    "object_value": "Q31930761",
+    "property_id": "P2094",
+    "property_label": "competition class",
+    "usage_count": 47100
+  },
+  {
+    "object_label": "master's thesis",
+    "object_value": "Q1907875",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47037
+  },
+  {
+    "object_label": "American football player",
+    "object_value": "Q19204627",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 47018
+  },
+  {
+    "object_label": "human",
+    "object_value": "Q5",
+    "property_id": "P360",
+    "property_label": "is a list of",
+    "usage_count": 47003
+  },
+  {
+    "object_label": "film producer",
+    "object_value": "Q3282637",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 46898
+  },
+  {
+    "object_label": "October 17, 2024",
+    "object_value": "Q69307325",
+    "property_id": "P6259",
+    "property_label": "epoch",
+    "usage_count": 46748
+  },
+  {
+    "object_label": "Optics Express",
+    "object_value": "Q3354459",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 46722
+  },
+  {
+    "object_label": "tumulus",
+    "object_value": "Q34023",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 46671
+  },
+  {
+    "object_label": "angiography",
+    "object_value": "Q468414",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 46667
+  },
+  {
+    "object_label": "pop music",
+    "object_value": "Q37073",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 46658
+  },
+  {
+    "object_label": "metal ion binding",
+    "object_value": "Q13667380",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 46440
+  },
+  {
+    "object_label": "Song dynasty",
+    "object_value": "Q7462",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 46390
+  },
+  {
+    "object_label": "Science of the Total Environment",
+    "object_value": "Q15766357",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 46320
+  },
+  {
+    "object_label": "climate change",
+    "object_value": "Q125928",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 46303
+  },
+  {
+    "object_label": "commune of France",
+    "object_value": "Q484170",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 46249
+  },
+  {
+    "object_label": "time in Turkey",
+    "object_value": "Q20988530",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 46236
+  },
+  {
+    "object_label": "Angewandte Chemie International Edition",
+    "object_value": "Q62023953",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 46178
+  },
+  {
+    "object_label": "Nanjing Municipal Museum",
+    "object_value": "Q9516518",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 46128
+  },
+  {
+    "object_label": "Nanjing Municipal Museum",
+    "object_value": "Q9516518",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 46128
+  },
+  {
+    "object_label": "Ukraine",
+    "object_value": "Q212",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 46064
+  },
+  {
+    "object_label": "North Macedonia",
+    "object_value": "Q221",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 45976
+  },
+  {
+    "object_label": "DNA binding",
+    "object_value": "Q14633858",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 45887
+  },
+  {
+    "object_label": "mine",
+    "object_value": "Q820477",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45871
+  },
+  {
+    "object_label": "Medical Journal of Australia",
+    "object_value": "Q7750866",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 45792
+  },
+  {
+    "object_label": "lyrics",
+    "object_value": "Q602446",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45778
+  },
+  {
+    "object_label": "hymn text",
+    "object_value": "Q116953130",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 45682
+  },
+  {
+    "object_label": "National Institute for Occupational Safety and Health",
+    "object_value": "Q60346",
+    "property_id": "P859",
+    "property_label": "sponsor",
+    "usage_count": 45600
+  },
+  {
+    "object_label": "Sichuan Museum",
+    "object_value": "Q10924774",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 45577
+  },
+  {
+    "object_label": "Sichuan Museum",
+    "object_value": "Q10924774",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 45577
+  },
+  {
+    "object_label": "Danio rerio",
+    "object_value": "Q169444",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 45545
+  },
+  {
+    "object_label": "administration publique générale",
+    "object_value": "Q112166113",
+    "property_id": "P452",
+    "property_label": "industry",
+    "usage_count": 45503
+  },
+  {
+    "object_label": "narrative motif",
+    "object_value": "Q1697305",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45457
+  },
+  {
+    "object_label": "Motif-Index of Folk-Literature",
+    "object_value": "Q114946518",
+    "property_id": "P1343",
+    "property_label": "described by source",
+    "usage_count": 45454
+  },
+  {
+    "object_label": "Piscis Austrinus",
+    "object_value": "Q10409",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 45451
+  },
+  {
+    "object_label": "WikiProject PCC Wikidata Pilot/Frick Art Reference Library",
+    "object_value": "Q104694359",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 45422
+  },
+  {
+    "object_label": "folklore motif",
+    "object_value": "Q2995443",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45410
+  },
+  {
+    "object_label": "Japanese",
+    "object_value": "Q5287",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 45378
+  },
+  {
+    "object_label": "genetics",
+    "object_value": "Q7162",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 45313
+  },
+  {
+    "object_label": "Circulation",
+    "object_value": "Q578091",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 45311
+  },
+  {
+    "object_label": "Paul",
+    "object_value": "Q4925623",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 45308
+  },
+  {
+    "object_label": "doctorate",
+    "object_value": "Q849697",
+    "property_id": "P512",
+    "property_label": "academic degree",
+    "usage_count": 45303
+  },
+  {
+    "object_label": "object listed as historical monument",
+    "object_value": "Q61058419",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 45294
+  },
+  {
+    "object_label": "surgery",
+    "object_value": "Q40821",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 45272
+  },
+  {
+    "object_label": "action game",
+    "object_value": "Q270948",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 45266
+  },
+  {
+    "object_label": "Latvia",
+    "object_value": "Q211",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 45262
+  },
+  {
+    "object_label": "Myanmar",
+    "object_value": "Q836",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 45098
+  },
+  {
+    "object_label": "mathematician",
+    "object_value": "Q170790",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 44917
+  },
+  {
+    "object_label": "epidemiology",
+    "object_value": "Q133805",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 44912
+  },
+  {
+    "object_label": "pottery ware",
+    "object_value": "Q17379525",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 44770
+  },
+  {
+    "object_label": "Gastroenterology",
+    "object_value": "Q4039279",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 44767
+  },
+  {
+    "object_label": "beetles",
+    "object_value": "Q22671",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 44663
+  },
+  {
+    "object_label": "judge",
+    "object_value": "Q16533",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 44557
+  },
+  {
+    "object_label": "American Journal of Obstetrics and Gynecology",
+    "object_value": "Q4744256",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 44543
+  },
+  {
+    "object_label": "sport cyclist",
+    "object_value": "Q2309784",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 44426
+  },
+  {
+    "object_label": "Lupus",
+    "object_value": "Q10571",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 44332
+  },
+  {
+    "object_label": "New South Wales",
+    "object_value": "Q3224",
+    "property_id": "P131",
+    "property_label": "located in the administrative territorial entity",
+    "usage_count": 44325
+  },
+  {
+    "object_label": "nucleotide binding",
+    "object_value": "Q14860365",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 44265
+  },
+  {
+    "object_label": "Leo Minor",
+    "object_value": "Q10403",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 44171
+  },
+  {
+    "object_label": "point",
+    "object_value": "Q24529780",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 44151
+  },
+  {
+    "object_label": "Catholic bishop",
+    "object_value": "Q611644",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 44094
+  },
+  {
+    "object_label": "World War I",
+    "object_value": "Q361",
+    "property_id": "P607",
+    "property_label": "participated in conflict",
+    "usage_count": 44013
+  },
+  {
+    "object_label": "inflammation",
+    "object_value": "Q101991",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 44006
+  },
+  {
+    "object_label": "RR Lyrae variable",
+    "object_value": "Q726242",
+    "property_id": "P881",
+    "property_label": "type of variable star",
+    "usage_count": 43962
+  },
+  {
+    "object_label": "scientist",
+    "object_value": "Q901",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 43879
+  },
+  {
+    "object_label": "watercolor paint",
+    "object_value": "Q3374389",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 43751
+  },
+  {
+    "object_label": "masia",
+    "object_value": "Q585956",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 43702
+  },
+  {
+    "object_label": "Socialist Federal Republic of Yugoslavia",
+    "object_value": "Q83286",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 43627
+  },
+  {
+    "object_label": "compact disc",
+    "object_value": "Q34467",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 43613
+  },
+  {
+    "object_label": "Pavo",
+    "object_value": "Q10515",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 43586
+  },
+  {
+    "object_label": "Turkish",
+    "object_value": "Q256",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 43458
+  },
+  {
+    "object_label": "theologian",
+    "object_value": "Q1234713",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 43387
+  },
+  {
+    "object_label": "athletics competitor",
+    "object_value": "Q11513337",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 43286
+  },
+  {
+    "object_label": "Transplantation Proceedings",
+    "object_value": "Q7834825",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 43234
+  },
+  {
+    "object_label": "The American Journal of Gastroenterology",
+    "object_value": "Q7713501",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 43153
+  },
+  {
+    "object_label": "Staphylococcus aureus",
+    "object_value": "Q188121",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 43117
+  },
+  {
+    "object_label": "Slovenia",
+    "object_value": "Q215",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 43087
+  },
+  {
+    "object_label": "Argentina",
+    "object_value": "Q414",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 42984
+  },
+  {
+    "object_label": "atrial fibrillation",
+    "object_value": "Q815819",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 42963
+  },
+  {
+    "object_label": "IUCN category IV: Habitat/Species Management Area",
+    "object_value": "Q14545639",
+    "property_id": "P814",
+    "property_label": "IUCN protected areas category",
+    "usage_count": 42915
+  },
+  {
+    "object_label": "Sekolah Menengah Pertama",
+    "object_value": "Q97500812",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 42879
+  },
+  {
+    "object_label": "immunohistochemistry",
+    "object_value": "Q899285",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 42857
+  },
+  {
+    "object_label": "Slovene",
+    "object_value": "Q9063",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 42845
+  },
+  {
+    "object_label": "Ugeskrift for Læger",
+    "object_value": "Q7877732",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 42755
+  },
+  {
+    "object_label": "CJK Unified Ideographs Extension B",
+    "object_value": "Q545703",
+    "property_id": "P5522",
+    "property_label": "Unicode block",
+    "usage_count": 42720
+  },
+  {
+    "object_label": "cultural monument of the Czech Republic",
+    "object_value": "Q385405",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 42613
+  },
+  {
+    "object_label": "sepsis",
+    "object_value": "Q183134",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 42593
+  },
+  {
+    "object_label": "British Columbia",
+    "object_value": "Q1973",
+    "property_id": "P131",
+    "property_label": "located in the administrative territorial entity",
+    "usage_count": 42580
+  },
+  {
+    "object_label": "biological process",
+    "object_value": "Q2996394",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 42515
+  },
+  {
+    "object_label": "Cancer",
+    "object_value": "Q326041",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 42514
+  },
+  {
+    "object_label": "Song dynasty",
+    "object_value": "Q7462",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 42500
+  },
+  {
+    "object_label": "album",
+    "object_value": "Q482994",
+    "property_id": "P4224",
+    "property_label": "category contains",
+    "usage_count": 42475
+  },
+  {
+    "object_label": "Capricornus",
+    "object_value": "Q10535",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 42465
+  },
+  {
+    "object_label": "baseball player",
+    "object_value": "Q10871364",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 42369
+  },
+  {
+    "object_label": "school mensa in France",
+    "object_value": "Q56315696",
+    "property_id": "P912",
+    "property_label": "has facility",
+    "usage_count": 42306
+  },
+  {
+    "object_label": "comedy film",
+    "object_value": "Q157443",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 42198
+  },
+  {
+    "object_label": "adventure video game",
+    "object_value": "Q23916",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 42165
+  },
+  {
+    "object_label": "Italy",
+    "object_value": "Q38",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 41976
+  },
+  {
+    "object_label": "Nippon Rinsho",
+    "object_value": "Q26841908",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 41968
+  },
+  {
+    "object_label": "meta-analysis",
+    "object_value": "Q815382",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 41908
+  },
+  {
+    "object_label": "hepatocellular carcinoma",
+    "object_value": "Q1148337",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 41624
+  },
+  {
+    "object_label": "Neurology",
+    "object_value": "Q1161692",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 41619
+  },
+  {
+    "object_label": "Wikiproject Toponymy",
+    "object_value": "Q112873737",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 41522
+  },
+  {
+    "object_label": "phosphorylation",
+    "object_value": "Q242736",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 41480
+  },
+  {
+    "object_label": "Nature Communications",
+    "object_value": "Q573880",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 41449
+  },
+  {
+    "object_label": "Journal of Physiology",
+    "object_value": "Q7743612",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 41439
+  },
+  {
+    "object_label": "Joseph",
+    "object_value": "Q471788",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 41411
+  },
+  {
+    "object_label": "association football club",
+    "object_value": "Q476028",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 41168
+  },
+  {
+    "object_label": "man",
+    "object_value": "Q8441",
+    "property_id": "P180",
+    "property_label": "depicts",
+    "usage_count": 41166
+  },
+  {
+    "object_label": "locality",
+    "object_value": "Q3257686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 41155
+  },
+  {
+    "object_label": "thrombosis",
+    "object_value": "Q261327",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 41112
+  },
+  {
+    "object_label": "Afghanistan",
+    "object_value": "Q889",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 40961
+  },
+  {
+    "object_label": "Estonia",
+    "object_value": "Q191",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 40824
+  },
+  {
+    "object_label": "news article",
+    "object_value": "Q5707594",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40813
+  },
+  {
+    "object_label": "stage actor",
+    "object_value": "Q2259451",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 40804
+  },
+  {
+    "object_label": "Algeria",
+    "object_value": "Q262",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 40734
+  },
+  {
+    "object_label": "cricketer",
+    "object_value": "Q12299841",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 40708
+  },
+  {
+    "object_label": "hydrolase activity",
+    "object_value": "Q14353168",
+    "property_id": "P680",
+    "property_label": "molecular function",
+    "usage_count": 40692
+  },
+  {
+    "object_label": "farmhouse",
+    "object_value": "Q489357",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40681
+  },
+  {
+    "object_label": "ice hockey player",
+    "object_value": "Q11774891",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 40591
+  },
+  {
+    "object_label": "tennis court",
+    "object_value": "Q741118",
+    "property_id": "P912",
+    "property_label": "has facility",
+    "usage_count": 40494
+  },
+  {
+    "object_label": "unincorporated community in the United States",
+    "object_value": "Q17343829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40386
+  },
+  {
+    "object_label": null,
+    "object_value": "Q201",
+    "property_id": "P5236",
+    "property_label": "prime factor",
+    "usage_count": 40370
+  },
+  {
+    "object_label": "Australia",
+    "object_value": "Q408",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 40329
+  },
+  {
+    "object_label": "double star",
+    "object_value": "Q13890",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40328
+  },
+  {
+    "object_label": "Frick Art Research Library",
+    "object_value": "Q5503390",
+    "property_id": "P9493",
+    "property_label": "artist files at",
+    "usage_count": 40268
+  },
+  {
+    "object_label": "mayor of a place in France",
+    "object_value": "Q382617",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 40215
+  },
+  {
+    "object_label": "municipal councillor",
+    "object_value": "Q15113603",
+    "property_id": "P279",
+    "property_label": "subclass of",
+    "usage_count": 40212
+  },
+  {
+    "object_label": "Norma",
+    "object_value": "Q10582",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 40159
+  },
+  {
+    "object_label": "volleyball",
+    "object_value": "Q1734",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 40102
+  },
+  {
+    "object_label": "phase III clinical trial",
+    "object_value": "Q42824827",
+    "property_id": "P6099",
+    "property_label": "clinical trial phase",
+    "usage_count": 40084
+  },
+  {
+    "object_label": "casual game",
+    "object_value": "Q1050023",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 40069
+  },
+  {
+    "object_label": "civil servant",
+    "object_value": "Q212238",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 40068
+  },
+  {
+    "object_label": "Han Chinese people",
+    "object_value": "Q42740",
+    "property_id": "P172",
+    "property_label": "ethnic group",
+    "usage_count": 39969
+  },
+  {
+    "object_label": "Doctor of Philosophy",
+    "object_value": "Q752297",
+    "property_id": "P512",
+    "property_label": "academic degree",
+    "usage_count": 39938
+  },
+  {
+    "object_label": "Nationalmuseum",
+    "object_value": "Q842858",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 39853
+  },
+  {
+    "object_label": "apoptotic process",
+    "object_value": "Q14599311",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 39801
+  },
+  {
+    "object_label": "Listed objects in Austria",
+    "object_value": "Q1188447",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 39799
+  },
+  {
+    "object_label": "4-star hotel rating",
+    "object_value": "Q110772653",
+    "property_id": "P10290",
+    "property_label": "hotel rating",
+    "usage_count": 39761
+  },
+  {
+    "object_label": "Records of persons of interest",
+    "object_value": "Q104900509",
+    "property_id": "P1343",
+    "property_label": "described by source",
+    "usage_count": 39672
+  },
+  {
+    "object_label": "endocrinology",
+    "object_value": "Q162606",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 39571
+  },
+  {
+    "object_label": "Scopus",
+    "object_value": "Q371467",
+    "property_id": "P8875",
+    "property_label": "indexed in bibliographic review",
+    "usage_count": 39459
+  },
+  {
+    "object_label": "Journal of Chromatography A",
+    "object_value": "Q902558",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 39330
+  },
+  {
+    "object_label": "The Journal of Neuroscience",
+    "object_value": "Q1709864",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 39306
+  },
+  {
+    "object_label": "director",
+    "object_value": "Q3455803",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 39274
+  },
+  {
+    "object_label": "neighborhood",
+    "object_value": "Q123705",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 39270
+  },
+  {
+    "object_label": "Europe",
+    "object_value": "Q46",
+    "property_id": "P30",
+    "property_label": "continent",
+    "usage_count": 39230
+  },
+  {
+    "object_label": "Nursing Times",
+    "object_value": "Q7070257",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 39135
+  },
+  {
+    "object_label": "film",
+    "object_value": "Q11424",
+    "property_id": "P4224",
+    "property_label": "category contains",
+    "usage_count": 39041
+  },
+  {
+    "object_label": "Advances in Experimental Medicine and Biology",
+    "object_value": "Q4686385",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38952
+  },
+  {
+    "object_label": "Analytical Chemistry",
+    "object_value": "Q485223",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38905
+  },
+  {
+    "object_label": "ScienceSource",
+    "object_value": "Q55439927",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 38851
+  },
+  {
+    "object_label": "Ireland",
+    "object_value": "Q27",
+    "property_id": "P1001",
+    "property_label": "applies to jurisdiction",
+    "usage_count": 38820
+  },
+  {
+    "object_label": "antibody",
+    "object_value": "Q79460",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 38774
+  },
+  {
+    "object_label": "International Journal of Molecular Sciences",
+    "object_value": "Q3153277",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38729
+  },
+  {
+    "object_label": "South Africa",
+    "object_value": "Q258",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 38712
+  },
+  {
+    "object_label": "Nederlands Tijdschrift voor Geneeskunde",
+    "object_value": "Q1891153",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38678
+  },
+  {
+    "object_label": "Brazil",
+    "object_value": "Q155",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 38656
+  },
+  {
+    "object_label": "eclipsing binary star",
+    "object_value": "Q1457376",
+    "property_id": "P881",
+    "property_label": "type of variable star",
+    "usage_count": 38616
+  },
+  {
+    "object_label": "Venezuela",
+    "object_value": "Q717",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 38533
+  },
+  {
+    "object_label": "cycle sport",
+    "object_value": "Q2215841",
+    "property_id": "P641",
+    "property_label": "sport",
+    "usage_count": 38497
+  },
+  {
+    "object_label": "rock music",
+    "object_value": "Q11399",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 38477
+  },
+  {
+    "object_label": "Order of Lenin",
+    "object_value": "Q185493",
+    "property_id": "P166",
+    "property_label": "award received",
+    "usage_count": 38407
+  },
+  {
+    "object_label": "Taiwan",
+    "object_value": "Q865",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 38404
+  },
+  {
+    "object_label": "Italy",
+    "object_value": "Q38",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 38377
+  },
+  {
+    "object_label": "American Journal of Cardiology",
+    "object_value": "Q2208417",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38367
+  },
+  {
+    "object_label": "ship name",
+    "object_value": "Q56351075",
+    "property_id": "P971",
+    "property_label": "category combines topics",
+    "usage_count": 38360
+  },
+  {
+    "object_label": "Journal of Organic Chemistry",
+    "object_value": "Q898967",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 38318
+  },
+  {
+    "object_label": "Turkish",
+    "object_value": "Q256",
+    "property_id": "P103",
+    "property_label": "native language",
+    "usage_count": 38248
+  },
+  {
+    "object_label": "Johann",
+    "object_value": "Q11122389",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 38220
+  },
+  {
+    "object_label": "Israel",
+    "object_value": "Q801",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 38181
+  },
+  {
+    "object_label": "pedagogue",
+    "object_value": "Q1231865",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 38169
+  },
+  {
+    "object_label": "monument",
+    "object_value": "Q4989906",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 38152
+  },
+  {
+    "object_label": "Welsh",
+    "object_value": "Q9309",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 38134
+  },
+  {
+    "object_label": "Nationalmuseum",
+    "object_value": "Q842858",
+    "property_id": "P276",
+    "property_label": "location",
+    "usage_count": 38110
+  },
+  {
+    "object_label": "archaeology",
+    "object_value": "Q23498",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 38071
+  },
+  {
+    "object_label": "football pitch",
+    "object_value": "Q105755419",
+    "property_id": "P912",
+    "property_label": "has facility",
+    "usage_count": 38058
+  },
+  {
+    "object_label": "decommissioned",
+    "object_value": "Q11639308",
+    "property_id": "P5817",
+    "property_label": "state of use",
+    "usage_count": 38058
+  },
+  {
+    "object_label": "Diptera",
+    "object_value": "Q25312",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 37987
+  },
+  {
+    "object_label": "printed book",
+    "object_value": "Q11396303",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 37973
+  },
+  {
+    "object_label": "Scottish Medical Journal",
+    "object_value": "Q7437854",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 37968
+  },
+  {
+    "object_label": "Northern Song dynasty",
+    "object_value": "Q319460",
+    "property_id": "P495",
+    "property_label": "country of origin",
+    "usage_count": 37910
+  },
+  {
+    "object_label": "quality of life",
+    "object_value": "Q13100823",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 37888
+  },
+  {
+    "object_label": "WikiProject Brazilian Laws",
+    "object_value": "Q105091640",
+    "property_id": "P5008",
+    "property_label": "on focus list of Wikimedia project",
+    "usage_count": 37879
+  },
+  {
+    "object_label": "Vietnam",
+    "object_value": "Q881",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 37843
+  },
+  {
+    "object_label": "Tang dynasty",
+    "object_value": "Q9683",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 37841
+  },
+  {
+    "object_label": "Chest",
+    "object_value": "Q5093377",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 37691
+  },
+  {
+    "object_label": "The Annals of Thoracic Surgery",
+    "object_value": "Q1939819",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 37541
+  },
+  {
+    "object_label": "Basic local alignment search tool",
+    "object_value": "Q25938991",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 37540
+  },
+  {
+    "object_label": "cultural heritage ensemble",
+    "object_value": "Q1516079",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 37508
+  },
+  {
+    "object_label": "heart failure",
+    "object_value": "Q181754",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 37485
+  },
+  {
+    "object_label": "settlement in Galicia",
+    "object_value": "Q20541692",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 37457
+  },
+  {
+    "object_label": "Israel",
+    "object_value": "Q801",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 37342
+  },
+  {
+    "object_label": "silver",
+    "object_value": "Q1090",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 37283
+  },
+  {
+    "object_label": "Romania",
+    "object_value": "Q218",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 37275
+  },
+  {
+    "object_label": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "object_value": "Q42553662",
+    "property_id": "P275",
+    "property_label": "copyright license",
+    "usage_count": 37264
+  },
+  {
+    "object_label": "Endocrinology",
+    "object_value": "Q3054009",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 37238
+  },
+  {
+    "object_label": "entrepreneur",
+    "object_value": "Q131524",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 37216
+  },
+  {
+    "object_label": "Lincoln Near-Earth Asteroid Research",
+    "object_value": "Q735603",
+    "property_id": "P61",
+    "property_label": "discoverer or inventor",
+    "usage_count": 37214
+  },
+  {
+    "object_label": "public art",
+    "object_value": "Q557141",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 37157
+  },
+  {
+    "object_label": "Experimental Test Site",
+    "object_value": "Q23789293",
+    "property_id": "P65",
+    "property_label": "site of astronomical discovery",
+    "usage_count": 37145
+  },
+  {
+    "object_label": "Slovenia",
+    "object_value": "Q215",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 37110
+  },
+  {
+    "object_label": "Quebec",
+    "object_value": "Q176",
+    "property_id": "P131",
+    "property_label": "located in the administrative territorial entity",
+    "usage_count": 37065
+  },
+  {
+    "object_label": "automation",
+    "object_value": "Q184199",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 37058
+  },
+  {
+    "object_label": "academic",
+    "object_value": "Q3400985",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 37047
+  },
+  {
+    "object_label": "Indus",
+    "object_value": "Q10450",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 36974
+  },
+  {
+    "object_label": "Pediatrics",
+    "object_value": "Q7159238",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36963
+  },
+  {
+    "object_label": "Paris",
+    "object_value": "Q90",
+    "property_id": "P159",
+    "property_label": "headquarters location",
+    "usage_count": 36957
+  },
+  {
+    "object_label": "Serbia",
+    "object_value": "Q403",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 36942
+  },
+  {
+    "object_label": "Ghana",
+    "object_value": "Q117",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 36891
+  },
+  {
+    "object_label": "Nursing Standard",
+    "object_value": "Q3346488",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36885
+  },
+  {
+    "object_label": "Anna",
+    "object_value": "Q666578",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 36845
+  },
+  {
+    "object_label": "Environmental Science \u0026 Technology",
+    "object_value": "Q689027",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36843
+  },
+  {
+    "object_label": "statute",
+    "object_value": "Q820655",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36842
+  },
+  {
+    "object_label": "Radiology",
+    "object_value": "Q3285690",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36836
+  },
+  {
+    "object_label": "kindergarten",
+    "object_value": "Q126807",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36802
+  },
+  {
+    "object_label": "Drosophila melanogaster",
+    "object_value": "Q130888",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 36794
+  },
+  {
+    "object_label": "Deutsche Medizinische Wochenschrift",
+    "object_value": "Q319640",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36750
+  },
+  {
+    "object_label": "ACS Applied Materials and Interfaces",
+    "object_value": "Q2819060",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36742
+  },
+  {
+    "object_label": "Encyclopædia Britannica 11th edition",
+    "object_value": "Q867541",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36727
+  },
+  {
+    "object_label": "The Journal of Clinical Endocrinology and Metabolism",
+    "object_value": "Q3186902",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 36714
+  },
+  {
+    "object_label": "commune et commune nouvelle",
+    "object_value": "Q112226256",
+    "property_id": "P1454",
+    "property_label": "legal form",
+    "usage_count": 36663
+  },
+  {
+    "object_label": "silent film",
+    "object_value": "Q226730",
+    "property_id": "P136",
+    "property_label": "genre",
+    "usage_count": 36636
+  },
+  {
+    "object_label": "hospital",
+    "object_value": "Q16917",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36604
+  },
+  {
+    "object_label": "administration municipale of France",
+    "object_value": "Q86442081",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36590
+  },
+  {
+    "object_label": "Wikimedia templates category",
+    "object_value": "Q23894233",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36583
+  },
+  {
+    "object_label": "cancer cell line",
+    "object_value": "Q23058136",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36546
+  },
+  {
+    "object_label": "written question",
+    "object_value": "Q99045339",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36537
+  },
+  {
+    "object_label": "American Journal of Physiology",
+    "object_value": "Q2160146",
+    "property_id": "P2860",
+    "property_label": "cites work",
+    "usage_count": 36433
+  },
+  {
+    "object_label": "magazine",
+    "object_value": "Q41298",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36426
+  },
+  {
+    "object_label": "elementary school in France",
+    "object_value": "Q3578542",
+    "property_id": "P7374",
+    "property_label": "educational stage",
+    "usage_count": 36407
+  },
+  {
+    "object_label": "paperback",
+    "object_value": "Q193934",
+    "property_id": "P437",
+    "property_label": "distribution format",
+    "usage_count": 36390
+  },
+  {
+    "object_label": "Indian Oil Corporation",
+    "object_value": "Q1289348",
+    "property_id": "P1716",
+    "property_label": "brand",
+    "usage_count": 36344
+  },
+  {
+    "object_label": "Uganda",
+    "object_value": "Q1036",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 36318
+  },
+  {
+    "object_label": "monument historique inscrit",
+    "object_value": "Q10387575",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 36302
+  },
+  {
+    "object_label": "kindergarten in France",
+    "object_value": "Q273556",
+    "property_id": "P7374",
+    "property_label": "educational stage",
+    "usage_count": 36292
+  },
+  {
+    "object_label": "emission-line galaxy",
+    "object_value": "Q72802508",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36241
+  },
+  {
+    "object_label": "Swedish",
+    "object_value": "Q9027",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 36168
+  },
+  {
+    "object_label": "Aries",
+    "object_value": "Q10584",
+    "property_id": "P59",
+    "property_label": "constellation",
+    "usage_count": 36147
+  },
+  {
+    "object_label": "Estonia",
+    "object_value": "Q191",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 36134
+  },
+  {
+    "object_label": "Central European Time",
+    "object_value": "Q25989",
+    "property_id": "P421",
+    "property_label": "located in time zone",
+    "usage_count": 36069
+  },
+  {
+    "object_label": "Bangla",
+    "object_value": "Q9610",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 36056
+  },
+  {
+    "object_label": "Daniel",
+    "object_value": "Q14516546",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 36005
+  },
+  {
+    "object_label": "Optics Letters",
+    "object_value": "Q7098918",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35959
+  },
+  {
+    "object_label": "drawings in the National Gallery of Art",
+    "object_value": "Q64532898",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 35715
+  },
+  {
+    "object_label": "demolished or destroyed",
+    "object_value": "Q56556915",
+    "property_id": "P5816",
+    "property_label": "state of conservation",
+    "usage_count": 35707
+  },
+  {
+    "object_label": "publication",
+    "object_value": "Q732577",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35661
+  },
+  {
+    "object_label": "Wikimedia project page",
+    "object_value": "Q14204246",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35601
+  },
+  {
+    "object_label": "Appendix II of CITES",
+    "object_value": "Q2851527",
+    "property_id": "P7603",
+    "property_label": "CITES Appendix",
+    "usage_count": 35539
+  },
+  {
+    "object_label": "Encyclopædia Britannica 11th edition",
+    "object_value": "Q867541",
+    "property_id": "P1343",
+    "property_label": "described by source",
+    "usage_count": 35516
+  },
+  {
+    "object_label": "Estonian",
+    "object_value": "Q9072",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 35475
+  },
+  {
+    "object_label": "Henry",
+    "object_value": "Q1158477",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 35446
+  },
+  {
+    "object_label": "illustrator",
+    "object_value": "Q644687",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 35440
+  },
+  {
+    "object_label": "female given name",
+    "object_value": "Q11879590",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35420
+  },
+  {
+    "object_label": "regulation of transcription, DNA-templated",
+    "object_value": "Q14633883",
+    "property_id": "P682",
+    "property_label": "biological process",
+    "usage_count": 35314
+  },
+  {
+    "object_label": "European Journal of Pharmacology",
+    "object_value": "Q1376712",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35282
+  },
+  {
+    "object_label": "Journal of Agricultural and Food Chemistry",
+    "object_value": "Q1024905",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35266
+  },
+  {
+    "object_label": "Veterinary Record",
+    "object_value": "Q7923713",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35248
+  },
+  {
+    "object_label": "United States",
+    "object_value": "Q30",
+    "property_id": "P1532",
+    "property_label": "country for sport",
+    "usage_count": 35248
+  },
+  {
+    "object_label": "Mexico",
+    "object_value": "Q96",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 35230
+  },
+  {
+    "object_label": "Croatia",
+    "object_value": "Q224",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 35223
+  },
+  {
+    "object_label": "Physical Chemistry Chemical Physics",
+    "object_value": "Q3018671",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35222
+  },
+  {
+    "object_label": "philosopher",
+    "object_value": "Q4964182",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 35216
+  },
+  {
+    "object_label": "wastewater",
+    "object_value": "Q336191",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 35202
+  },
+  {
+    "object_label": "Annals of Internal Medicine",
+    "object_value": "Q564416",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35184
+  },
+  {
+    "object_label": "physicist",
+    "object_value": "Q169470",
+    "property_id": "P106",
+    "property_label": "occupation",
+    "usage_count": 35182
+  },
+  {
+    "object_label": "town hall",
+    "object_value": "Q25550691",
+    "property_id": "P366",
+    "property_label": "has use",
+    "usage_count": 35063
+  },
+  {
+    "object_label": "Cardiology and cardiovascular medicine",
+    "object_value": "Q96320350",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 35033
+  },
+  {
+    "object_label": "Zootaxa",
+    "object_value": "Q220370",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 35025
+  },
+  {
+    "object_label": "Korean",
+    "object_value": "Q9176",
+    "property_id": "P407",
+    "property_label": "language of work or name",
+    "usage_count": 35001
+  },
+  {
+    "object_label": "Irish Statutory Instrument",
+    "object_value": "Q100532807",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 34974
+  },
+  {
+    "object_label": "woman",
+    "object_value": "Q467",
+    "property_id": "P180",
+    "property_label": "depicts",
+    "usage_count": 34910
+  },
+  {
+    "object_label": "Empire of Japan",
+    "object_value": "Q188712",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 34901
+  },
+  {
+    "object_label": "dementia",
+    "object_value": "Q83030",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 34889
+  },
+  {
+    "object_label": "maternal health",
+    "object_value": "Q6786626",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 34846
+  },
+  {
+    "object_label": "Dutch",
+    "object_value": "Q7411",
+    "property_id": "P1412",
+    "property_label": "languages spoken, written or signed",
+    "usage_count": 34839
+  },
+  {
+    "object_label": "Applied and Environmental Microbiology",
+    "object_value": "Q4781593",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34791
+  },
+  {
+    "object_label": "New Zealand",
+    "object_value": "Q664",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 34758
+  },
+  {
+    "object_label": "scientific publication",
+    "object_value": "Q591041",
+    "property_id": "P13046",
+    "property_label": "publication type of scholarly work",
+    "usage_count": 34757
+  },
+  {
+    "object_label": "category B listed building",
+    "object_value": "Q10729125",
+    "property_id": "P1435",
+    "property_label": "heritage designation",
+    "usage_count": 34748
+  },
+  {
+    "object_label": "Egypt",
+    "object_value": "Q79",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 34708
+  },
+  {
+    "object_label": "Journal of the American College of Cardiology",
+    "object_value": "Q2984355",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34686
+  },
+  {
+    "object_label": "placebo",
+    "object_value": "Q269829",
+    "property_id": "P921",
+    "property_label": "main subject",
+    "usage_count": 34675
+  },
+  {
+    "object_label": "⿰",
+    "object_value": "Q55589918",
+    "property_id": "P5753",
+    "property_label": "ideographic description sequence",
+    "usage_count": 34601
+  },
+  {
+    "object_label": "Li",
+    "object_value": "Q686223",
+    "property_id": "P734",
+    "property_label": "family name",
+    "usage_count": 34524
+  },
+  {
+    "object_label": "Neuroscience Letters",
+    "object_value": "Q7002625",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34523
+  },
+  {
+    "object_label": "Yale University Art Gallery",
+    "object_value": "Q1568434",
+    "property_id": "P195",
+    "property_label": "collection",
+    "usage_count": 34518
+  },
+  {
+    "object_label": "graphite",
+    "object_value": "Q5309",
+    "property_id": "P186",
+    "property_label": "made from material",
+    "usage_count": 34486
+  },
+  {
+    "object_label": "Queensland",
+    "object_value": "Q36074",
+    "property_id": "P131",
+    "property_label": "located in the administrative territorial entity",
+    "usage_count": 34448
+  },
+  {
+    "object_label": "The Hospital",
+    "object_value": "Q27722667",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34409
+  },
+  {
+    "object_label": "Trypanosoma brucei Lister 427",
+    "object_value": "Q62116063",
+    "property_id": "P703",
+    "property_label": "found in taxon",
+    "usage_count": 34396
+  },
+  {
+    "object_label": "Inorganic Chemistry",
+    "object_value": "Q902828",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34348
+  },
+  {
+    "object_label": "Bosnia and Herzegovina",
+    "object_value": "Q225",
+    "property_id": "P17",
+    "property_label": "country",
+    "usage_count": 34347
+  },
+  {
+    "object_label": "active galactic nucleus",
+    "object_value": "Q46587",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 34337
+  },
+  {
+    "object_label": "Czech Republic",
+    "object_value": "Q213",
+    "property_id": "P27",
+    "property_label": "country of citizenship",
+    "usage_count": 34280
+  },
+  {
+    "object_label": "FEBS Journal",
+    "object_value": "Q1388041",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34275
+  },
+  {
+    "object_label": "Meyers Konversations-Lexikon, 4th edition (1885–1890)",
+    "object_value": "Q19219752",
+    "property_id": "P1433",
+    "property_label": "published in",
+    "usage_count": 34172
+  },
+  {
+    "object_label": "Jan",
+    "object_value": "Q12173670",
+    "property_id": "P735",
+    "property_label": "given name",
+    "usage_count": 34085
+  }
+]

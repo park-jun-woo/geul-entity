@@ -1,0 +1,7002 @@
+[
+  {
+    "object_label": "scholarly article",
+    "object_value": "Q13442814",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45216368
+  },
+  {
+    "object_label": "human",
+    "object_value": "Q5",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12553810
+  },
+  {
+    "object_label": "Wikimedia category",
+    "object_value": "Q4167836",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5698822
+  },
+  {
+    "object_label": "taxon",
+    "object_value": "Q16521",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3787844
+  },
+  {
+    "object_label": "star",
+    "object_value": "Q523",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3634978
+  },
+  {
+    "object_label": "infrared source",
+    "object_value": "Q67206691",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 2621805
+  },
+  {
+    "object_label": "galaxy",
+    "object_value": "Q318",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 2133383
+  },
+  {
+    "object_label": "Wikimedia disambiguation page",
+    "object_value": "Q4167410",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1517308
+  },
+  {
+    "object_label": "type of chemical entity",
+    "object_value": "Q113145171",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1278857
+  },
+  {
+    "object_label": "gene",
+    "object_value": "Q7187",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1225271
+  },
+  {
+    "object_label": "painting",
+    "object_value": "Q3305213",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1060257
+  },
+  {
+    "object_label": "protein",
+    "object_value": "Q8054",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 1014021
+  },
+  {
+    "object_label": "Wikimedia template",
+    "object_value": "Q11266439",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 830519
+  },
+  {
+    "object_label": "version, edition or translation",
+    "object_value": "Q3331189",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 729756
+  },
+  {
+    "object_label": "street",
+    "object_value": "Q79007",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 710621
+  },
+  {
+    "object_label": "family name",
+    "object_value": "Q101352",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 661697
+  },
+  {
+    "object_label": "encyclopedia article",
+    "object_value": "Q13433827",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 642974
+  },
+  {
+    "object_label": "village of the People's Republic of China",
+    "object_value": "Q13100073",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 592626
+  },
+  {
+    "object_label": "human settlement",
+    "object_value": "Q486972",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 580084
+  },
+  {
+    "object_label": "organization",
+    "object_value": "Q43229",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 531222
+  },
+  {
+    "object_label": "mountain",
+    "object_value": "Q8502",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 518080
+  },
+  {
+    "object_label": "editorial",
+    "object_value": "Q871232",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 513039
+  },
+  {
+    "object_label": "collection",
+    "object_value": "Q2668072",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 504230
+  },
+  {
+    "object_label": "river",
+    "object_value": "Q4022",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 426873
+  },
+  {
+    "object_label": "astronomical radio source",
+    "object_value": "Q1931185",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 396880
+  },
+  {
+    "object_label": "literary work",
+    "object_value": "Q7725634",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 395411
+  },
+  {
+    "object_label": "clinical trial",
+    "object_value": "Q30612",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 391919
+  },
+  {
+    "object_label": "Wikimedia list article",
+    "object_value": "Q13406463",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 378180
+  },
+  {
+    "object_label": "collectible",
+    "object_value": "Q2342494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 371472
+  },
+  {
+    "object_label": "film",
+    "object_value": "Q11424",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 335651
+  },
+  {
+    "object_label": "hill",
+    "object_value": "Q54050",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 321151
+  },
+  {
+    "object_label": "high proper-motion star",
+    "object_value": "Q2247863",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 306766
+  },
+  {
+    "object_label": "album",
+    "object_value": "Q482994",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 303243
+  },
+  {
+    "object_label": "eclipsing binary star",
+    "object_value": "Q1457376",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 298485
+  },
+  {
+    "object_label": "cemetery",
+    "object_value": "Q39614",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 298046
+  },
+  {
+    "object_label": "Wikinews article",
+    "object_value": "Q17633526",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 296002
+  },
+  {
+    "object_label": "lake",
+    "object_value": "Q23397",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 292152
+  },
+  {
+    "object_label": "building",
+    "object_value": "Q41176",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 291961
+  },
+  {
+    "object_label": "United States patent",
+    "object_value": "Q43305660",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 289010
+  },
+  {
+    "object_label": "church building",
+    "object_value": "Q16970",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 286141
+  },
+  {
+    "object_label": "asteroid",
+    "object_value": "Q3863",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 248597
+  },
+  {
+    "object_label": "village",
+    "object_value": "Q532",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 245116
+  },
+  {
+    "object_label": "primary school",
+    "object_value": "Q9842",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 242467
+  },
+  {
+    "object_label": "business",
+    "object_value": "Q4830453",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 241620
+  },
+  {
+    "object_label": "house",
+    "object_value": "Q3947",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 234919
+  },
+  {
+    "object_label": "architectural structure",
+    "object_value": "Q811979",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 216026
+  },
+  {
+    "object_label": "coin type",
+    "object_value": "Q113813711",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 214456
+  },
+  {
+    "object_label": "calendar day of a given year",
+    "object_value": "Q47150325",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 201356
+  },
+  {
+    "object_label": "musical work/composition",
+    "object_value": "Q105543609",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 194833
+  },
+  {
+    "object_label": "stream",
+    "object_value": "Q47521",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 194388
+  },
+  {
+    "object_label": "public school",
+    "object_value": "Q1080794",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 188771
+  },
+  {
+    "object_label": "case report",
+    "object_value": "Q2782326",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 187462
+  },
+  {
+    "object_label": "sports season",
+    "object_value": "Q27020041",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 183463
+  },
+  {
+    "object_label": "biographical article",
+    "object_value": "Q19389637",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 181805
+  },
+  {
+    "object_label": "quasar",
+    "object_value": "Q83373",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 178336
+  },
+  {
+    "object_label": "television series episode",
+    "object_value": "Q21191270",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 177351
+  },
+  {
+    "object_label": "watercourse",
+    "object_value": "Q355304",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 174789
+  },
+  {
+    "object_label": "video game",
+    "object_value": "Q7889",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 171517
+  },
+  {
+    "object_label": "written work",
+    "object_value": "Q47461344",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 170007
+  },
+  {
+    "object_label": "porcelain ware",
+    "object_value": "Q98276829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 163839
+  },
+  {
+    "object_label": "Unicode character",
+    "object_value": "Q29654788",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 161479
+  },
+  {
+    "object_label": "dictionary entry",
+    "object_value": "Q1580166",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 158057
+  },
+  {
+    "object_label": "astrophysical X-ray source",
+    "object_value": "Q2154519",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 157565
+  },
+  {
+    "object_label": "article",
+    "object_value": "Q191067",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 155529
+  },
+  {
+    "object_label": "village in India",
+    "object_value": "Q56436498",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 154095
+  },
+  {
+    "object_label": "cell line",
+    "object_value": "Q21014462",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 153636
+  },
+  {
+    "object_label": "island",
+    "object_value": "Q23442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 152610
+  },
+  {
+    "object_label": "group of stereoisomers",
+    "object_value": "Q59199015",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 148411
+  },
+  {
+    "object_label": "hamlet",
+    "object_value": "Q5084",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 148250
+  },
+  {
+    "object_label": "sports venue",
+    "object_value": "Q1076486",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 145076
+  },
+  {
+    "object_label": "print",
+    "object_value": "Q11060274",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 144901
+  },
+  {
+    "object_label": "taxonomy template",
+    "object_value": "Q115595777",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 140524
+  },
+  {
+    "object_label": "document",
+    "object_value": "Q49848",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 139969
+  },
+  {
+    "object_label": "prime number",
+    "object_value": "Q49008",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 136820
+  },
+  {
+    "object_label": "valley",
+    "object_value": "Q39816",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 134922
+  },
+  {
+    "object_label": "item of collection or exhibition",
+    "object_value": "Q18593264",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 132519
+  },
+  {
+    "object_label": "hotel",
+    "object_value": "Q27686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 131503
+  },
+  {
+    "object_label": "branch post office",
+    "object_value": "Q61443690",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 129183
+  },
+  {
+    "object_label": "position",
+    "object_value": "Q4164871",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 128080
+  },
+  {
+    "object_label": "sculpture",
+    "object_value": "Q860861",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 125054
+  },
+  {
+    "object_label": "drawing",
+    "object_value": "Q93184",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 122863
+  },
+  {
+    "object_label": "positive integer",
+    "object_value": "Q28920044",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 121221
+  },
+  {
+    "object_label": "fossil taxon",
+    "object_value": "Q23038290",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 116450
+  },
+  {
+    "object_label": "single",
+    "object_value": "Q134556",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 115325
+  },
+  {
+    "object_label": "railway station",
+    "object_value": "Q55488",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 113556
+  },
+  {
+    "object_label": "meta-analysis",
+    "object_value": "Q815382",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 109676
+  },
+  {
+    "object_label": "cultural property",
+    "object_value": "Q2065736",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 107479
+  },
+  {
+    "object_label": "poem",
+    "object_value": "Q5185279",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 106076
+  },
+  {
+    "object_label": "long-period variable star",
+    "object_value": "Q1153690",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 101271
+  },
+  {
+    "object_label": "badminton event",
+    "object_value": "Q57733494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 100495
+  },
+  {
+    "object_label": "UK Statutory Instrument",
+    "object_value": "Q7604686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 100092
+  },
+  {
+    "object_label": "scientific journal",
+    "object_value": "Q5633421",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 99940
+  },
+  {
+    "object_label": "non-coding RNA",
+    "object_value": "Q427087",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 98747
+  },
+  {
+    "object_label": "manuscript",
+    "object_value": "Q87167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 98681
+  },
+  {
+    "object_label": "park",
+    "object_value": "Q22698",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 97136
+  },
+  {
+    "object_label": "RR Lyrae variable",
+    "object_value": "Q726242",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 96968
+  },
+  {
+    "object_label": "residential community",
+    "object_value": "Q985488",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 96640
+  },
+  {
+    "object_label": "musical group",
+    "object_value": "Q215380",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 95816
+  },
+  {
+    "object_label": "composite number",
+    "object_value": "Q50707",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 95193
+  },
+  {
+    "object_label": "doctoral thesis",
+    "object_value": "Q187685",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 94650
+  },
+  {
+    "object_label": "Wikimedia human name disambiguation page",
+    "object_value": "Q22808320",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 93431
+  },
+  {
+    "object_label": "erratum",
+    "object_value": "Q1348305",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 92485
+  },
+  {
+    "object_label": "ship",
+    "object_value": "Q11446",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 90848
+  },
+  {
+    "object_label": "time of day",
+    "object_value": "Q1260524",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87896
+  },
+  {
+    "object_label": "CJKV character",
+    "object_value": "Q53764732",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87468
+  },
+  {
+    "object_label": "galaxy cluster",
+    "object_value": "Q204107",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 87180
+  },
+  {
+    "object_label": "photograph",
+    "object_value": "Q125191",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 85025
+  },
+  {
+    "object_label": "near-IR source",
+    "object_value": "Q67206785",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84778
+  },
+  {
+    "object_label": "motion",
+    "object_value": "Q452237",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84224
+  },
+  {
+    "object_label": "road",
+    "object_value": "Q34442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 84037
+  },
+  {
+    "object_label": "issue",
+    "object_value": "Q28869365",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 82947
+  },
+  {
+    "object_label": "calligraphic work",
+    "object_value": "Q22669850",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 82112
+  },
+  {
+    "object_label": "deficient number",
+    "object_value": "Q467511",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 80072
+  },
+  {
+    "object_label": "sekolah dasar",
+    "object_value": "Q97042318",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 79784
+  },
+  {
+    "object_label": "compact group of galaxies",
+    "object_value": "Q65259218",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 78898
+  },
+  {
+    "object_label": "television series",
+    "object_value": "Q5398426",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 78552
+  },
+  {
+    "object_label": "far-IR source",
+    "object_value": "Q67206701",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 77432
+  },
+  {
+    "object_label": "dam",
+    "object_value": "Q12323",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 76637
+  },
+  {
+    "object_label": "brightest cluster galaxy",
+    "object_value": "Q1151284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 76061
+  },
+  {
+    "object_label": "coeducational school",
+    "object_value": "Q11902693",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 75432
+  },
+  {
+    "object_label": "periodical",
+    "object_value": "Q1002697",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 75386
+  },
+  {
+    "object_label": "rural school",
+    "object_value": "Q19855165",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 73237
+  },
+  {
+    "object_label": "locality of Mexico",
+    "object_value": "Q20202352",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 72611
+  },
+  {
+    "object_label": "spring",
+    "object_value": "Q124714",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 72541
+  },
+  {
+    "object_label": "metal object",
+    "object_value": "Q11646939",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71766
+  },
+  {
+    "object_label": "possible red giant branch star",
+    "object_value": "Q72802727",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71684
+  },
+  {
+    "object_label": "chapel",
+    "object_value": "Q108325",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71504
+  },
+  {
+    "object_label": "science project",
+    "object_value": "Q1298668",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 71209
+  },
+  {
+    "object_label": "red giant branch star",
+    "object_value": "Q66619666",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 70061
+  },
+  {
+    "object_label": "individual motion",
+    "object_value": "Q96739634",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 69975
+  },
+  {
+    "object_label": "protected area",
+    "object_value": "Q473972",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 68651
+  },
+  {
+    "object_label": "school",
+    "object_value": "Q3914",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 68603
+  },
+  {
+    "object_label": "fictional human",
+    "object_value": "Q15632617",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 66823
+  },
+  {
+    "object_label": "private school",
+    "object_value": "Q423208",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 65673
+  },
+  {
+    "object_label": "Ortsteil",
+    "object_value": "Q253019",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 65040
+  },
+  {
+    "object_label": "war memorial",
+    "object_value": "Q575759",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 64067
+  },
+  {
+    "object_label": "educational facility",
+    "object_value": "Q20860083",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 64011
+  },
+  {
+    "object_label": "archaeological site",
+    "object_value": "Q839954",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63929
+  },
+  {
+    "object_label": "gas station",
+    "object_value": "Q128302279",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63648
+  },
+  {
+    "object_label": "enterprise",
+    "object_value": "Q6881511",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 63079
+  },
+  {
+    "object_label": "architectural landmark",
+    "object_value": "Q2319498",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 62741
+  },
+  {
+    "object_label": "pseudogene",
+    "object_value": "Q277338",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61096
+  },
+  {
+    "object_label": "variable star",
+    "object_value": "Q6243",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61008
+  },
+  {
+    "object_label": "television program",
+    "object_value": "Q15416",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 61000
+  },
+  {
+    "object_label": "stone setting",
+    "object_value": "Q2341654",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60688
+  },
+  {
+    "object_label": "odd number",
+    "object_value": "Q13366129",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60612
+  },
+  {
+    "object_label": "even number",
+    "object_value": "Q13366104",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60578
+  },
+  {
+    "object_label": "townland",
+    "object_value": "Q2151232",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60104
+  },
+  {
+    "object_label": "Wikimedia module",
+    "object_value": "Q15184295",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 60041
+  },
+  {
+    "object_label": "desa",
+    "object_value": "Q26211545",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 59158
+  },
+  {
+    "object_label": "volume",
+    "object_value": "Q1238720",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 58632
+  },
+  {
+    "object_label": "statue",
+    "object_value": "Q179700",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 58204
+  },
+  {
+    "object_label": "movie theater",
+    "object_value": "Q41253",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 57349
+  },
+  {
+    "object_label": "coin",
+    "object_value": "Q41207",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 56729
+  },
+  {
+    "object_label": "village of Poland",
+    "object_value": "Q3558970",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 55932
+  },
+  {
+    "object_label": "Wikimedia navigational template",
+    "object_value": "Q11753321",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 55838
+  },
+  {
+    "object_label": "male given name",
+    "object_value": "Q12308941",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 54710
+  },
+  {
+    "object_label": "nonprofit organization",
+    "object_value": "Q163740",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 54370
+  },
+  {
+    "object_label": "sinogram",
+    "object_value": "Q17300291",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 53958
+  },
+  {
+    "object_label": "facility",
+    "object_value": "Q13226383",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52781
+  },
+  {
+    "object_label": "fonds",
+    "object_value": "Q3052382",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52662
+  },
+  {
+    "object_label": "events in a specific year or time period",
+    "object_value": "Q18340514",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52185
+  },
+  {
+    "object_label": "wadi",
+    "object_value": "Q187971",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 52077
+  },
+  {
+    "object_label": "bay",
+    "object_value": "Q39594",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 51980
+  },
+  {
+    "object_label": "newspaper",
+    "object_value": "Q11032",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 51079
+  },
+  {
+    "object_label": "rotating variable star",
+    "object_value": "Q2168098",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50739
+  },
+  {
+    "object_label": "transformed cell line",
+    "object_value": "Q27555384",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50724
+  },
+  {
+    "object_label": "Bodendenkmal",
+    "object_value": "Q22969563",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 50564
+  },
+  {
+    "object_label": "association football team season",
+    "object_value": "Q26887310",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 49680
+  },
+  {
+    "object_label": "short film",
+    "object_value": "Q24862",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48723
+  },
+  {
+    "object_label": "public library",
+    "object_value": "Q28564",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48640
+  },
+  {
+    "object_label": "canal",
+    "object_value": "Q12284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 48202
+  },
+  {
+    "object_label": "Stolperstein",
+    "object_value": "Q26703203",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47555
+  },
+  {
+    "object_label": "museum",
+    "object_value": "Q33506",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47367
+  },
+  {
+    "object_label": "master's thesis",
+    "object_value": "Q1907875",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 47037
+  },
+  {
+    "object_label": "tumulus",
+    "object_value": "Q34023",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 46671
+  },
+  {
+    "object_label": "commune of France",
+    "object_value": "Q484170",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 46249
+  },
+  {
+    "object_label": "mine",
+    "object_value": "Q820477",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45871
+  },
+  {
+    "object_label": "lyrics",
+    "object_value": "Q602446",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45778
+  },
+  {
+    "object_label": "narrative motif",
+    "object_value": "Q1697305",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45457
+  },
+  {
+    "object_label": "folklore motif",
+    "object_value": "Q2995443",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 45410
+  },
+  {
+    "object_label": "pottery ware",
+    "object_value": "Q17379525",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 44770
+  },
+  {
+    "object_label": "point",
+    "object_value": "Q24529780",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 44151
+  },
+  {
+    "object_label": "masia",
+    "object_value": "Q585956",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 43702
+  },
+  {
+    "object_label": "Sekolah Menengah Pertama",
+    "object_value": "Q97500812",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 42879
+  },
+  {
+    "object_label": "biological process",
+    "object_value": "Q2996394",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 42515
+  },
+  {
+    "object_label": "association football club",
+    "object_value": "Q476028",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 41168
+  },
+  {
+    "object_label": "locality",
+    "object_value": "Q3257686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 41155
+  },
+  {
+    "object_label": "news article",
+    "object_value": "Q5707594",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40813
+  },
+  {
+    "object_label": "farmhouse",
+    "object_value": "Q489357",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40681
+  },
+  {
+    "object_label": "unincorporated community in the United States",
+    "object_value": "Q17343829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40386
+  },
+  {
+    "object_label": "double star",
+    "object_value": "Q13890",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 40328
+  },
+  {
+    "object_label": "neighborhood",
+    "object_value": "Q123705",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 39270
+  },
+  {
+    "object_label": "monument",
+    "object_value": "Q4989906",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 38152
+  },
+  {
+    "object_label": "cultural heritage ensemble",
+    "object_value": "Q1516079",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 37508
+  },
+  {
+    "object_label": "settlement in Galicia",
+    "object_value": "Q20541692",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 37457
+  },
+  {
+    "object_label": "statute",
+    "object_value": "Q820655",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36842
+  },
+  {
+    "object_label": "kindergarten",
+    "object_value": "Q126807",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36802
+  },
+  {
+    "object_label": "hospital",
+    "object_value": "Q16917",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36604
+  },
+  {
+    "object_label": "administration municipale of France",
+    "object_value": "Q86442081",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36590
+  },
+  {
+    "object_label": "Wikimedia templates category",
+    "object_value": "Q23894233",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36583
+  },
+  {
+    "object_label": "cancer cell line",
+    "object_value": "Q23058136",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36546
+  },
+  {
+    "object_label": "written question",
+    "object_value": "Q99045339",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36537
+  },
+  {
+    "object_label": "magazine",
+    "object_value": "Q41298",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36426
+  },
+  {
+    "object_label": "emission-line galaxy",
+    "object_value": "Q72802508",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 36241
+  },
+  {
+    "object_label": "publication",
+    "object_value": "Q732577",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35661
+  },
+  {
+    "object_label": "Wikimedia project page",
+    "object_value": "Q14204246",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35601
+  },
+  {
+    "object_label": "female given name",
+    "object_value": "Q11879590",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 35420
+  },
+  {
+    "object_label": "Irish Statutory Instrument",
+    "object_value": "Q100532807",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 34974
+  },
+  {
+    "object_label": "active galactic nucleus",
+    "object_value": "Q46587",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 34337
+  },
+  {
+    "object_label": "cultural heritage",
+    "object_value": "Q210272",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 34075
+  },
+  {
+    "object_label": "work of art",
+    "object_value": "Q838948",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33881
+  },
+  {
+    "object_label": "academic journal article",
+    "object_value": "Q18918145",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33715
+  },
+  {
+    "object_label": "galaxy group",
+    "object_value": "Q1491746",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33680
+  },
+  {
+    "object_label": "islet",
+    "object_value": "Q207524",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33641
+  },
+  {
+    "object_label": "young stellar object candidate",
+    "object_value": "Q72802977",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33634
+  },
+  {
+    "object_label": "wayside cross",
+    "object_value": "Q2309609",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 33055
+  },
+  {
+    "object_label": "sporting event",
+    "object_value": "Q16510064",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 32803
+  },
+  {
+    "object_label": "bridge",
+    "object_value": "Q12280",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 32701
+  },
+  {
+    "object_label": "grave",
+    "object_value": "Q173387",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 32683
+  },
+  {
+    "object_label": "H II region",
+    "object_value": "Q11282",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 32175
+  },
+  {
+    "object_label": "douar in Morocco",
+    "object_value": "Q23925393",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 32038
+  },
+  {
+    "object_label": "book",
+    "object_value": "Q571",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31896
+  },
+  {
+    "object_label": "chapter",
+    "object_value": "Q1980247",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31852
+  },
+  {
+    "object_label": "cottage",
+    "object_value": "Q5783996",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31725
+  },
+  {
+    "object_label": "lake or pond",
+    "object_value": "Q104093746",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31227
+  },
+  {
+    "object_label": "weather station",
+    "object_value": "Q190107",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31156
+  },
+  {
+    "object_label": "public office",
+    "object_value": "Q294414",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31018
+  },
+  {
+    "object_label": "shipwreck",
+    "object_value": "Q852190",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 31003
+  },
+  {
+    "object_label": "rubbing",
+    "object_value": "Q112310161",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 30710
+  },
+  {
+    "object_label": "tennis event",
+    "object_value": "Q46190676",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 30323
+  },
+  {
+    "object_label": "Shinto shrine",
+    "object_value": "Q845945",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 30240
+  },
+  {
+    "object_label": "sports club",
+    "object_value": "Q847017",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29918
+  },
+  {
+    "object_label": "given name",
+    "object_value": "Q202444",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29867
+  },
+  {
+    "object_label": "peninsula",
+    "object_value": "Q34763",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29411
+  },
+  {
+    "object_label": "radio station",
+    "object_value": "Q14350",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29283
+  },
+  {
+    "object_label": "legal case",
+    "object_value": "Q2334719",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29193
+  },
+  {
+    "object_label": "low-mass star",
+    "object_value": "Q12795622",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 29066
+  },
+  {
+    "object_label": "high school",
+    "object_value": "Q9826",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 28757
+  },
+  {
+    "object_label": "seasonal river",
+    "object_value": "Q16465938",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 28751
+  },
+  {
+    "object_label": "bog",
+    "object_value": "Q1681353",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27976
+  },
+  {
+    "object_label": "reservoir",
+    "object_value": "Q131681",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27784
+  },
+  {
+    "object_label": "music track with vocals",
+    "object_value": "Q55850593",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27557
+  },
+  {
+    "object_label": "rotating ellipsoidal variable",
+    "object_value": "Q1332364",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27424
+  },
+  {
+    "object_label": "abundant number",
+    "object_value": "Q223722",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27261
+  },
+  {
+    "object_label": "residential building",
+    "object_value": "Q11755880",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27216
+  },
+  {
+    "object_label": "military unit",
+    "object_value": "Q176799",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 27054
+  },
+  {
+    "object_label": "library",
+    "object_value": "Q7075",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26979
+  },
+  {
+    "object_label": "château",
+    "object_value": "Q751876",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26883
+  },
+  {
+    "object_label": "village of Ukraine",
+    "object_value": "Q21672098",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26772
+  },
+  {
+    "object_label": "destroyed building or structure",
+    "object_value": "Q19860854",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26741
+  },
+  {
+    "object_label": "college",
+    "object_value": "Q189004",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26693
+  },
+  {
+    "object_label": "ridge",
+    "object_value": "Q740445",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26640
+  },
+  {
+    "object_label": "Buddhist temple",
+    "object_value": "Q5393308",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26520
+  },
+  {
+    "object_label": "ward",
+    "object_value": "Q1195098",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26484
+  },
+  {
+    "object_label": "State Bank of India branch",
+    "object_value": "Q65954115",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26369
+  },
+  {
+    "object_label": "young stellar object",
+    "object_value": "Q497654",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26197
+  },
+  {
+    "object_label": "Government Boys' Primary School",
+    "object_value": "Q67015940",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26161
+  },
+  {
+    "object_label": "summit",
+    "object_value": "Q207326",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26125
+  },
+  {
+    "object_label": "book review",
+    "object_value": "Q637866",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26111
+  },
+  {
+    "object_label": "sports season of a sports club",
+    "object_value": "Q1539532",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26097
+  },
+  {
+    "object_label": "publishing company",
+    "object_value": "Q2085381",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 26069
+  },
+  {
+    "object_label": "astronomical object",
+    "object_value": "Q6999",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25902
+  },
+  {
+    "object_label": "television series season",
+    "object_value": "Q3464665",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25629
+  },
+  {
+    "object_label": "blue object",
+    "object_value": "Q71798532",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25623
+  },
+  {
+    "object_label": "forest",
+    "object_value": "Q4421",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25599
+  },
+  {
+    "object_label": "academic journal",
+    "object_value": "Q737498",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25557
+  },
+  {
+    "object_label": "public election",
+    "object_value": "Q40231",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25435
+  },
+  {
+    "object_label": "castle",
+    "object_value": "Q23413",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25238
+  },
+  {
+    "object_label": "American football team season",
+    "object_value": "Q26895936",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25191
+  },
+  {
+    "object_label": "village in Turkey",
+    "object_value": "Q1529096",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25076
+  },
+  {
+    "object_label": "award",
+    "object_value": "Q618779",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 25036
+  },
+  {
+    "object_label": "natural monument in Germany",
+    "object_value": "Q21573182",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24930
+  },
+  {
+    "object_label": "sub post office",
+    "object_value": "Q61443650",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24762
+  },
+  {
+    "object_label": "airport",
+    "object_value": "Q1248784",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24517
+  },
+  {
+    "object_label": "temporary exhibition",
+    "object_value": "Q29023906",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24313
+  },
+  {
+    "object_label": "semiprime",
+    "object_value": "Q765289",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24295
+  },
+  {
+    "object_label": "protein family",
+    "object_value": "Q417841",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24276
+  },
+  {
+    "object_label": "fountain",
+    "object_value": "Q483453",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 24197
+  },
+  {
+    "object_label": "marsh",
+    "object_value": "Q30198",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 23780
+  },
+  {
+    "object_label": "protein obsoleted in UniProtKB, SwissProt, TrEMBL",
+    "object_value": "Q66826848",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 23628
+  },
+  {
+    "object_label": "protein-coding gene",
+    "object_value": "Q20747295",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 23332
+  },
+  {
+    "object_label": "molecular cloud",
+    "object_value": "Q272447",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 23201
+  },
+  {
+    "object_label": "archaeological artefact",
+    "object_value": "Q220659",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 23092
+  },
+  {
+    "object_label": "political party",
+    "object_value": "Q7278",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22950
+  },
+  {
+    "object_label": "seal",
+    "object_value": "Q3850202",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22887
+  },
+  {
+    "object_label": "mahalle",
+    "object_value": "Q17051044",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22810
+  },
+  {
+    "object_label": "commemorative plaque",
+    "object_value": "Q721747",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22694
+  },
+  {
+    "object_label": "villa",
+    "object_value": "Q3950",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22580
+  },
+  {
+    "object_label": "mountain pass",
+    "object_value": "Q133056",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22518
+  },
+  {
+    "object_label": "retracted paper",
+    "object_value": "Q45182324",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22460
+  },
+  {
+    "object_label": "obituary",
+    "object_value": "Q309481",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22413
+  },
+  {
+    "object_label": "mountain range",
+    "object_value": "Q46831",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22374
+  },
+  {
+    "object_label": "secondary school",
+    "object_value": "Q159334",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22369
+  },
+  {
+    "object_label": "square",
+    "object_value": "Q174782",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22367
+  },
+  {
+    "object_label": "Wikimedia category of stubs",
+    "object_value": "Q24046192",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22254
+  },
+  {
+    "object_label": "television film",
+    "object_value": "Q506240",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22180
+  },
+  {
+    "object_label": "emission-line star",
+    "object_value": "Q72803622",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22164
+  },
+  {
+    "object_label": "town of China",
+    "object_value": "Q735428",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 22067
+  },
+  {
+    "object_label": "Wikimedia administration category",
+    "object_value": "Q15647814",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21618
+  },
+  {
+    "object_label": "company",
+    "object_value": "Q783794",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21599
+  },
+  {
+    "object_label": "group",
+    "object_value": "Q16887380",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21487
+  },
+  {
+    "object_label": "dark nebula",
+    "object_value": "Q204194",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21431
+  },
+  {
+    "object_label": "carbon star",
+    "object_value": "Q130019",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21276
+  },
+  {
+    "object_label": "bus stop",
+    "object_value": "Q953806",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21161
+  },
+  {
+    "object_label": "village in Belarus",
+    "object_value": "Q65661087",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 21102
+  },
+  {
+    "object_label": "historic site",
+    "object_value": "Q1081138",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 20902
+  },
+  {
+    "object_label": "barn",
+    "object_value": "Q1303167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 20580
+  },
+  {
+    "object_label": "Natura 2000 site",
+    "object_value": "Q15069452",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 20384
+  },
+  {
+    "object_label": "ravine",
+    "object_value": "Q2042028",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19864
+  },
+  {
+    "object_label": "manor estate",
+    "object_value": "Q2116450",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19795
+  },
+  {
+    "object_label": "Mira variable",
+    "object_value": "Q744691",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19754
+  },
+  {
+    "object_label": "United States Supreme Court decision",
+    "object_value": "Q19692072",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19712
+  },
+  {
+    "object_label": "elementary school in Japan",
+    "object_value": "Q5358913",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19652
+  },
+  {
+    "object_label": "pub",
+    "object_value": "Q212198",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19607
+  },
+  {
+    "object_label": "frazione",
+    "object_value": "Q1134686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19596
+  },
+  {
+    "object_label": "rural settlement in Russia",
+    "object_value": "Q634099",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19589
+  },
+  {
+    "object_label": "revenue house",
+    "object_value": "Q1577547",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19406
+  },
+  {
+    "object_label": "sports competition",
+    "object_value": "Q13406554",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19384
+  },
+  {
+    "object_label": "grave field",
+    "object_value": "Q2593777",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19356
+  },
+  {
+    "object_label": "cairn",
+    "object_value": "Q7321974",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19306
+  },
+  {
+    "object_label": "petroglyph",
+    "object_value": "Q42195",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19068
+  },
+  {
+    "object_label": "cross-reference",
+    "object_value": "Q1302249",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19063
+  },
+  {
+    "object_label": "report",
+    "object_value": "Q10870555",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19034
+  },
+  {
+    "object_label": "railway line",
+    "object_value": "Q728937",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19024
+  },
+  {
+    "object_label": "watercolor painting",
+    "object_value": "Q18761202",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 19010
+  },
+  {
+    "object_label": "globular cluster",
+    "object_value": "Q11276",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18877
+  },
+  {
+    "object_label": "sub-millimetric source",
+    "object_value": "Q67201574",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18814
+  },
+  {
+    "object_label": "village of Yemen",
+    "object_value": "Q28371991",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18756
+  },
+  {
+    "object_label": "aerodrome",
+    "object_value": "Q62447",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18698
+  },
+  {
+    "object_label": "fixed construction",
+    "object_value": "Q811430",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18573
+  },
+  {
+    "object_label": "supercomputer",
+    "object_value": "Q121117",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18514
+  },
+  {
+    "object_label": "conference paper",
+    "object_value": "Q23927052",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18422
+  },
+  {
+    "object_label": "tram stop",
+    "object_value": "Q2175765",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18267
+  },
+  {
+    "object_label": "architectural ensemble",
+    "object_value": "Q1497375",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18246
+  },
+  {
+    "object_label": "posyolok",
+    "object_value": "Q2514025",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18214
+  },
+  {
+    "object_label": "government agency",
+    "object_value": "Q327333",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18206
+  },
+  {
+    "object_label": "hijri month of a given year",
+    "object_value": "Q125390868",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 18002
+  },
+  {
+    "object_label": "association football club match",
+    "object_value": "Q109623729",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17986
+  },
+  {
+    "object_label": "beach",
+    "object_value": "Q40080",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17850
+  },
+  {
+    "object_label": "remarkable tree",
+    "object_value": "Q811534",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17839
+  },
+  {
+    "object_label": "horse",
+    "object_value": "Q726",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17779
+  },
+  {
+    "object_label": "road bridge",
+    "object_value": "Q537127",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17775
+  },
+  {
+    "object_label": "battle",
+    "object_value": "Q178561",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17642
+  },
+  {
+    "object_label": "website",
+    "object_value": "Q35127",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17618
+  },
+  {
+    "object_label": "academic department",
+    "object_value": "Q2467461",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17469
+  },
+  {
+    "object_label": "natural watercourse",
+    "object_value": "Q55659167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17430
+  },
+  {
+    "object_label": "possible globular cluster",
+    "object_value": "Q72803708",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17413
+  },
+  {
+    "object_label": "cave",
+    "object_value": "Q35509",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17406
+  },
+  {
+    "object_label": "memorial",
+    "object_value": "Q5003624",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17342
+  },
+  {
+    "object_label": "mosque",
+    "object_value": "Q32815",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17328
+  },
+  {
+    "object_label": "ASTM standard",
+    "object_value": "Q67035425",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17306
+  },
+  {
+    "object_label": "manga series",
+    "object_value": "Q21198342",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17297
+  },
+  {
+    "object_label": "podcast episode",
+    "object_value": "Q61855877",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17259
+  },
+  {
+    "object_label": "metro station",
+    "object_value": "Q928830",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17231
+  },
+  {
+    "object_label": "Public General Act of the Parliament of the United Kingdom",
+    "object_value": "Q105774620",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17214
+  },
+  {
+    "object_label": "nature reserve",
+    "object_value": "Q179049",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17193
+  },
+  {
+    "object_label": "Seyfert 1 galaxy",
+    "object_value": "Q71965429",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17155
+  },
+  {
+    "object_label": "statutory rules of Northern Ireland",
+    "object_value": "Q7604693",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17145
+  },
+  {
+    "object_label": "vocational school",
+    "object_value": "Q322563",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17060
+  },
+  {
+    "object_label": "induced pluripotent stem cell line",
+    "object_value": "Q107103143",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 17030
+  },
+  {
+    "object_label": "parish",
+    "object_value": "Q102496",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16929
+  },
+  {
+    "object_label": "class of disease",
+    "object_value": "Q112193867",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16922
+  },
+  {
+    "object_label": "extended play",
+    "object_value": "Q169930",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16811
+  },
+  {
+    "object_label": "white dwarf",
+    "object_value": "Q5871",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16720
+  },
+  {
+    "object_label": "col",
+    "object_value": "Q2231510",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16668
+  },
+  {
+    "object_label": "cell line from embryonic stem cells",
+    "object_value": "Q107102664",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16498
+  },
+  {
+    "object_label": "Hindu temple",
+    "object_value": "Q842402",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16437
+  },
+  {
+    "object_label": "horizontal branch star",
+    "object_value": "Q72803426",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16432
+  },
+  {
+    "object_label": "palace",
+    "object_value": "Q16560",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16373
+  },
+  {
+    "object_label": "bilateral relation",
+    "object_value": "Q15221623",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16346
+  },
+  {
+    "object_label": "administrative divisions of Russia",
+    "object_value": "Q192287",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16191
+  },
+  {
+    "object_label": "tennis tournament edition",
+    "object_value": "Q47345468",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16083
+  },
+  {
+    "object_label": "school building",
+    "object_value": "Q1244442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 16030
+  },
+  {
+    "object_label": "UV-emission source",
+    "object_value": "Q71798788",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15967
+  },
+  {
+    "object_label": "thatched cottage",
+    "object_value": "Q13360578",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15885
+  },
+  {
+    "object_label": "nation at sport competition",
+    "object_value": "Q46135307",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15882
+  },
+  {
+    "object_label": "film festival",
+    "object_value": "Q220505",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15877
+  },
+  {
+    "object_label": "town",
+    "object_value": "Q3957",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15870
+  },
+  {
+    "object_label": "radio program",
+    "object_value": "Q1555508",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15831
+  },
+  {
+    "object_label": "star cluster",
+    "object_value": "Q168845",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15709
+  },
+  {
+    "object_label": "local regulations of the People's Republic of China",
+    "object_value": "Q106006703",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15578
+  },
+  {
+    "object_label": "open-access journal",
+    "object_value": "Q773668",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15571
+  },
+  {
+    "object_label": "census",
+    "object_value": "Q39825",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15478
+  },
+  {
+    "object_label": "dissolved municipality of Japan",
+    "object_value": "Q18663566",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15269
+  },
+  {
+    "object_label": "waterfall",
+    "object_value": "Q34038",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15178
+  },
+  {
+    "object_label": "gram panchayat",
+    "object_value": "Q2732840",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15171
+  },
+  {
+    "object_label": "swamp",
+    "object_value": "Q166735",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15110
+  },
+  {
+    "object_label": "heritage site",
+    "object_value": "Q358",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 15043
+  },
+  {
+    "object_label": "burial mound",
+    "object_value": "Q5737",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14989
+  },
+  {
+    "object_label": "archival resource",
+    "object_value": "Q106815942",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14849
+  },
+  {
+    "object_label": "performing arts production",
+    "object_value": "Q43099500",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14823
+  },
+  {
+    "object_label": "archive",
+    "object_value": "Q166118",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14730
+  },
+  {
+    "object_label": "cape",
+    "object_value": "Q185113",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14693
+  },
+  {
+    "object_label": "municipality seat",
+    "object_value": "Q15303838",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14689
+  },
+  {
+    "object_label": "supernova",
+    "object_value": "Q3937",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14579
+  },
+  {
+    "object_label": "Sekolah Menengah Atas",
+    "object_value": "Q97598588",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14572
+  },
+  {
+    "object_label": "Wikimedia lists category",
+    "object_value": "Q56428020",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14571
+  },
+  {
+    "object_label": "public company",
+    "object_value": "Q891723",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14562
+  },
+  {
+    "object_label": "stationery",
+    "object_value": "Q875696",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14481
+  },
+  {
+    "object_label": "operatic character",
+    "object_value": "Q50386450",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14473
+  },
+  {
+    "object_label": "file format",
+    "object_value": "Q235557",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14443
+  },
+  {
+    "object_label": "tourist attraction",
+    "object_value": "Q570116",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14432
+  },
+  {
+    "object_label": "ethnic group by settlement in Macedonia",
+    "object_value": "Q106474968",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14320
+  },
+  {
+    "object_label": "song",
+    "object_value": "Q7366",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14313
+  },
+  {
+    "object_label": "monastery",
+    "object_value": "Q44613",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14285
+  },
+  {
+    "object_label": "interpellation",
+    "object_value": "Q1505023",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14228
+  },
+  {
+    "object_label": "award ceremony",
+    "object_value": "Q4504495",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14207
+  },
+  {
+    "object_label": "record label",
+    "object_value": "Q18127",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14179
+  },
+  {
+    "object_label": "committee group motion",
+    "object_value": "Q97695005",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14177
+  },
+  {
+    "object_label": "research institute",
+    "object_value": "Q31855",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14162
+  },
+  {
+    "object_label": "mass grave",
+    "object_value": "Q734271",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14140
+  },
+  {
+    "object_label": "family",
+    "object_value": "Q8436",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14140
+  },
+  {
+    "object_label": "basketball team season",
+    "object_value": "Q26894053",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14025
+  },
+  {
+    "object_label": "university",
+    "object_value": "Q3918",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 14017
+  },
+  {
+    "object_label": "Wikimedia topic category",
+    "object_value": "Q59541917",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13935
+  },
+  {
+    "object_label": "protein complex",
+    "object_value": "Q420927",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13919
+  },
+  {
+    "object_label": "Congressional Research Service report",
+    "object_value": "Q6451276",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13903
+  },
+  {
+    "object_label": "post office",
+    "object_value": "Q35054",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13811
+  },
+  {
+    "object_label": "literary character",
+    "object_value": "Q3658341",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13797
+  },
+  {
+    "object_label": "qanat",
+    "object_value": "Q459297",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13757
+  },
+  {
+    "object_label": "theatre building",
+    "object_value": "Q24354",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13657
+  },
+  {
+    "object_label": "main library",
+    "object_value": "Q12317349",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13624
+  },
+  {
+    "object_label": "dramatico-musical work",
+    "object_value": "Q58483083",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13624
+  },
+  {
+    "object_label": "civil parish",
+    "object_value": "Q1115575",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13623
+  },
+  {
+    "object_label": "advertising",
+    "object_value": "Q37038",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13588
+  },
+  {
+    "object_label": "aspect of history",
+    "object_value": "Q17524420",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13521
+  },
+  {
+    "object_label": "art exhibition",
+    "object_value": "Q667276",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13489
+  },
+  {
+    "object_label": "Hangul syllable",
+    "object_value": "Q55809450",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13439
+  },
+  {
+    "object_label": "aspect in a geographic region",
+    "object_value": "Q74817647",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13430
+  },
+  {
+    "object_label": "television character",
+    "object_value": "Q15773317",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13328
+  },
+  {
+    "object_label": "Law of Taiwan",
+    "object_value": "Q6503489",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13252
+  },
+  {
+    "object_label": "clergy house",
+    "object_value": "Q607241",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13232
+  },
+  {
+    "object_label": "decree",
+    "object_value": "Q1298239",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13174
+  },
+  {
+    "object_label": "cadastral area in the Czech Republic",
+    "object_value": "Q20871353",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13168
+  },
+  {
+    "object_label": "electoral result",
+    "object_value": "Q19571328",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13155
+  },
+  {
+    "object_label": "scientific publication",
+    "object_value": "Q591041",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13144
+  },
+  {
+    "object_label": "software",
+    "object_value": "Q7397",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 13112
+  },
+  {
+    "object_label": "automobile model",
+    "object_value": "Q3231690",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12992
+  },
+  {
+    "object_label": "administrative territorial entity of the People's Republic of China",
+    "object_value": "Q50231",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12984
+  },
+  {
+    "object_label": "creative work",
+    "object_value": "Q17537576",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12960
+  },
+  {
+    "object_label": "protein family associated with domain",
+    "object_value": "Q81505329",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12959
+  },
+  {
+    "object_label": "parish church",
+    "object_value": "Q317557",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12895
+  },
+  {
+    "object_label": "bus route",
+    "object_value": "Q3240003",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12875
+  },
+  {
+    "object_label": "Cepheid variable",
+    "object_value": "Q188593",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12846
+  },
+  {
+    "object_label": "oracle bone",
+    "object_value": "Q283127",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12845
+  },
+  {
+    "object_label": "Ortschaft",
+    "object_value": "Q11183787",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12760
+  },
+  {
+    "object_label": "postage stamp",
+    "object_value": "Q37930",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12672
+  },
+  {
+    "object_label": "voting result",
+    "object_value": "Q51591359",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12588
+  },
+  {
+    "object_label": "railway stop",
+    "object_value": "Q55678",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12500
+  },
+  {
+    "object_label": "feminine family name",
+    "object_value": "Q18972207",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12453
+  },
+  {
+    "object_label": "Act of the Parliament of Australia",
+    "object_value": "Q56731284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12436
+  },
+  {
+    "object_label": "decree-law",
+    "object_value": "Q6453643",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12404
+  },
+  {
+    "object_label": "Madrasah Tsanawiyah",
+    "object_value": "Q12496021",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12381
+  },
+  {
+    "object_label": "finite cell line",
+    "object_value": "Q27671617",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12280
+  },
+  {
+    "object_label": "private nature reserve",
+    "object_value": "Q65244937",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12273
+  },
+  {
+    "object_label": "isolated settlement",
+    "object_value": "Q1138414",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12205
+  },
+  {
+    "object_label": "farm",
+    "object_value": "Q131596",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12109
+  },
+  {
+    "object_label": "architectural heritage monument",
+    "object_value": "Q811165",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12039
+  },
+  {
+    "object_label": "noble family",
+    "object_value": "Q13417114",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 12010
+  },
+  {
+    "object_label": "triangulation station",
+    "object_value": "Q131862",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11940
+  },
+  {
+    "object_label": "theatrical production",
+    "object_value": "Q7777570",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11935
+  },
+  {
+    "object_label": "interacting galaxies",
+    "object_value": "Q28738741",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11908
+  },
+  {
+    "object_label": "municipal election",
+    "object_value": "Q152450",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11843
+  },
+  {
+    "object_label": "engraving",
+    "object_value": "Q11835431",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11838
+  },
+  {
+    "object_label": "educational institution",
+    "object_value": "Q2385804",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11832
+  },
+  {
+    "object_label": "protein domain",
+    "object_value": "Q898273",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11735
+  },
+  {
+    "object_label": "decision of the Supreme Court of Canada",
+    "object_value": "Q19930933",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11728
+  },
+  {
+    "object_label": "coat of arms",
+    "object_value": "Q14659",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11670
+  },
+  {
+    "object_label": "low-ionization nuclear emission-line region",
+    "object_value": "Q2557101",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11659
+  },
+  {
+    "object_label": "historic district",
+    "object_value": "Q15243209",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11644
+  },
+  {
+    "object_label": "feature",
+    "object_value": "Q814254",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11582
+  },
+  {
+    "object_label": "plain",
+    "object_value": "Q160091",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11571
+  },
+  {
+    "object_label": "census-designated place in the United States",
+    "object_value": "Q498162",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11554
+  },
+  {
+    "object_label": "municipal part of the Czech Republic",
+    "object_value": "Q61089180",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11529
+  },
+  {
+    "object_label": "health sub-centre",
+    "object_value": "Q61278455",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11383
+  },
+  {
+    "object_label": "hybridoma",
+    "object_value": "Q27554370",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11251
+  },
+  {
+    "object_label": "molecular function",
+    "object_value": "Q14860489",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11246
+  },
+  {
+    "object_label": "Upper Lusatian house",
+    "object_value": "Q1362233",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11226
+  },
+  {
+    "object_label": "exercise",
+    "object_value": "Q5420020",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11173
+  },
+  {
+    "object_label": "KPS 9566 character",
+    "object_value": "Q109483621",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11171
+  },
+  {
+    "object_label": "Wikimedia KML file",
+    "object_value": "Q26267864",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11156
+  },
+  {
+    "object_label": "shoal",
+    "object_value": "Q28337",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11152
+  },
+  {
+    "object_label": "manor house",
+    "object_value": "Q879050",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11143
+  },
+  {
+    "object_label": "monotypic taxon",
+    "object_value": "Q310890",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11085
+  },
+  {
+    "object_label": "W Ursae Majoris variable",
+    "object_value": "Q691269",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11047
+  },
+  {
+    "object_label": "affixed family name",
+    "object_value": "Q66480858",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11042
+  },
+  {
+    "object_label": "planetary nebula",
+    "object_value": "Q13632",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 11029
+  },
+  {
+    "object_label": "milestone",
+    "object_value": "Q10145",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10982
+  },
+  {
+    "object_label": "group or class of enzymes",
+    "object_value": "Q67015883",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10926
+  },
+  {
+    "object_label": "administrative territorial entity",
+    "object_value": "Q56061",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10912
+  },
+  {
+    "object_label": "classical Cepheid variable",
+    "object_value": "Q10451997",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10869
+  },
+  {
+    "object_label": "Algol variable",
+    "object_value": "Q24452",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10815
+  },
+  {
+    "object_label": "restaurant",
+    "object_value": "Q11707",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10758
+  },
+  {
+    "object_label": "event",
+    "object_value": "Q1656682",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10729
+  },
+  {
+    "object_label": "medical organization",
+    "object_value": "Q4287745",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10704
+  },
+  {
+    "object_label": "town hall",
+    "object_value": "Q25550691",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10697
+  },
+  {
+    "object_label": "chōchō",
+    "object_value": "Q5327369",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10533
+  },
+  {
+    "object_label": "weapon",
+    "object_value": "Q728",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10482
+  },
+  {
+    "object_label": "scholarly chapter",
+    "object_value": "Q21481766",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10466
+  },
+  {
+    "object_label": "cycling team season",
+    "object_value": "Q53534649",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10461
+  },
+  {
+    "object_label": "Catholic parish",
+    "object_value": "Q17143723",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10440
+  },
+  {
+    "object_label": "lower secondary school in Japan",
+    "object_value": "Q55521176",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10377
+  },
+  {
+    "object_label": "international association football match",
+    "object_value": "Q17315159",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10372
+  },
+  {
+    "object_label": "report",
+    "object_value": "Q10429085",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10354
+  },
+  {
+    "object_label": "reef",
+    "object_value": "Q184358",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10336
+  },
+  {
+    "object_label": "academic conference",
+    "object_value": "Q2020153",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10280
+  },
+  {
+    "object_label": "near-Earth object",
+    "object_value": "Q265392",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10267
+  },
+  {
+    "object_label": "ethnic group",
+    "object_value": "Q41710",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10254
+  },
+  {
+    "object_label": "rural council of Ukraine",
+    "object_value": "Q4414033",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10253
+  },
+  {
+    "object_label": "accommodation facility for dependent elderly people",
+    "object_value": "Q30114662",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10234
+  },
+  {
+    "object_label": "aircraft model",
+    "object_value": "Q15056995",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10233
+  },
+  {
+    "object_label": "library network",
+    "object_value": "Q26271642",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10184
+  },
+  {
+    "object_label": "library branch",
+    "object_value": "Q11396180",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10155
+  },
+  {
+    "object_label": "former settlement",
+    "object_value": "Q22674925",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10092
+  },
+  {
+    "object_label": "Collaborative Research Centre",
+    "object_value": "Q2300983",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10076
+  },
+  {
+    "object_label": "geological formation",
+    "object_value": "Q736917",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10053
+  },
+  {
+    "object_label": "madrasah aliyah",
+    "object_value": "Q12496019",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10040
+  },
+  {
+    "object_label": null,
+    "object_value": "Q96323920",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 10000
+  },
+  {
+    "object_label": "wall",
+    "object_value": "Q42948",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9999
+  },
+  {
+    "object_label": "commune of Vietnam",
+    "object_value": "Q2389082",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9986
+  },
+  {
+    "object_label": "gamma-ray burst",
+    "object_value": "Q22247",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9960
+  },
+  {
+    "object_label": "voluntary association",
+    "object_value": "Q48204",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9924
+  },
+  {
+    "object_label": "peculiar star",
+    "object_value": "Q1142192",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9912
+  },
+  {
+    "object_label": "language",
+    "object_value": "Q34770",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9815
+  },
+  {
+    "object_label": "profession",
+    "object_value": "Q28640",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9766
+  },
+  {
+    "object_label": "project",
+    "object_value": "Q170584",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9757
+  },
+  {
+    "object_label": "hostel",
+    "object_value": "Q654772",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9743
+  },
+  {
+    "object_label": "cultivar",
+    "object_value": "Q4886",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9735
+  },
+  {
+    "object_label": "pond",
+    "object_value": "Q12719646",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9718
+  },
+  {
+    "object_label": "lighthouse",
+    "object_value": "Q39715",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9700
+  },
+  {
+    "object_label": "HI (21cm) source",
+    "object_value": "Q67201586",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9663
+  },
+  {
+    "object_label": "pipe organ",
+    "object_value": "Q281460",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9658
+  },
+  {
+    "object_label": "city in the United States",
+    "object_value": "Q1093829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9645
+  },
+  {
+    "object_label": "artificial pond",
+    "object_value": "Q3253281",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9632
+  },
+  {
+    "object_label": "city",
+    "object_value": "Q515",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9623
+  },
+  {
+    "object_label": "Request for Comments",
+    "object_value": "Q212971",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9589
+  },
+  {
+    "object_label": "mahallah",
+    "object_value": "Q7551933",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9582
+  },
+  {
+    "object_label": "bill",
+    "object_value": "Q686822",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9577
+  },
+  {
+    "object_label": "gromada",
+    "object_value": "Q479053",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9566
+  },
+  {
+    "object_label": "cliff",
+    "object_value": "Q107679",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9533
+  },
+  {
+    "object_label": "Landschaftsschutzgebiet",
+    "object_value": "Q21503788",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9519
+  },
+  {
+    "object_label": "low-surface-brightness galaxy",
+    "object_value": "Q115518",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9515
+  },
+  {
+    "object_label": "Wikimedia artist discography",
+    "object_value": "Q104635718",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9500
+  },
+  {
+    "object_label": "upper primary school",
+    "object_value": "Q64063386",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9488
+  },
+  {
+    "object_label": "HDFC Bank branch",
+    "object_value": "Q66619497",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9486
+  },
+  {
+    "object_label": "Wikimedia duplicated page",
+    "object_value": "Q17362920",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9475
+  },
+  {
+    "object_label": "urban school",
+    "object_value": "Q67388747",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9452
+  },
+  {
+    "object_label": "subdistrict in China",
+    "object_value": "Q986065",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9441
+  },
+  {
+    "object_label": "Naturschutzgebiet",
+    "object_value": "Q759421",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9413
+  },
+  {
+    "object_label": "conference proceedings",
+    "object_value": "Q1143604",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9325
+  },
+  {
+    "object_label": "glacier",
+    "object_value": "Q35666",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9316
+  },
+  {
+    "object_label": "non-urban municipality in Germany",
+    "object_value": "Q116457956",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9289
+  },
+  {
+    "object_label": "wayside shrine",
+    "object_value": "Q3395121",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9283
+  },
+  {
+    "object_label": "chromosome",
+    "object_value": "Q37748",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9225
+  },
+  {
+    "object_label": "PM20 country/subject folder",
+    "object_value": "Q91257459",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9207
+  },
+  {
+    "object_label": "podcast show",
+    "object_value": "Q24634210",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9193
+  },
+  {
+    "object_label": "faculty",
+    "object_value": "Q180958",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9180
+  },
+  {
+    "object_label": "television station",
+    "object_value": "Q1616075",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9173
+  },
+  {
+    "object_label": "reredos",
+    "object_value": "Q46686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9133
+  },
+  {
+    "object_label": "act of parliament",
+    "object_value": "Q1076579",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9101
+  },
+  {
+    "object_label": "Statutory Rules and Orders",
+    "object_value": "Q7604692",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9101
+  },
+  {
+    "object_label": "hydroelectric power station",
+    "object_value": "Q15911738",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9066
+  },
+  {
+    "object_label": "doctor's office",
+    "object_value": "Q718966",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9062
+  },
+  {
+    "object_label": "Seyfert 2 galaxy",
+    "object_value": "Q71965638",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9042
+  },
+  {
+    "object_label": "unconfirmed exoplanet",
+    "object_value": "Q18611609",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9025
+  },
+  {
+    "object_label": "Wikimedia albums discography",
+    "object_value": "Q59191021",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9014
+  },
+  {
+    "object_label": "Scottish statutory instrument",
+    "object_value": "Q7437991",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 9006
+  },
+  {
+    "object_label": "historic building",
+    "object_value": "Q35112127",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8976
+  },
+  {
+    "object_label": "stadium",
+    "object_value": "Q483110",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8973
+  },
+  {
+    "object_label": "kelurahan",
+    "object_value": "Q965568",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8947
+  },
+  {
+    "object_label": "free software",
+    "object_value": "Q341",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8945
+  },
+  {
+    "object_label": "township of China",
+    "object_value": "Q1500350",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8935
+  },
+  {
+    "object_label": "legislative term",
+    "object_value": "Q15238777",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8912
+  },
+  {
+    "object_label": "field study report",
+    "object_value": "Q1402850",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8850
+  },
+  {
+    "object_label": "geographic location",
+    "object_value": "Q2221906",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8849
+  },
+  {
+    "object_label": "etching print",
+    "object_value": "Q18218093",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8802
+  },
+  {
+    "object_label": "khachkar",
+    "object_value": "Q654476",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8767
+  },
+  {
+    "object_label": "avenue",
+    "object_value": "Q207934",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8746
+  },
+  {
+    "object_label": "suburb",
+    "object_value": "Q188509",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8696
+  },
+  {
+    "object_label": "Wikimedia meta category",
+    "object_value": "Q30432511",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8662
+  },
+  {
+    "object_label": "taxonomic treatment",
+    "object_value": "Q32945461",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8646
+  },
+  {
+    "object_label": "embassy",
+    "object_value": "Q3917681",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8625
+  },
+  {
+    "object_label": "electoral unit",
+    "object_value": "Q192611",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8619
+  },
+  {
+    "object_label": "single entity of population",
+    "object_value": "Q3055118",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8607
+  },
+  {
+    "object_label": "spiral galaxy",
+    "object_value": "Q2488",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8566
+  },
+  {
+    "object_label": "radio galaxy",
+    "object_value": "Q217012",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8555
+  },
+  {
+    "object_label": "flat",
+    "object_value": "Q18389975",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8545
+  },
+  {
+    "object_label": "locomotive class",
+    "object_value": "Q19832486",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8506
+  },
+  {
+    "object_label": "sport competition at a multi-sport event",
+    "object_value": "Q51031626",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8495
+  },
+  {
+    "object_label": "priority program",
+    "object_value": "Q2257184",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8475
+  },
+  {
+    "object_label": "third-class road",
+    "object_value": "Q12763914",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8455
+  },
+  {
+    "object_label": "class of award",
+    "object_value": "Q38033430",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8416
+  },
+  {
+    "object_label": "bight",
+    "object_value": "Q17018380",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8413
+  },
+  {
+    "object_label": "village of Burkina Faso",
+    "object_value": "Q23012917",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8374
+  },
+  {
+    "object_label": "audio track",
+    "object_value": "Q7302866",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8372
+  },
+  {
+    "object_label": "academic institution",
+    "object_value": "Q4671277",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8350
+  },
+  {
+    "object_label": "ministry act",
+    "object_value": "Q105984528",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8322
+  },
+  {
+    "object_label": "shopping center",
+    "object_value": "Q11315",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8247
+  },
+  {
+    "object_label": "academy school",
+    "object_value": "Q4671329",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8245
+  },
+  {
+    "object_label": "edition of commercial catalogue",
+    "object_value": "Q55089312",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8238
+  },
+  {
+    "object_label": "column shrine",
+    "object_value": "Q12661150",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8228
+  },
+  {
+    "object_label": "avenue",
+    "object_value": "Q7543083",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8192
+  },
+  {
+    "object_label": "casa consistorial",
+    "object_value": "Q112793351",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8137
+  },
+  {
+    "object_label": "ayuntamiento",
+    "object_value": "Q22996476",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8134
+  },
+  {
+    "object_label": "lower primary school",
+    "object_value": "Q64063317",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8119
+  },
+  {
+    "object_label": "municipality capital",
+    "object_value": "Q121289819",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8115
+  },
+  {
+    "object_label": "abandoned village",
+    "object_value": "Q350895",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8108
+  },
+  {
+    "object_label": "magazine article",
+    "object_value": "Q30070590",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8104
+  },
+  {
+    "object_label": "book series",
+    "object_value": "Q277759",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 8044
+  },
+  {
+    "object_label": "village of Taiwan",
+    "object_value": "Q7930614",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7998
+  },
+  {
+    "object_label": "former railway station",
+    "object_value": "Q4663385",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7925
+  },
+  {
+    "object_label": "bilingual dictionary entry",
+    "object_value": "Q109819438",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7897
+  },
+  {
+    "object_label": "commune of Italy",
+    "object_value": "Q747074",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7891
+  },
+  {
+    "object_label": "Wikimedia music-related list",
+    "object_value": "Q98645843",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7861
+  },
+  {
+    "object_label": "cadastral municipality of Austria",
+    "object_value": "Q17376095",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7850
+  },
+  {
+    "object_label": "tower",
+    "object_value": "Q12518",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7836
+  },
+  {
+    "object_label": "public primary school in Morocco",
+    "object_value": "Q123945716",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7823
+  },
+  {
+    "object_label": "higher secondary school",
+    "object_value": "Q64062731",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7809
+  },
+  {
+    "object_label": "quarter",
+    "object_value": "Q2983893",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7789
+  },
+  {
+    "object_label": "ancient monument",
+    "object_value": "Q3395377",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7716
+  },
+  {
+    "object_label": "lower secondary school",
+    "object_value": "Q57775518",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7708
+  },
+  {
+    "object_label": "middle school",
+    "object_value": "Q149566",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7646
+  },
+  {
+    "object_label": "altar",
+    "object_value": "Q101687",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7646
+  },
+  {
+    "object_label": "fragment",
+    "object_value": "Q11086567",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7633
+  },
+  {
+    "object_label": "spectroscopic binary",
+    "object_value": "Q1993624",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7538
+  },
+  {
+    "object_label": "municipal library",
+    "object_value": "Q2326815",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7500
+  },
+  {
+    "object_label": "anime character",
+    "object_value": "Q80447738",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7470
+  },
+  {
+    "object_label": "kampung of Papua",
+    "object_value": "Q12488913",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7465
+  },
+  {
+    "object_label": "station located on surface",
+    "object_value": "Q22808404",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7453
+  },
+  {
+    "object_label": "parish of New South Wales",
+    "object_value": "Q28931760",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7421
+  },
+  {
+    "object_label": "occurrence",
+    "object_value": "Q1190554",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7414
+  },
+  {
+    "object_label": "geological map",
+    "object_value": "Q193842",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7351
+  },
+  {
+    "object_label": "channel",
+    "object_value": "Q1210950",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7330
+  },
+  {
+    "object_label": "comics character",
+    "object_value": "Q1114461",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7330
+  },
+  {
+    "object_label": "film character",
+    "object_value": "Q15773347",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7319
+  },
+  {
+    "object_label": "underground station",
+    "object_value": "Q22808403",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7302
+  },
+  {
+    "object_label": "tambon",
+    "object_value": "Q1077097",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7272
+  },
+  {
+    "object_label": "former administrative territorial entity",
+    "object_value": "Q19953632",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7260
+  },
+  {
+    "object_label": "archaeological find",
+    "object_value": "Q10855061",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7247
+  },
+  {
+    "object_label": "temple",
+    "object_value": "Q44539",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7205
+  },
+  {
+    "object_label": "record of meeting of the Riksdag",
+    "object_value": "Q98467717",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7186
+  },
+  {
+    "object_label": "Olympic sporting event",
+    "object_value": "Q18536594",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7169
+  },
+  {
+    "object_label": "tomb",
+    "object_value": "Q381885",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7148
+  },
+  {
+    "object_label": "modern language",
+    "object_value": "Q1288568",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7139
+  },
+  {
+    "object_label": "Delta Scuti variable",
+    "object_value": "Q836976",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7126
+  },
+  {
+    "object_label": "video game character",
+    "object_value": "Q1569167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7123
+  },
+  {
+    "object_label": "Wikimedia permanent duplicate item",
+    "object_value": "Q21286738",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7087
+  },
+  {
+    "object_label": "weapon model",
+    "object_value": "Q15142894",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7064
+  },
+  {
+    "object_label": "group of sculptures",
+    "object_value": "Q2293362",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7064
+  },
+  {
+    "object_label": "higher education institution",
+    "object_value": "Q38723",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7060
+  },
+  {
+    "object_label": "scholarly conference abstract",
+    "object_value": "Q58632367",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 7050
+  },
+  {
+    "object_label": "non-governmental organization",
+    "object_value": "Q79913",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6967
+  },
+  {
+    "object_label": "millimetric radio-source",
+    "object_value": "Q67201561",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6903
+  },
+  {
+    "object_label": "school unit",
+    "object_value": "Q88965416",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6900
+  },
+  {
+    "object_label": "art museum",
+    "object_value": "Q207694",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6891
+  },
+  {
+    "object_label": "fire station",
+    "object_value": "Q1195942",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6889
+  },
+  {
+    "object_label": "Wikimedia navboxes category",
+    "object_value": "Q13331174",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6874
+  },
+  {
+    "object_label": "association",
+    "object_value": "Q15911314",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6860
+  },
+  {
+    "object_label": "Christian hymn",
+    "object_value": "Q856713",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6834
+  },
+  {
+    "object_label": "watermill",
+    "object_value": "Q185187",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6827
+  },
+  {
+    "object_label": "stable",
+    "object_value": "Q214252",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6815
+  },
+  {
+    "object_label": "association football match",
+    "object_value": "Q12166442",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6762
+  },
+  {
+    "object_label": "lake water body",
+    "object_value": "Q30092776",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6753
+  },
+  {
+    "object_label": "community school",
+    "object_value": "Q5155053",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6718
+  },
+  {
+    "object_label": "chapel-shrine",
+    "object_value": "Q14552192",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6699
+  },
+  {
+    "object_label": "terrace house",
+    "object_value": "Q875016",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6696
+  },
+  {
+    "object_label": "district of Indonesia",
+    "object_value": "Q3700011",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6676
+  },
+  {
+    "object_label": "elementary school",
+    "object_value": "Q20950067",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6674
+  },
+  {
+    "object_label": "Special Area of Conservation",
+    "object_value": "Q1191622",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6666
+  },
+  {
+    "object_label": "concert",
+    "object_value": "Q182832",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6660
+  },
+  {
+    "object_label": "heliport",
+    "object_value": "Q502074",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6642
+  },
+  {
+    "object_label": "Saturday Night Live sketch",
+    "object_value": "Q110039749",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6638
+  },
+  {
+    "object_label": "spontaneously immortalized cell line",
+    "object_value": "Q27555319",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6619
+  },
+  {
+    "object_label": "library of an Italian territorial body",
+    "object_value": "Q124750618",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6619
+  },
+  {
+    "object_label": "bulk carrier",
+    "object_value": "Q15276",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6616
+  },
+  {
+    "object_label": "island group",
+    "object_value": "Q1402592",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6592
+  },
+  {
+    "object_label": "real property",
+    "object_value": "Q684740",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6523
+  },
+  {
+    "object_label": "statio",
+    "object_value": "Q1399033",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6506
+  },
+  {
+    "object_label": "gampong",
+    "object_value": "Q4285979",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6505
+  },
+  {
+    "object_label": "exoplanet",
+    "object_value": "Q44559",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6504
+  },
+  {
+    "object_label": "village of Cameroon",
+    "object_value": "Q126723715",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6485
+  },
+  {
+    "object_label": "automobile manufacturer",
+    "object_value": "Q786820",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6478
+  },
+  {
+    "object_label": "rolling stock class",
+    "object_value": "Q811704",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6441
+  },
+  {
+    "object_label": "specialized library",
+    "object_value": "Q385994",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6431
+  },
+  {
+    "object_label": "negative",
+    "object_value": "Q595597",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6430
+  },
+  {
+    "object_label": "former entity",
+    "object_value": "Q15893266",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6410
+  },
+  {
+    "object_label": "Python package",
+    "object_value": "Q29642950",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6403
+  },
+  {
+    "object_label": "Wikimedia route diagram",
+    "object_value": "Q17146139",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6403
+  },
+  {
+    "object_label": "private-use character",
+    "object_value": "Q109615233",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6400
+  },
+  {
+    "object_label": "lagoon",
+    "object_value": "Q187223",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6367
+  },
+  {
+    "object_label": "Wikimedia albums-by-performer category",
+    "object_value": "Q106612246",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6363
+  },
+  {
+    "object_label": "implementing regulation",
+    "object_value": "Q2795484",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6356
+  },
+  {
+    "object_label": "centimetric radio source",
+    "object_value": "Q67201524",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6332
+  },
+  {
+    "object_label": "brand",
+    "object_value": "Q431289",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6323
+  },
+  {
+    "object_label": "musical theatre character",
+    "object_value": "Q63975020",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6299
+  },
+  {
+    "object_label": "Wikimedia internal item",
+    "object_value": "Q17442446",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6282
+  },
+  {
+    "object_label": "municipality of the Czech Republic",
+    "object_value": "Q5153359",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6263
+  },
+  {
+    "object_label": "calendar month of a given year",
+    "object_value": "Q47018478",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6256
+  },
+  {
+    "object_label": "community health center",
+    "object_value": "Q569500",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6250
+  },
+  {
+    "object_label": "mineral species",
+    "object_value": "Q12089225",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6246
+  },
+  {
+    "object_label": "settlement in Croatia",
+    "object_value": "Q4845841",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6243
+  },
+  {
+    "object_label": "Perseroan Terbatas",
+    "object_value": "Q56855687",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6239
+  },
+  {
+    "object_label": "online exhibition",
+    "object_value": "Q3062261",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6220
+  },
+  {
+    "object_label": "school district",
+    "object_value": "Q398141",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6218
+  },
+  {
+    "object_label": "music festival",
+    "object_value": "Q868557",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6218
+  },
+  {
+    "object_label": "basketball team",
+    "object_value": "Q13393265",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6211
+  },
+  {
+    "object_label": "urban park",
+    "object_value": "Q22746",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6203
+  },
+  {
+    "object_label": "Canara Bank branch",
+    "object_value": "Q65954144",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6193
+  },
+  {
+    "object_label": "disease outbreak",
+    "object_value": "Q3241045",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6192
+  },
+  {
+    "object_label": "manga character",
+    "object_value": "Q87576284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6173
+  },
+  {
+    "object_label": "individual copy of a print",
+    "object_value": "Q75837457",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6163
+  },
+  {
+    "object_label": "video game developer",
+    "object_value": "Q210167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6162
+  },
+  {
+    "object_label": "music genre",
+    "object_value": "Q188451",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6147
+  },
+  {
+    "object_label": "gatehouse",
+    "object_value": "Q277760",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6142
+  },
+  {
+    "object_label": "Wikimedia user language category",
+    "object_value": "Q20010800",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6131
+  },
+  {
+    "object_label": "oil field",
+    "object_value": "Q211748",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6115
+  },
+  {
+    "object_label": "open-access publisher",
+    "object_value": "Q45400320",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6102
+  },
+  {
+    "object_label": "recurring sporting event",
+    "object_value": "Q18608583",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6091
+  },
+  {
+    "object_label": "commune of Greece",
+    "object_value": "Q111904027",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6077
+  },
+  {
+    "object_label": "Department of \"Ancient and Modern Book Collection\"",
+    "object_value": "Q96323943",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6064
+  },
+  {
+    "object_label": "kanji character",
+    "object_value": "Q53764782",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6047
+  },
+  {
+    "object_label": "Wikimedia portal",
+    "object_value": "Q4663903",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6033
+  },
+  {
+    "object_label": "animated character",
+    "object_value": "Q15711870",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6018
+  },
+  {
+    "object_label": "round",
+    "object_value": "Q18131152",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6016
+  },
+  {
+    "object_label": "Japanese high school",
+    "object_value": "Q56351315",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 6009
+  },
+  {
+    "object_label": "water well",
+    "object_value": "Q43483",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5981
+  },
+  {
+    "object_label": "gate",
+    "object_value": "Q53060",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5980
+  },
+  {
+    "object_label": "khutor",
+    "object_value": "Q2023000",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5957
+  },
+  {
+    "object_label": "bell",
+    "object_value": "Q101401",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5953
+  },
+  {
+    "object_label": "municipality of Spain",
+    "object_value": "Q2074737",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5923
+  },
+  {
+    "object_label": "geographical feature",
+    "object_value": "Q618123",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5922
+  },
+  {
+    "object_label": "coding region",
+    "object_value": "Q3780824",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5922
+  },
+  {
+    "object_label": "ruins",
+    "object_value": "Q109607",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5920
+  },
+  {
+    "object_label": "railway bridge",
+    "object_value": "Q1210334",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5896
+  },
+  {
+    "object_label": "masculine family name",
+    "object_value": "Q18972245",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5882
+  },
+  {
+    "object_label": "cultural heritage of China",
+    "object_value": "Q10300916",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5856
+  },
+  {
+    "object_label": "cell type",
+    "object_value": "Q189118",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5849
+  },
+  {
+    "object_label": "oratory",
+    "object_value": "Q580499",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5848
+  },
+  {
+    "object_label": "fourth-level administrative division",
+    "object_value": "Q14757767",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5836
+  },
+  {
+    "object_label": "cadastral municipality of Serbia",
+    "object_value": "Q28822032",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5819
+  },
+  {
+    "object_label": "comic book album",
+    "object_value": "Q2831984",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5786
+  },
+  {
+    "object_label": "cargo ship",
+    "object_value": "Q105999",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5778
+  },
+  {
+    "object_label": "ward of Papua New Guinea",
+    "object_value": "Q126020951",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5777
+  },
+  {
+    "object_label": "office building",
+    "object_value": "Q1021645",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5771
+  },
+  {
+    "object_label": "occupation",
+    "object_value": "Q12737077",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5765
+  },
+  {
+    "object_label": "national school",
+    "object_value": "Q96386155",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5745
+  },
+  {
+    "object_label": "noble title",
+    "object_value": "Q355567",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5745
+  },
+  {
+    "object_label": "discography",
+    "object_value": "Q273057",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5741
+  },
+  {
+    "object_label": "footbridge",
+    "object_value": "Q1068842",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5733
+  },
+  {
+    "object_label": "gamma-ray source",
+    "object_value": "Q71962386",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5732
+  },
+  {
+    "object_label": "technical report",
+    "object_value": "Q3099732",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5716
+  },
+  {
+    "object_label": "town in the United States",
+    "object_value": "Q15127012",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5710
+  },
+  {
+    "object_label": "former municipality",
+    "object_value": "Q19730508",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5703
+  },
+  {
+    "object_label": "solar eclipse",
+    "object_value": "Q3887",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5698
+  },
+  {
+    "object_label": "dead end street",
+    "object_value": "Q12731",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5683
+  },
+  {
+    "object_label": "plaque",
+    "object_value": "Q4364339",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5655
+  },
+  {
+    "object_label": "United States of America state-level electoral district",
+    "object_value": "Q104146934",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5615
+  },
+  {
+    "object_label": "recurring event",
+    "object_value": "Q15275719",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5610
+  },
+  {
+    "object_label": "eruptive variable star",
+    "object_value": "Q1362543",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5592
+  },
+  {
+    "object_label": null,
+    "object_value": "Q11053",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5592
+  },
+  {
+    "object_label": "airline",
+    "object_value": "Q46970",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5586
+  },
+  {
+    "object_label": "municipality of Brazil",
+    "object_value": "Q3184121",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5570
+  },
+  {
+    "object_label": "photovoltaic power station",
+    "object_value": "Q1003207",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5564
+  },
+  {
+    "object_label": "multifamily residential",
+    "object_value": "Q1498804",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5539
+  },
+  {
+    "object_label": "factory",
+    "object_value": "Q83405",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5516
+  },
+  {
+    "object_label": "binary star",
+    "object_value": "Q50053",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5515
+  },
+  {
+    "object_label": "homestead",
+    "object_value": "Q5890494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5509
+  },
+  {
+    "object_label": "Shikinaisha",
+    "object_value": "Q134917286",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5470
+  },
+  {
+    "object_label": "synonym",
+    "object_value": "Q1040689",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5435
+  },
+  {
+    "object_label": "item",
+    "object_value": "Q11723795",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5431
+  },
+  {
+    "object_label": "minor locality in Sweden",
+    "object_value": "Q14839548",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5429
+  },
+  {
+    "object_label": "open cluster",
+    "object_value": "Q11387",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5426
+  },
+  {
+    "object_label": "apartment building",
+    "object_value": "Q13402009",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5416
+  },
+  {
+    "object_label": "ICICI Bank branch",
+    "object_value": "Q65954135",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5398
+  },
+  {
+    "object_label": "festival",
+    "object_value": "Q132241",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5386
+  },
+  {
+    "object_label": "final project report",
+    "object_value": "Q15781350",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5339
+  },
+  {
+    "object_label": "rose cultivar",
+    "object_value": "Q26817508",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5336
+  },
+  {
+    "object_label": "region",
+    "object_value": "Q82794",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5321
+  },
+  {
+    "object_label": "kiyō",
+    "object_value": "Q11605103",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5321
+  },
+  {
+    "object_label": "outbuilding",
+    "object_value": "Q3044808",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5316
+  },
+  {
+    "object_label": "academic workshop",
+    "object_value": "Q40444998",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5307
+  },
+  {
+    "object_label": "Government Girls Primary School",
+    "object_value": "Q67015944",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5293
+  },
+  {
+    "object_label": "Engishiki seat",
+    "object_value": "Q135018062",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5288
+  },
+  {
+    "object_label": "literary award",
+    "object_value": "Q378427",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5284
+  },
+  {
+    "object_label": "granary",
+    "object_value": "Q114768",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5271
+  },
+  {
+    "object_label": "Bank of Baroda branch",
+    "object_value": "Q65954142",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5257
+  },
+  {
+    "object_label": "serial",
+    "object_value": "Q2217301",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5250
+  },
+  {
+    "object_label": "hillfort",
+    "object_value": "Q744099",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5245
+  },
+  {
+    "object_label": "Wikimedia disambiguation category",
+    "object_value": "Q15407973",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5242
+  },
+  {
+    "object_label": "academic library",
+    "object_value": "Q856234",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5238
+  },
+  {
+    "object_label": "synagogue",
+    "object_value": "Q34627",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5218
+  },
+  {
+    "object_label": "mythological Greek character",
+    "object_value": "Q22988604",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5218
+  },
+  {
+    "object_label": "comics",
+    "object_value": "Q1004",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5196
+  },
+  {
+    "object_label": "Welsh Statutory Instrument",
+    "object_value": "Q100754500",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5188
+  },
+  {
+    "object_label": "relief sculpture",
+    "object_value": "Q245117",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5184
+  },
+  {
+    "object_label": "kamienica",
+    "object_value": "Q1723032",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5170
+  },
+  {
+    "object_label": "product model",
+    "object_value": "Q10929058",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5162
+  },
+  {
+    "object_label": "structural class of chemical entities",
+    "object_value": "Q47154513",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5147
+  },
+  {
+    "object_label": "television channel",
+    "object_value": "Q2001305",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5146
+  },
+  {
+    "object_label": "musical ensemble",
+    "object_value": "Q2088357",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5145
+  },
+  {
+    "object_label": "village in Latvia",
+    "object_value": "Q22580836",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5141
+  },
+  {
+    "object_label": "Wikimedia country data template",
+    "object_value": "Q108783631",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5133
+  },
+  {
+    "object_label": "municipal flag",
+    "object_value": "Q21850100",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5131
+  },
+  {
+    "object_label": "production company",
+    "object_value": "Q11396960",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5126
+  },
+  {
+    "object_label": "fortification",
+    "object_value": "Q57821",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5123
+  },
+  {
+    "object_label": "GB 12052 character",
+    "object_value": "Q109483637",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5114
+  },
+  {
+    "object_label": "building complex",
+    "object_value": "Q1497364",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5107
+  },
+  {
+    "object_label": "astrophysical maser",
+    "object_value": "Q1341811",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5098
+  },
+  {
+    "object_label": "tractor model",
+    "object_value": "Q55725952",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5090
+  },
+  {
+    "object_label": "mill",
+    "object_value": "Q44494",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5086
+  },
+  {
+    "object_label": "character",
+    "object_value": "Q95074",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5078
+  },
+  {
+    "object_label": "research group",
+    "object_value": "Q1241025",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5073
+  },
+  {
+    "object_label": "animated short film",
+    "object_value": "Q17517379",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5072
+  },
+  {
+    "object_label": "basin",
+    "object_value": "Q813672",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5066
+  },
+  {
+    "object_label": "dune",
+    "object_value": "Q25391",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5055
+  },
+  {
+    "object_label": "Eastern Orthodox church building",
+    "object_value": "Q2031836",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5047
+  },
+  {
+    "object_label": "skyscraper",
+    "object_value": "Q11303",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5037
+  },
+  {
+    "object_label": "JavaScript library",
+    "object_value": "Q783866",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5022
+  },
+  {
+    "object_label": "settlement of protohistoric times",
+    "object_value": "Q106505070",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5021
+  },
+  {
+    "object_label": "comprehensive institute",
+    "object_value": "Q56177191",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5016
+  },
+  {
+    "object_label": "government regulation",
+    "object_value": "Q12772319",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5011
+  },
+  {
+    "object_label": "commercial building",
+    "object_value": "Q655686",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5009
+  },
+  {
+    "object_label": "village of Bulgaria",
+    "object_value": "Q15630849",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 5001
+  },
+  {
+    "object_label": "Olympic delegation",
+    "object_value": "Q26213387",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4997
+  },
+  {
+    "object_label": "thesis",
+    "object_value": "Q1266946",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4985
+  },
+  {
+    "object_label": "railway station above ground",
+    "object_value": "Q4312270",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4984
+  },
+  {
+    "object_label": "high-velocity cloud",
+    "object_value": "Q1621824",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4984
+  },
+  {
+    "object_label": "baseball team season",
+    "object_value": "Q26896697",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4983
+  },
+  {
+    "object_label": "foundation",
+    "object_value": "Q157031",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4974
+  },
+  {
+    "object_label": "fort",
+    "object_value": "Q1785071",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4972
+  },
+  {
+    "object_label": "asterism",
+    "object_value": "Q9262",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4972
+  },
+  {
+    "object_label": "filial church",
+    "object_value": "Q1129743",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4961
+  },
+  {
+    "object_label": "small nucleolar RNA",
+    "object_value": "Q284416",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4955
+  },
+  {
+    "object_label": "film production company",
+    "object_value": "Q1762059",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4952
+  },
+  {
+    "object_label": "drive-in theater",
+    "object_value": "Q786922",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4923
+  },
+  {
+    "object_label": "Government Regulation of the Republic of Indonesia",
+    "object_value": "Q12504877",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4914
+  },
+  {
+    "object_label": "political coalition",
+    "object_value": "Q6138528",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4910
+  },
+  {
+    "object_label": "nuraghe",
+    "object_value": "Q688292",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4902
+  },
+  {
+    "object_label": "Shikinai Shosha",
+    "object_value": "Q134917287",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4897
+  },
+  {
+    "object_label": "class of protein-containing complexes",
+    "object_value": "Q107509287",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4884
+  },
+  {
+    "object_label": "public educational institution",
+    "object_value": "Q23002037",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4882
+  },
+  {
+    "object_label": "sports governing body",
+    "object_value": "Q2485448",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4876
+  },
+  {
+    "object_label": "animated film",
+    "object_value": "Q202866",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4874
+  },
+  {
+    "object_label": "union council of Bangladesh",
+    "object_value": "Q3812392",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4848
+  },
+  {
+    "object_label": "interchange",
+    "object_value": "Q2376564",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4838
+  },
+  {
+    "object_label": "tombstone",
+    "object_value": "Q203443",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4829
+  },
+  {
+    "object_label": "agricultural structure",
+    "object_value": "Q10480682",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4801
+  },
+  {
+    "object_label": "wat",
+    "object_value": "Q427287",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4797
+  },
+  {
+    "object_label": "Catholic church building",
+    "object_value": "Q1088552",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4795
+  },
+  {
+    "object_label": "religious community",
+    "object_value": "Q2742167",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4791
+  },
+  {
+    "object_label": "brook",
+    "object_value": "Q63565252",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4765
+  },
+  {
+    "object_label": "bar",
+    "object_value": "Q478251",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4758
+  },
+  {
+    "object_label": "Central Bank of India branch",
+    "object_value": "Q73580208",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4741
+  },
+  {
+    "object_label": "recurring event edition",
+    "object_value": "Q27968055",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4715
+  },
+  {
+    "object_label": "decree",
+    "object_value": "Q2571972",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4714
+  },
+  {
+    "object_label": "commercial traffic aerodrome",
+    "object_value": "Q94993988",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4710
+  },
+  {
+    "object_label": "preceding structure",
+    "object_value": "Q106577963",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4667
+  },
+  {
+    "object_label": "Tibetan Buddhist monastery",
+    "object_value": "Q54074585",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4666
+  },
+  {
+    "object_label": "port",
+    "object_value": "Q44782",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4663
+  },
+  {
+    "object_label": "blue straggler",
+    "object_value": "Q5848",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4639
+  },
+  {
+    "object_label": "college sports team",
+    "object_value": "Q18558301",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4632
+  },
+  {
+    "object_label": "labor union",
+    "object_value": "Q178790",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4595
+  },
+  {
+    "object_label": "basketball game",
+    "object_value": "Q18431960",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4583
+  },
+  {
+    "object_label": null,
+    "object_value": "Q61878",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4578
+  },
+  {
+    "object_label": "single-family detached home",
+    "object_value": "Q1307276",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4564
+  },
+  {
+    "object_label": "cabana",
+    "object_value": "Q3649129",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4560
+  },
+  {
+    "object_label": "charitable organization",
+    "object_value": "Q708676",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4548
+  },
+  {
+    "object_label": "ceramic art",
+    "object_value": "Q13464614",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4529
+  },
+  {
+    "object_label": "pulsating variable star",
+    "object_value": "Q353834",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4518
+  },
+  {
+    "object_label": "village",
+    "object_value": "Q51049922",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4498
+  },
+  {
+    "object_label": "chalice",
+    "object_value": "Q210723",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4490
+  },
+  {
+    "object_label": "Kokuhei-sha (Engishiki Jinmyocho)",
+    "object_value": "Q135160342",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4474
+  },
+  {
+    "object_label": "laboratory",
+    "object_value": "Q483242",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4472
+  },
+  {
+    "object_label": "raised bog",
+    "object_value": "Q3240227",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4472
+  },
+  {
+    "object_label": "Jewish cemetery",
+    "object_value": "Q846659",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4470
+  },
+  {
+    "object_label": "concert tour",
+    "object_value": "Q1573906",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4462
+  },
+  {
+    "object_label": "inn",
+    "object_value": "Q256020",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4460
+  },
+  {
+    "object_label": "baseball team",
+    "object_value": "Q13027888",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4447
+  },
+  {
+    "object_label": "village in Egypt",
+    "object_value": "Q125366925",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4446
+  },
+  {
+    "object_label": "Wikimedia list of persons",
+    "object_value": "Q19692233",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4443
+  },
+  {
+    "object_label": "boundary marker",
+    "object_value": "Q921099",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4442
+  },
+  {
+    "object_label": "interstellar medium",
+    "object_value": "Q41872",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4433
+  },
+  {
+    "object_label": "bibliography",
+    "object_value": "Q1631107",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4426
+  },
+  {
+    "object_label": "solitary",
+    "object_value": "Q2438638",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4424
+  },
+  {
+    "object_label": "academic conference series",
+    "object_value": "Q47258130",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4406
+  },
+  {
+    "object_label": "theatre company",
+    "object_value": "Q11812394",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4399
+  },
+  {
+    "object_label": "terms of reference",
+    "object_value": "Q3298158",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4396
+  },
+  {
+    "object_label": "medallion",
+    "object_value": "Q131647",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4392
+  },
+  {
+    "object_label": "sports league",
+    "object_value": "Q623109",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4392
+  },
+  {
+    "object_label": "Wikimedia infobox template",
+    "object_value": "Q19887878",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4388
+  },
+  {
+    "object_label": "gap",
+    "object_value": "Q16887036",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4382
+  },
+  {
+    "object_label": "theatre company",
+    "object_value": "Q742421",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4379
+  },
+  {
+    "object_label": "suspected variable",
+    "object_value": "Q66521853",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4373
+  },
+  {
+    "object_label": "group of humans",
+    "object_value": "Q16334295",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4364
+  },
+  {
+    "object_label": "bourgeois house",
+    "object_value": "Q1021106",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4364
+  },
+  {
+    "object_label": "canton of France",
+    "object_value": "Q184188",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4353
+  },
+  {
+    "object_label": "ice hockey team",
+    "object_value": "Q4498974",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4342
+  },
+  {
+    "object_label": "garden",
+    "object_value": "Q1107656",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4329
+  },
+  {
+    "object_label": "gubernatorial election",
+    "object_value": "Q15261477",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4323
+  },
+  {
+    "object_label": "dolmen",
+    "object_value": "Q101659",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4311
+  },
+  {
+    "object_label": "wetland",
+    "object_value": "Q170321",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4298
+  },
+  {
+    "object_label": "repetitive DNA",
+    "object_value": "Q424473",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4291
+  },
+  {
+    "object_label": "freguesia of Portugal",
+    "object_value": "Q1131296",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4287
+  },
+  {
+    "object_label": "mayor",
+    "object_value": "Q30185",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4281
+  },
+  {
+    "object_label": "populated place in Syria",
+    "object_value": "Q16127605",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4279
+  },
+  {
+    "object_label": "association football venue",
+    "object_value": "Q1154710",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4271
+  },
+  {
+    "object_label": "product category",
+    "object_value": "Q63981612",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4268
+  },
+  {
+    "object_label": "Axis Bank branch",
+    "object_value": "Q65954138",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4242
+  },
+  {
+    "object_label": "brewery",
+    "object_value": "Q131734",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4236
+  },
+  {
+    "object_label": "buurtschap",
+    "object_value": "Q1484611",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4229
+  },
+  {
+    "object_label": "Kokuhei Shosha (Engishiki)",
+    "object_value": "Q135206465",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4226
+  },
+  {
+    "object_label": "academic discipline",
+    "object_value": "Q11862829",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4224
+  },
+  {
+    "object_label": "cellular component",
+    "object_value": "Q5058355",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4222
+  },
+  {
+    "object_label": "path",
+    "object_value": "Q5004679",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4219
+  },
+  {
+    "object_label": "exhibition",
+    "object_value": "Q464980",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4217
+  },
+  {
+    "object_label": "volunteer fire department",
+    "object_value": "Q285852",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4211
+  },
+  {
+    "object_label": "partial solar eclipse",
+    "object_value": "Q5681048",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4204
+  },
+  {
+    "object_label": "defined set",
+    "object_value": "Q47461827",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4198
+  },
+  {
+    "object_label": "WikiProject",
+    "object_value": "Q16695773",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4193
+  },
+  {
+    "object_label": "ditch",
+    "object_value": "Q2048319",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4178
+  },
+  {
+    "object_label": "political organization",
+    "object_value": "Q7210356",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4177
+  },
+  {
+    "object_label": "Rathaus",
+    "object_value": "Q543654",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4174
+  },
+  {
+    "object_label": "municipality",
+    "object_value": "Q15284",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4174
+  },
+  {
+    "object_label": "United States executive order",
+    "object_value": "Q1338798",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4166
+  },
+  {
+    "object_label": "digitized collection",
+    "object_value": "Q60474998",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4165
+  },
+  {
+    "object_label": "ship class",
+    "object_value": "Q559026",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4145
+  },
+  {
+    "object_label": "comic book series",
+    "object_value": "Q14406742",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4129
+  },
+  {
+    "object_label": "architectural firm",
+    "object_value": "Q4387609",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4128
+  },
+  {
+    "object_label": "police station",
+    "object_value": "Q861951",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4127
+  },
+  {
+    "object_label": "trademark",
+    "object_value": "Q167270",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4121
+  },
+  {
+    "object_label": "private educational institution",
+    "object_value": "Q23002042",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4104
+  },
+  {
+    "object_label": "learned society",
+    "object_value": "Q955824",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4099
+  },
+  {
+    "object_label": "Judicial Yuan Interpretations",
+    "object_value": "Q18845793",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4097
+  },
+  {
+    "object_label": "university building",
+    "object_value": "Q19844914",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4096
+  },
+  {
+    "object_label": "Wikimedia soft redirect category",
+    "object_value": "Q125101059",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4093
+  },
+  {
+    "object_label": "Wikimedia tracking category",
+    "object_value": "Q67131190",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4091
+  },
+  {
+    "object_label": "volost of the Russian Empire",
+    "object_value": "Q20732405",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4091
+  },
+  {
+    "object_label": "double family name",
+    "object_value": "Q29042997",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4082
+  },
+  {
+    "object_label": "special education school",
+    "object_value": "Q1110689",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4080
+  },
+  {
+    "object_label": "windmill",
+    "object_value": "Q38720",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4074
+  },
+  {
+    "object_label": "Wikinews date page",
+    "object_value": "Q94574287",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4071
+  },
+  {
+    "object_label": "regiment",
+    "object_value": "Q52371",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4066
+  },
+  {
+    "object_label": "aided school",
+    "object_value": "Q11146499",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4030
+  },
+  {
+    "object_label": "theatre troupe",
+    "object_value": "Q2416217",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4021
+  },
+  {
+    "object_label": "spur",
+    "object_value": "Q1400565",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4018
+  },
+  {
+    "object_label": "scholarship",
+    "object_value": "Q188823",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4015
+  },
+  {
+    "object_label": "village of Kazakhstan",
+    "object_value": "Q130212458",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4012
+  },
+  {
+    "object_label": "directive of the European Union",
+    "object_value": "Q326124",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4009
+  },
+  {
+    "object_label": "dialect",
+    "object_value": "Q33384",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4004
+  },
+  {
+    "object_label": "verse of the Bible",
+    "object_value": "Q29154550",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 4000
+  },
+  {
+    "object_label": "radio drama",
+    "object_value": "Q2635894",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3996
+  },
+  {
+    "object_label": "anime television series",
+    "object_value": "Q63952888",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3990
+  },
+  {
+    "object_label": "former county of China",
+    "object_value": "Q28739697",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3976
+  },
+  {
+    "object_label": "hot subdwarf star",
+    "object_value": "Q54231557",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3975
+  },
+  {
+    "object_label": "ward of Tanzania",
+    "object_value": "Q18691601",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3968
+  },
+  {
+    "object_label": "historical society",
+    "object_value": "Q5774403",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3966
+  },
+  {
+    "object_label": "ancient city",
+    "object_value": "Q15661340",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3959
+  },
+  {
+    "object_label": "scenography sketch",
+    "object_value": "Q76504821",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3957
+  },
+  {
+    "object_label": "annular solar eclipse",
+    "object_value": "Q5691927",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3956
+  },
+  {
+    "object_label": "vase",
+    "object_value": "Q191851",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3948
+  },
+  {
+    "object_label": "alley",
+    "object_value": "Q1251403",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3938
+  },
+  {
+    "object_label": "retraction notice",
+    "object_value": "Q7316896",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3937
+  },
+  {
+    "object_label": "church tabernacle",
+    "object_value": "Q1670363",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3928
+  },
+  {
+    "object_label": "map data module",
+    "object_value": "Q18711811",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3927
+  },
+  {
+    "object_label": "waterhole",
+    "object_value": "Q3177968",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3922
+  },
+  {
+    "object_label": "Gasthaus",
+    "object_value": "Q5526694",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3911
+  },
+  {
+    "object_label": "rural council of Belarus",
+    "object_value": "Q15071808",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3910
+  },
+  {
+    "object_label": "Japanese family name",
+    "object_value": "Q19914123",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3904
+  },
+  {
+    "object_label": "video game series",
+    "object_value": "Q7058673",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3903
+  },
+  {
+    "object_label": "textile",
+    "object_value": "Q28823",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3898
+  },
+  {
+    "object_label": "hiking trail",
+    "object_value": "Q2143825",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3896
+  },
+  {
+    "object_label": "decorative art",
+    "object_value": "Q631931",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3891
+  },
+  {
+    "object_label": "prison",
+    "object_value": "Q40357",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3885
+  },
+  {
+    "object_label": "Samian Ware Discovery Site",
+    "object_value": "Q102202066",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3885
+  },
+  {
+    "object_label": "art gallery",
+    "object_value": "Q1007870",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3877
+  },
+  {
+    "object_label": "guest house",
+    "object_value": "Q2460422",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3873
+  },
+  {
+    "object_label": "group during sports competition",
+    "object_value": "Q53945096",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3871
+  },
+  {
+    "object_label": "bank",
+    "object_value": "Q22687",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3865
+  },
+  {
+    "object_label": "Act of the Oireachtas",
+    "object_value": "Q91586285",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3863
+  },
+  {
+    "object_label": "figurine",
+    "object_value": "Q1066288",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3855
+  },
+  {
+    "object_label": "ward or electoral division of the United Kingdom",
+    "object_value": "Q589282",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3846
+  },
+  {
+    "object_label": "rock",
+    "object_value": "Q1404150",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3837
+  },
+  {
+    "object_label": "railway company",
+    "object_value": "Q249556",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3834
+  },
+  {
+    "object_label": "building with cornice",
+    "object_value": "Q17489143",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3834
+  },
+  {
+    "object_label": "ledger stone",
+    "object_value": "Q11832720",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3819
+  },
+  {
+    "object_label": "point in time with respect to recurrent timeframe",
+    "object_value": "Q14795564",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3816
+  },
+  {
+    "object_label": "bell tower",
+    "object_value": "Q200334",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3815
+  },
+  {
+    "object_label": "eclipsing binary candidate",
+    "object_value": "Q72534536",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3812
+  },
+  {
+    "object_label": "civil parish of Galicia",
+    "object_value": "Q12397176",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3804
+  },
+  {
+    "object_label": "board game",
+    "object_value": "Q131436",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3803
+  },
+  {
+    "object_label": "amulet",
+    "object_value": "Q131557",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3802
+  },
+  {
+    "object_label": "Wikimedia category of redirects",
+    "object_value": "Q125101257",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3802
+  },
+  {
+    "object_label": "ordinance",
+    "object_value": "Q2703920",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3798
+  },
+  {
+    "object_label": "stained-glass window",
+    "object_value": "Q21061279",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3789
+  },
+  {
+    "object_label": "brown dwarf",
+    "object_value": "Q101600",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3783
+  },
+  {
+    "object_label": "beauty pageant edition",
+    "object_value": "Q62391930",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3765
+  },
+  {
+    "object_label": "paleographic sign variant",
+    "object_value": "Q118867680",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3763
+  },
+  {
+    "object_label": "boundary",
+    "object_value": "Q1307347",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3758
+  },
+  {
+    "object_label": "research grant",
+    "object_value": "Q54875403",
+    "property_id": "P31",
+    "property_label": "instance of",
+    "usage_count": 3753
+  }
+]

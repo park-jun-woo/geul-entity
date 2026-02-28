@@ -1,0 +1,403 @@
+{
+  "version": "v0.2",
+  "description": "속성 양자화 규칙 정의 - 48비트 전체 활용 버전",
+  "rules": {
+    "coordinate": {
+      "description": "위경도 좌표 양자화",
+      "lat_bits": 4,
+      "lon_bits": 4,
+      "total_bits": 8,
+      "lat_zones": [
+        {"code": 0, "range": [-90, -60], "label": "Antarctic"},
+        {"code": 1, "range": [-60, -40], "label": "SubAntarctic"},
+        {"code": 2, "range": [-40, -20], "label": "SouthTemperate"},
+        {"code": 3, "range": [-20, 0], "label": "SouthTropic"},
+        {"code": 4, "range": [0, 20], "label": "NorthTropic"},
+        {"code": 5, "range": [20, 40], "label": "NorthTemperate"},
+        {"code": 6, "range": [40, 60], "label": "SubArctic"},
+        {"code": 7, "range": [60, 90], "label": "Arctic"}
+      ],
+      "lon_zones": 16
+    },
+    "time_era": {
+      "description": "시대 양자화 (4비트)",
+      "bits": 4,
+      "eras": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [null, -3000], "label": "Prehistoric"},
+        {"code": 2, "range": [-3000, 500], "label": "Ancient"},
+        {"code": 3, "range": [500, 1000], "label": "Classical"},
+        {"code": 4, "range": [1000, 1500], "label": "Medieval"},
+        {"code": 5, "range": [1500, 1800], "label": "EarlyModern"},
+        {"code": 6, "range": [1800, 1900], "label": "Modern19C"},
+        {"code": 7, "range": [1900, 1950], "label": "Modern20CEarly"},
+        {"code": 8, "range": [1950, 1980], "label": "Contemporary"},
+        {"code": 9, "range": [1980, 2000], "label": "Late20C"},
+        {"code": 10, "range": [2000, 2010], "label": "Early21C"},
+        {"code": 11, "range": [2010, 2020], "label": "2010s"},
+        {"code": 12, "range": [2020, null], "label": "Current"},
+        {"code": 13, "label": "Reserved"},
+        {"code": 14, "label": "Reserved"},
+        {"code": 15, "label": "Reserved"}
+      ]
+    },
+    "time_decade": {
+      "description": "10년 단위 (4비트, 시대 종속)",
+      "bits": 4,
+      "note": "시대 내에서 0-15로 10년 단위 구분"
+    },
+    "population": {
+      "description": "인구수 로그 스케일 (4비트)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "range": [0, 100], "label": "<100"},
+        {"code": 1, "range": [100, 500], "label": "100-500"},
+        {"code": 2, "range": [500, 1000], "label": "500-1K"},
+        {"code": 3, "range": [1000, 5000], "label": "1K-5K"},
+        {"code": 4, "range": [5000, 10000], "label": "5K-10K"},
+        {"code": 5, "range": [10000, 50000], "label": "10K-50K"},
+        {"code": 6, "range": [50000, 100000], "label": "50K-100K"},
+        {"code": 7, "range": [100000, 500000], "label": "100K-500K"},
+        {"code": 8, "range": [500000, 1000000], "label": "500K-1M"},
+        {"code": 9, "range": [1000000, 5000000], "label": "1M-5M"},
+        {"code": 10, "range": [5000000, 10000000], "label": "5M-10M"},
+        {"code": 11, "range": [10000000, null], "label": ">10M"},
+        {"code": 12, "label": "Unknown"},
+        {"code": 13, "label": "Reserved"},
+        {"code": 14, "label": "Reserved"},
+        {"code": 15, "label": "Reserved"}
+      ]
+    },
+    "magnitude": {
+      "description": "천체 등급 양자화 (4비트)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "range": [null, -5], "label": "Very Bright"},
+        {"code": 1, "range": [-5, 0], "label": "Bright"},
+        {"code": 2, "range": [0, 2], "label": "Visible Naked"},
+        {"code": 3, "range": [2, 4], "label": "Dim Naked"},
+        {"code": 4, "range": [4, 6], "label": "Limit Naked"},
+        {"code": 5, "range": [6, 8], "label": "Binocular"},
+        {"code": 6, "range": [8, 10], "label": "Small Telescope"},
+        {"code": 7, "range": [10, 12], "label": "Medium Telescope"},
+        {"code": 8, "range": [12, 15], "label": "Large Telescope"},
+        {"code": 9, "range": [15, 20], "label": "Professional"},
+        {"code": 10, "range": [20, null], "label": "Very Faint"}
+      ]
+    },
+    "duration": {
+      "description": "상영시간 양자화 (4비트)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "range": [0, 30], "label": "Short"},
+        {"code": 1, "range": [30, 60], "label": "Medium Short"},
+        {"code": 2, "range": [60, 90], "label": "Standard Short"},
+        {"code": 3, "range": [90, 105], "label": "Standard"},
+        {"code": 4, "range": [105, 120], "label": "Standard Long"},
+        {"code": 5, "range": [120, 150], "label": "Long"},
+        {"code": 6, "range": [150, 180], "label": "Very Long"},
+        {"code": 7, "range": [180, null], "label": "Epic"}
+      ]
+    },
+    "notability": {
+      "description": "저명도 (sitelinks 기반, 3비트)",
+      "bits": 3,
+      "ranges": [
+        {"code": 0, "range": [0, 1], "label": "Unknown"},
+        {"code": 1, "range": [1, 10], "label": "Minor"},
+        {"code": 2, "range": [10, 50], "label": "Notable"},
+        {"code": 3, "range": [50, 100], "label": "Well-known"},
+        {"code": 4, "range": [100, 200], "label": "Famous"},
+        {"code": 5, "range": [200, 500], "label": "Very Famous"},
+        {"code": 6, "range": [500, 1000], "label": "Highly Famous"},
+        {"code": 7, "range": [1000, null], "label": "World Famous"}
+      ]
+    },
+    "language": {
+      "description": "사용 언어 (6비트, P1412 기반)",
+      "bits": 6,
+      "note": "상위 64개 주요 언어, 빈도 기반 코드북 생성",
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "English"},
+        {"code": 2, "label": "Mandarin"},
+        {"code": 3, "label": "Spanish"},
+        {"code": 4, "label": "French"},
+        {"code": 5, "label": "German"},
+        {"code": 6, "label": "Russian"},
+        {"code": 7, "label": "Japanese"},
+        {"code": 8, "label": "Korean"},
+        {"code": 9, "label": "Arabic"},
+        {"code": 10, "label": "Portuguese"},
+        {"code": 11, "label": "Italian"},
+        {"code": 12, "label": "Dutch"},
+        {"code": 13, "label": "Polish"},
+        {"code": 14, "label": "Swedish"},
+        {"code": 15, "label": "Turkish"}
+      ]
+    },
+    "activity_field": {
+      "description": "활동 분야 (4비트)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Arts"},
+        {"code": 2, "label": "Science"},
+        {"code": 3, "label": "Technology"},
+        {"code": 4, "label": "Business"},
+        {"code": 5, "label": "Politics"},
+        {"code": 6, "label": "Sports"},
+        {"code": 7, "label": "Religion"},
+        {"code": 8, "label": "Military"},
+        {"code": 9, "label": "Law"},
+        {"code": 10, "label": "Medicine"},
+        {"code": 11, "label": "Education"},
+        {"code": 12, "label": "Media"},
+        {"code": 13, "label": "Social"},
+        {"code": 14, "label": "Other"},
+        {"code": 15, "label": "Reserved"}
+      ]
+    },
+    "radial_velocity": {
+      "description": "시선속도 양자화 (5비트, km/s)",
+      "bits": 5,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [null, -500], "label": "Extreme Approach (<-500)"},
+        {"code": 2, "range": [-500, -200], "label": "Fast Approach"},
+        {"code": 3, "range": [-200, -100], "label": "Moderate Approach"},
+        {"code": 4, "range": [-100, -50], "label": "Slow Approach"},
+        {"code": 5, "range": [-50, -20], "label": "Approach"},
+        {"code": 6, "range": [-20, -10], "label": "Slight Approach"},
+        {"code": 7, "range": [-10, -5], "label": "Minimal Approach"},
+        {"code": 8, "range": [-5, -1], "label": "Near Approach"},
+        {"code": 9, "range": [-1, 1], "label": "Stationary"},
+        {"code": 10, "range": [1, 5], "label": "Near Recede"},
+        {"code": 11, "range": [5, 10], "label": "Minimal Recede"},
+        {"code": 12, "range": [10, 20], "label": "Slight Recede"},
+        {"code": 13, "range": [20, 50], "label": "Recede"},
+        {"code": 14, "range": [50, 100], "label": "Slow Recede"},
+        {"code": 15, "range": [100, 200], "label": "Moderate Recede"},
+        {"code": 16, "range": [200, 500], "label": "Fast Recede"},
+        {"code": 17, "range": [500, null], "label": "Extreme Recede (>500)"}
+      ]
+    },
+    "redshift": {
+      "description": "적색편이 양자화 (5비트, z값)",
+      "bits": 5,
+      "note": "로그 스케일, 0~10+ 범위",
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [null, -0.001], "label": "Blueshift"},
+        {"code": 2, "range": [-0.001, 0.001], "label": "Near Zero"},
+        {"code": 3, "range": [0.001, 0.01], "label": "Very Low (0.001-0.01)"},
+        {"code": 4, "range": [0.01, 0.05], "label": "Low (0.01-0.05)"},
+        {"code": 5, "range": [0.05, 0.1], "label": "Moderate Low"},
+        {"code": 6, "range": [0.1, 0.2], "label": "Moderate"},
+        {"code": 7, "range": [0.2, 0.5], "label": "Moderate High"},
+        {"code": 8, "range": [0.5, 1.0], "label": "High"},
+        {"code": 9, "range": [1.0, 2.0], "label": "Very High"},
+        {"code": 10, "range": [2.0, 3.0], "label": "Ultra High"},
+        {"code": 11, "range": [3.0, 5.0], "label": "Extreme"},
+        {"code": 12, "range": [5.0, null], "label": "Early Universe (>5)"}
+      ]
+    },
+    "parallax": {
+      "description": "시차 양자화 (4비트, arcsec)",
+      "bits": 4,
+      "note": "거리 = 1/parallax(pc)",
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [null, 0.001], "label": ">1000pc"},
+        {"code": 2, "range": [0.001, 0.01], "label": "100-1000pc"},
+        {"code": 3, "range": [0.01, 0.05], "label": "20-100pc"},
+        {"code": 4, "range": [0.05, 0.1], "label": "10-20pc"},
+        {"code": 5, "range": [0.1, 0.2], "label": "5-10pc"},
+        {"code": 6, "range": [0.2, 0.5], "label": "2-5pc"},
+        {"code": 7, "range": [0.5, 1.0], "label": "1-2pc"},
+        {"code": 8, "range": [1.0, null], "label": "<1pc (Nearby)"}
+      ]
+    },
+    "pm_class": {
+      "description": "고유운동 분류 (2비트)",
+      "bits": 2,
+      "ranges": [
+        {"code": 0, "label": "Unknown/Low"},
+        {"code": 1, "label": "Moderate"},
+        {"code": 2, "label": "High"},
+        {"code": 3, "label": "Very High"}
+      ]
+    },
+    "elevation": {
+      "description": "고도 양자화 (5비트, m)",
+      "bits": 5,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [null, -100], "label": "Deep Below Sea (<-100m)"},
+        {"code": 2, "range": [-100, 0], "label": "Below Sea (-100~0m)"},
+        {"code": 3, "range": [0, 50], "label": "Coastal (0-50m)"},
+        {"code": 4, "range": [50, 100], "label": "Low Plain (50-100m)"},
+        {"code": 5, "range": [100, 200], "label": "Plain (100-200m)"},
+        {"code": 6, "range": [200, 300], "label": "Low Hills (200-300m)"},
+        {"code": 7, "range": [300, 500], "label": "Hills (300-500m)"},
+        {"code": 8, "range": [500, 750], "label": "Upland (500-750m)"},
+        {"code": 9, "range": [750, 1000], "label": "Highland (750-1000m)"},
+        {"code": 10, "range": [1000, 1500], "label": "Mountain (1000-1500m)"},
+        {"code": 11, "range": [1500, 2000], "label": "High Mountain (1500-2000m)"},
+        {"code": 12, "range": [2000, 2500], "label": "Alpine (2000-2500m)"},
+        {"code": 13, "range": [2500, 3000], "label": "High Alpine (2500-3000m)"},
+        {"code": 14, "range": [3000, 4000], "label": "Very High (3000-4000m)"},
+        {"code": 15, "range": [4000, null], "label": "Extreme (>4000m)"}
+      ]
+    },
+    "settlement_type": {
+      "description": "정주지 유형 (4비트)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Capital"},
+        {"code": 2, "label": "Megacity (10M+)"},
+        {"code": 3, "label": "Major City (1M-10M)"},
+        {"code": 4, "label": "City (100K-1M)"},
+        {"code": 5, "label": "Town (10K-100K)"},
+        {"code": 6, "label": "Village (1K-10K)"},
+        {"code": 7, "label": "Hamlet (<1K)"},
+        {"code": 8, "label": "District"},
+        {"code": 9, "label": "Borough"},
+        {"code": 10, "label": "Township"},
+        {"code": 11, "label": "Commune"}
+      ]
+    },
+    "coastal": {
+      "description": "해안 여부 (2비트, 파생)",
+      "bits": 2,
+      "derived": true,
+      "coastal_threshold_km": 50,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Inland (>50km)"},
+        {"code": 2, "label": "Coastal (<50km)"},
+        {"code": 3, "label": "Island"}
+      ]
+    },
+    "org_status": {
+      "description": "조직 상태 (3비트)",
+      "bits": 3,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Active"},
+        {"code": 2, "label": "Inactive"},
+        {"code": 3, "label": "Dissolved"},
+        {"code": 4, "label": "Merged"},
+        {"code": 5, "label": "Acquired"},
+        {"code": 6, "label": "Bankrupt"},
+        {"code": 7, "label": "Historical"}
+      ]
+    },
+    "ideology": {
+      "description": "정치 이념 (3비트, 정당용)",
+      "bits": 3,
+      "ranges": [
+        {"code": 0, "label": "N/A"},
+        {"code": 1, "label": "Far-left"},
+        {"code": 2, "label": "Left"},
+        {"code": 3, "label": "Center-left"},
+        {"code": 4, "label": "Center"},
+        {"code": 5, "label": "Center-right"},
+        {"code": 6, "label": "Right"},
+        {"code": 7, "label": "Far-right"}
+      ]
+    },
+    "sector": {
+      "description": "공공/민간 구분 (2비트, 파생)",
+      "bits": 2,
+      "derived": true,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Public"},
+        {"code": 2, "label": "Private"},
+        {"code": 3, "label": "Non-profit"}
+      ]
+    },
+    "director_fame": {
+      "description": "감독 저명도 (4비트, sitelinks 기반)",
+      "bits": 4,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "range": [0, 5], "label": "Debut"},
+        {"code": 2, "range": [5, 10], "label": "Emerging"},
+        {"code": 3, "range": [10, 20], "label": "Notable"},
+        {"code": 4, "range": [20, 40], "label": "Established"},
+        {"code": 5, "range": [40, 70], "label": "Recognized"},
+        {"code": 6, "range": [70, 100], "label": "Famous"},
+        {"code": 7, "range": [100, 150], "label": "Very Famous"},
+        {"code": 8, "range": [150, 200], "label": "Highly Famous"},
+        {"code": 9, "range": [200, 300], "label": "Acclaimed"},
+        {"code": 10, "range": [300, 500], "label": "Legendary"},
+        {"code": 11, "range": [500, null], "label": "World Famous"}
+      ]
+    },
+    "cast_tier": {
+      "description": "출연진 등급 (3비트)",
+      "bits": 3,
+      "note": "주연배우 저명도 평균 기반",
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "No Named Cast"},
+        {"code": 2, "label": "Minor Cast"},
+        {"code": 3, "label": "Notable Cast"},
+        {"code": 4, "label": "Good Cast"},
+        {"code": 5, "label": "Strong Cast"},
+        {"code": 6, "label": "Star-studded"},
+        {"code": 7, "label": "Legendary Cast"}
+      ]
+    },
+    "film_rating": {
+      "description": "영화 연령등급 (3비트)",
+      "bits": 3,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "G (All Ages)"},
+        {"code": 2, "label": "PG"},
+        {"code": 3, "label": "PG-13 / 12"},
+        {"code": 4, "label": "R / 15"},
+        {"code": 5, "label": "NC-17 / 18"},
+        {"code": 6, "label": "Adult"},
+        {"code": 7, "label": "Unrated"}
+      ]
+    },
+    "film_format": {
+      "description": "영화 포맷 (3비트)",
+      "bits": 3,
+      "ranges": [
+        {"code": 0, "label": "Unknown"},
+        {"code": 1, "label": "Feature Film"},
+        {"code": 2, "label": "Short Film"},
+        {"code": 3, "label": "Documentary"},
+        {"code": 4, "label": "Animation"},
+        {"code": 5, "label": "TV Movie"},
+        {"code": 6, "label": "Direct-to-video"},
+        {"code": 7, "label": "Web Film"}
+      ]
+    }
+  },
+  "hierarchical": {
+    "description": "부모 종속 속성 정의",
+    "P131_admin_territory": {
+      "parent": "P17",
+      "note": "행정구역은 국가에 종속, 국가별 별도 코드북"
+    },
+    "P106_occupation": {
+      "parent": "subclass",
+      "note": "직업은 소분류에 종속"
+    },
+    "P19_birth_region": {
+      "parent": "P27",
+      "note": "출생지역은 국적에 종속, 국가별 별도 코드북"
+    },
+    "P159_hq_region": {
+      "parent": "P17",
+      "note": "본사지역은 국가에 종속, 국가별 별도 코드북"
+    }
+  }
+}

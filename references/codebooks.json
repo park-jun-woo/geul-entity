@@ -1,0 +1,3285 @@
+{
+  "version": "v1.0",
+  "generated": "2026-02-01 16:35:38",
+  "description": "GEUL Entity SIDX 48-bit Attributes codebooks",
+  "codebooks": {
+    "country": {
+      "bits": 8,
+      "max_count": 256,
+      "actual_count": 256,
+      "source": "P17 (country), P27 (country of citizenship)",
+      "values": [
+        {
+          "code": 0,
+          "qid": null,
+          "label_en": "Unknown",
+          "count": 0
+        },
+        {
+          "code": 1,
+          "qid": "Q30",
+          "label_en": "United States",
+          "count": 2787729
+        },
+        {
+          "code": 2,
+          "qid": "Q142",
+          "label_en": "France",
+          "count": 2020985
+        },
+        {
+          "code": 3,
+          "qid": "Q183",
+          "label_en": "Germany",
+          "count": 1677411
+        },
+        {
+          "code": 4,
+          "qid": "Q145",
+          "label_en": "United Kingdom",
+          "count": 1383664
+        },
+        {
+          "code": 5,
+          "qid": "Q148",
+          "label_en": "People's Republic of China",
+          "count": 1075863
+        },
+        {
+          "code": 6,
+          "qid": "Q668",
+          "label_en": "India",
+          "count": 994876
+        },
+        {
+          "code": 7,
+          "qid": "Q29",
+          "label_en": "Spain",
+          "count": 746455
+        },
+        {
+          "code": 8,
+          "qid": "Q38",
+          "label_en": "Italy",
+          "count": 667111
+        },
+        {
+          "code": 9,
+          "qid": "Q16",
+          "label_en": "Canada",
+          "count": 634067
+        },
+        {
+          "code": 10,
+          "qid": "Q17",
+          "label_en": "Japan",
+          "count": 626843
+        },
+        {
+          "code": 11,
+          "qid": "Q252",
+          "label_en": "Indonesia",
+          "count": 617576
+        },
+        {
+          "code": 12,
+          "qid": "Q159",
+          "label_en": "Russia",
+          "count": 603657
+        },
+        {
+          "code": 13,
+          "qid": "Q34",
+          "label_en": "Sweden",
+          "count": 545484
+        },
+        {
+          "code": 14,
+          "qid": "Q20",
+          "label_en": "Norway",
+          "count": 504593
+        },
+        {
+          "code": 15,
+          "qid": "Q55",
+          "label_en": "Netherlands",
+          "count": 491758
+        },
+        {
+          "code": 16,
+          "qid": "Q213",
+          "label_en": "Czech Republic",
+          "count": 465519
+        },
+        {
+          "code": 17,
+          "qid": "Q36",
+          "label_en": "Poland",
+          "count": 429337
+        },
+        {
+          "code": 18,
+          "qid": "Q96",
+          "label_en": "Mexico",
+          "count": 396164
+        },
+        {
+          "code": 19,
+          "qid": "Q155",
+          "label_en": "Brazil",
+          "count": 361486
+        },
+        {
+          "code": 20,
+          "qid": "Q408",
+          "label_en": "Australia",
+          "count": 335626
+        },
+        {
+          "code": 21,
+          "qid": "Q33",
+          "label_en": "Finland",
+          "count": 271760
+        },
+        {
+          "code": 22,
+          "qid": "Q212",
+          "label_en": "Ukraine",
+          "count": 262251
+        },
+        {
+          "code": 23,
+          "qid": "Q40",
+          "label_en": "Austria",
+          "count": 235319
+        },
+        {
+          "code": 24,
+          "qid": "Q15180",
+          "label_en": "Soviet Union",
+          "count": 231664
+        },
+        {
+          "code": 25,
+          "qid": "Q794",
+          "label_en": "Iran",
+          "count": 222898
+        },
+        {
+          "code": 26,
+          "qid": "Q43",
+          "label_en": "Turkey",
+          "count": 216890
+        },
+        {
+          "code": 27,
+          "qid": "Q31",
+          "label_en": "Belgium",
+          "count": 195474
+        },
+        {
+          "code": 28,
+          "qid": "Q39",
+          "label_en": "Switzerland",
+          "count": 195048
+        },
+        {
+          "code": 29,
+          "qid": "Q27",
+          "label_en": "Ireland",
+          "count": 155425
+        },
+        {
+          "code": 30,
+          "qid": "Q884",
+          "label_en": "South Korea",
+          "count": 139425
+        },
+        {
+          "code": 31,
+          "qid": "Q34266",
+          "label_en": "Russian Empire",
+          "count": 129328
+        },
+        {
+          "code": 32,
+          "qid": "Q218",
+          "label_en": "Romania",
+          "count": 127640
+        },
+        {
+          "code": 33,
+          "qid": "Q9903",
+          "label_en": "Ming dynasty",
+          "count": 125852
+        },
+        {
+          "code": 34,
+          "qid": "Q664",
+          "label_en": "New Zealand",
+          "count": 123940
+        },
+        {
+          "code": 35,
+          "qid": "Q28",
+          "label_en": "Hungary",
+          "count": 119864
+        },
+        {
+          "code": 36,
+          "qid": "Q414",
+          "label_en": "Argentina",
+          "count": 117067
+        },
+        {
+          "code": 37,
+          "qid": "Q865",
+          "label_en": "Taiwan",
+          "count": 106533
+        },
+        {
+          "code": 38,
+          "qid": "Q41",
+          "label_en": "Greece",
+          "count": 105388
+        },
+        {
+          "code": 39,
+          "qid": "Q29999",
+          "label_en": "Kingdom of the Netherlands",
+          "count": 105208
+        },
+        {
+          "code": 40,
+          "qid": "Q1028",
+          "label_en": "Morocco",
+          "count": 102669
+        },
+        {
+          "code": 41,
+          "qid": "Q35",
+          "label_en": "Denmark",
+          "count": 101739
+        },
+        {
+          "code": 42,
+          "qid": "Q1033",
+          "label_en": "Nigeria",
+          "count": 101352
+        },
+        {
+          "code": 43,
+          "qid": "Q843",
+          "label_en": "Pakistan",
+          "count": 100246
+        },
+        {
+          "code": 44,
+          "qid": "Q174193",
+          "label_en": "United Kingdom of Great Britain and Ireland",
+          "count": 97213
+        },
+        {
+          "code": 45,
+          "qid": "Q45",
+          "label_en": "Portugal",
+          "count": 90870
+        },
+        {
+          "code": 46,
+          "qid": "Q833",
+          "label_en": "Malaysia",
+          "count": 85874
+        },
+        {
+          "code": 47,
+          "qid": "Q419",
+          "label_en": "Peru",
+          "count": 84213
+        },
+        {
+          "code": 48,
+          "qid": "Q215",
+          "label_en": "Slovenia",
+          "count": 80197
+        },
+        {
+          "code": 49,
+          "qid": "Q191",
+          "label_en": "Estonia",
+          "count": 76958
+        },
+        {
+          "code": 50,
+          "qid": "Q258",
+          "label_en": "South Africa",
+          "count": 75951
+        },
+        {
+          "code": 51,
+          "qid": "Q801",
+          "label_en": "Israel",
+          "count": 75523
+        },
+        {
+          "code": 52,
+          "qid": "Q184",
+          "label_en": "Belarus",
+          "count": 70165
+        },
+        {
+          "code": 53,
+          "qid": "Q869",
+          "label_en": "Thailand",
+          "count": 68045
+        },
+        {
+          "code": 54,
+          "qid": "Q172579",
+          "label_en": "Kingdom of Italy",
+          "count": 67041
+        },
+        {
+          "code": 55,
+          "qid": "Q298",
+          "label_en": "Chile",
+          "count": 66358
+        },
+        {
+          "code": 56,
+          "qid": "Q219",
+          "label_en": "Bulgaria",
+          "count": 66181
+        },
+        {
+          "code": 57,
+          "qid": "Q214",
+          "label_en": "Slovakia",
+          "count": 64732
+        },
+        {
+          "code": 58,
+          "qid": "Q399",
+          "label_en": "Armenia",
+          "count": 64203
+        },
+        {
+          "code": 59,
+          "qid": "Q37",
+          "label_en": "Lithuania",
+          "count": 63811
+        },
+        {
+          "code": 60,
+          "qid": "Q8733",
+          "label_en": "Qing dynasty",
+          "count": 63723
+        },
+        {
+          "code": 61,
+          "qid": "Q739",
+          "label_en": "Colombia",
+          "count": 62117
+        },
+        {
+          "code": 62,
+          "qid": "Q33946",
+          "label_en": "Czechoslovakia",
+          "count": 61255
+        },
+        {
+          "code": 63,
+          "qid": "Q928",
+          "label_en": "Philippines",
+          "count": 60851
+        },
+        {
+          "code": 64,
+          "qid": "Q805",
+          "label_en": "Yemen",
+          "count": 60846
+        },
+        {
+          "code": 65,
+          "qid": "Q756617",
+          "label_en": "Kingdom of Denmark",
+          "count": 58510
+        },
+        {
+          "code": 66,
+          "qid": "Q211",
+          "label_en": "Latvia",
+          "count": 55697
+        },
+        {
+          "code": 67,
+          "qid": "Q221",
+          "label_en": "North Macedonia",
+          "count": 49263
+        },
+        {
+          "code": 68,
+          "qid": "Q403",
+          "label_en": "Serbia",
+          "count": 49025
+        },
+        {
+          "code": 69,
+          "qid": "Q836",
+          "label_en": "Myanmar",
+          "count": 48469
+        },
+        {
+          "code": 70,
+          "qid": "Q83286",
+          "label_en": "Socialist Federal Republic of Yugoslavia",
+          "count": 48351
+        },
+        {
+          "code": 71,
+          "qid": "Q262",
+          "label_en": "Algeria",
+          "count": 47772
+        },
+        {
+          "code": 72,
+          "qid": "Q79",
+          "label_en": "Egypt",
+          "count": 47590
+        },
+        {
+          "code": 73,
+          "qid": "Q717",
+          "label_en": "Venezuela",
+          "count": 47482
+        },
+        {
+          "code": 74,
+          "qid": "Q224",
+          "label_en": "Croatia",
+          "count": 45268
+        },
+        {
+          "code": 75,
+          "qid": "Q7462",
+          "label_en": "Song dynasty",
+          "count": 44412
+        },
+        {
+          "code": 76,
+          "qid": "Q881",
+          "label_en": "Vietnam",
+          "count": 44084
+        },
+        {
+          "code": 77,
+          "qid": "Q117",
+          "label_en": "Ghana",
+          "count": 43856
+        },
+        {
+          "code": 78,
+          "qid": "Q889",
+          "label_en": "Afghanistan",
+          "count": 43398
+        },
+        {
+          "code": 79,
+          "qid": "Q1036",
+          "label_en": "Uganda",
+          "count": 41942
+        },
+        {
+          "code": 80,
+          "qid": "Q9683",
+          "label_en": "Tang dynasty",
+          "count": 39746
+        },
+        {
+          "code": 81,
+          "qid": "Q225",
+          "label_en": "Bosnia and Herzegovina",
+          "count": 38486
+        },
+        {
+          "code": 82,
+          "qid": "Q188712",
+          "label_en": "Empire of Japan",
+          "count": 38151
+        },
+        {
+          "code": 83,
+          "qid": "Q974",
+          "label_en": "Democratic Republic of the Congo",
+          "count": 37400
+        },
+        {
+          "code": 84,
+          "qid": "Q28513",
+          "label_en": "Austria–Hungary",
+          "count": 36668
+        },
+        {
+          "code": 85,
+          "qid": "Q232",
+          "label_en": "Kazakhstan",
+          "count": 36244
+        },
+        {
+          "code": 86,
+          "qid": "Q77",
+          "label_en": "Uruguay",
+          "count": 35554
+        },
+        {
+          "code": 87,
+          "qid": "Q916",
+          "label_en": "Angola",
+          "count": 32262
+        },
+        {
+          "code": 88,
+          "qid": "Q851",
+          "label_en": "Saudi Arabia",
+          "count": 31876
+        },
+        {
+          "code": 89,
+          "qid": "Q902",
+          "label_en": "Bangladesh",
+          "count": 30638
+        },
+        {
+          "code": 90,
+          "qid": "Q241",
+          "label_en": "Cuba",
+          "count": 29804
+        },
+        {
+          "code": 91,
+          "qid": "Q230",
+          "label_en": "Georgia",
+          "count": 28761
+        },
+        {
+          "code": 92,
+          "qid": "Q12560",
+          "label_en": "Ottoman Empire",
+          "count": 28045
+        },
+        {
+          "code": 93,
+          "qid": "Q16957",
+          "label_en": "German Democratic Republic",
+          "count": 28018
+        },
+        {
+          "code": 94,
+          "qid": "Q691",
+          "label_en": "Papua New Guinea",
+          "count": 27403
+        },
+        {
+          "code": 95,
+          "qid": "Q1009",
+          "label_en": "Cameroon",
+          "count": 27144
+        },
+        {
+          "code": 96,
+          "qid": "Q948",
+          "label_en": "Tunisia",
+          "count": 26706
+        },
+        {
+          "code": 97,
+          "qid": "Q796",
+          "label_en": "Iraq",
+          "count": 26620
+        },
+        {
+          "code": 98,
+          "qid": "Q227",
+          "label_en": "Azerbaijan",
+          "count": 24368
+        },
+        {
+          "code": 99,
+          "qid": "Q822",
+          "label_en": "Lebanon",
+          "count": 24189
+        },
+        {
+          "code": 100,
+          "qid": "Q858",
+          "label_en": "Syria",
+          "count": 23773
+        },
+        {
+          "code": 101,
+          "qid": "Q189",
+          "label_en": "Iceland",
+          "count": 23038
+        },
+        {
+          "code": 102,
+          "qid": "Q750",
+          "label_en": "Bolivia",
+          "count": 22832
+        },
+        {
+          "code": 103,
+          "qid": "Q172107",
+          "label_en": "Polish–Lithuanian Commonwealth",
+          "count": 21186
+        },
+        {
+          "code": 104,
+          "qid": "Q854",
+          "label_en": "Sri Lanka",
+          "count": 21024
+        },
+        {
+          "code": 105,
+          "qid": "Q7313",
+          "label_en": "Yuan dynasty",
+          "count": 21015
+        },
+        {
+          "code": 106,
+          "qid": "Q222",
+          "label_en": "Albania",
+          "count": 19949
+        },
+        {
+          "code": 107,
+          "qid": "Q114",
+          "label_en": "Kenya",
+          "count": 19490
+        },
+        {
+          "code": 108,
+          "qid": "Q129286",
+          "label_en": "British Raj",
+          "count": 19199
+        },
+        {
+          "code": 109,
+          "qid": "Q1054923",
+          "label_en": "British Hong Kong",
+          "count": 18899
+        },
+        {
+          "code": 110,
+          "qid": "Q736",
+          "label_en": "Ecuador",
+          "count": 18674
+        },
+        {
+          "code": 111,
+          "qid": "Q265",
+          "label_en": "Uzbekistan",
+          "count": 18266
+        },
+        {
+          "code": 112,
+          "qid": "Q32",
+          "label_en": "Luxembourg",
+          "count": 18167
+        },
+        {
+          "code": 113,
+          "qid": "Q1206012",
+          "label_en": "German Reich",
+          "count": 18072
+        },
+        {
+          "code": 114,
+          "qid": "Q161885",
+          "label_en": "Kingdom of Great Britain",
+          "count": 17830
+        },
+        {
+          "code": 115,
+          "qid": "Q786",
+          "label_en": "Dominican Republic",
+          "count": 17644
+        },
+        {
+          "code": 116,
+          "qid": "Q837",
+          "label_en": "Nepal",
+          "count": 17120
+        },
+        {
+          "code": 117,
+          "qid": "Q207272",
+          "label_en": "Second Polish Republic",
+          "count": 16074
+        },
+        {
+          "code": 118,
+          "qid": "Q1049",
+          "label_en": "Sudan",
+          "count": 15933
+        },
+        {
+          "code": 119,
+          "qid": "Q217",
+          "label_en": "Moldova",
+          "count": 14997
+        },
+        {
+          "code": 120,
+          "qid": "Q924",
+          "label_en": "Tanzania",
+          "count": 14831
+        },
+        {
+          "code": 121,
+          "qid": "Q334",
+          "label_en": "Singapore",
+          "count": 14456
+        },
+        {
+          "code": 122,
+          "qid": "Q1747689",
+          "label_en": "Ancient Rome",
+          "count": 14351
+        },
+        {
+          "code": 123,
+          "qid": "Q131964",
+          "label_en": "Austrian Empire",
+          "count": 14128
+        },
+        {
+          "code": 124,
+          "qid": "Q229",
+          "label_en": "Cyprus",
+          "count": 14018
+        },
+        {
+          "code": 125,
+          "qid": "Q965",
+          "label_en": "Burkina Faso",
+          "count": 13985
+        },
+        {
+          "code": 126,
+          "qid": "Q1008",
+          "label_en": "Ivory Coast",
+          "count": 13964
+        },
+        {
+          "code": 127,
+          "qid": "Q115",
+          "label_en": "Ethiopia",
+          "count": 13903
+        },
+        {
+          "code": 128,
+          "qid": "Q1016",
+          "label_en": "Libya",
+          "count": 13901
+        },
+        {
+          "code": 129,
+          "qid": "Q712",
+          "label_en": "Fiji",
+          "count": 13625
+        },
+        {
+          "code": 130,
+          "qid": "Q423",
+          "label_en": "North Korea",
+          "count": 13474
+        },
+        {
+          "code": 131,
+          "qid": "Q1029",
+          "label_en": "Mozambique",
+          "count": 13289
+        },
+        {
+          "code": 132,
+          "qid": "Q813",
+          "label_en": "Kyrgyzstan",
+          "count": 12684
+        },
+        {
+          "code": 133,
+          "qid": "Q971",
+          "label_en": "Republic of the Congo",
+          "count": 12658
+        },
+        {
+          "code": 134,
+          "qid": "Q179876",
+          "label_en": "Kingdom of England",
+          "count": 12654
+        },
+        {
+          "code": 135,
+          "qid": "Q1775277",
+          "label_en": "Dominion of India",
+          "count": 12650
+        },
+        {
+          "code": 136,
+          "qid": "Q929",
+          "label_en": "Central African Republic",
+          "count": 12569
+        },
+        {
+          "code": 137,
+          "qid": "Q804",
+          "label_en": "Panama",
+          "count": 12503
+        },
+        {
+          "code": 138,
+          "qid": "Q953",
+          "label_en": "Zambia",
+          "count": 12365
+        },
+        {
+          "code": 139,
+          "qid": "Q236",
+          "label_en": "Montenegro",
+          "count": 12337
+        },
+        {
+          "code": 140,
+          "qid": "Q954",
+          "label_en": "Zimbabwe",
+          "count": 12238
+        },
+        {
+          "code": 141,
+          "qid": "Q211274",
+          "label_en": "Polish People's Republic",
+          "count": 12199
+        },
+        {
+          "code": 142,
+          "qid": "Q1032",
+          "label_en": "Niger",
+          "count": 11954
+        },
+        {
+          "code": 143,
+          "qid": "Q1006",
+          "label_en": "Guinea",
+          "count": 11697
+        },
+        {
+          "code": 144,
+          "qid": "Q774",
+          "label_en": "Guatemala",
+          "count": 11305
+        },
+        {
+          "code": 145,
+          "qid": "Q783",
+          "label_en": "Honduras",
+          "count": 11267
+        },
+        {
+          "code": 146,
+          "qid": "Q810",
+          "label_en": "Jordan",
+          "count": 11265
+        },
+        {
+          "code": 147,
+          "qid": "Q8646",
+          "label_en": "Hong Kong",
+          "count": 11200
+        },
+        {
+          "code": 148,
+          "qid": "Q533534",
+          "label_en": "Cisleithania",
+          "count": 11160
+        },
+        {
+          "code": 149,
+          "qid": "Q233",
+          "label_en": "Malta",
+          "count": 10628
+        },
+        {
+          "code": 150,
+          "qid": "Q800",
+          "label_en": "Costa Rica",
+          "count": 10539
+        },
+        {
+          "code": 151,
+          "qid": "Q912",
+          "label_en": "Mali",
+          "count": 10484
+        },
+        {
+          "code": 152,
+          "qid": "Q863",
+          "label_en": "Tajikistan",
+          "count": 10444
+        },
+        {
+          "code": 153,
+          "qid": "Q878",
+          "label_en": "United Arab Emirates",
+          "count": 10372
+        },
+        {
+          "code": 154,
+          "qid": "Q1045",
+          "label_en": "Somalia",
+          "count": 10065
+        },
+        {
+          "code": 155,
+          "qid": "Q1246",
+          "label_en": "Kosovo",
+          "count": 9949
+        },
+        {
+          "code": 156,
+          "qid": "Q1041",
+          "label_en": "Senegal",
+          "count": 9375
+        },
+        {
+          "code": 157,
+          "qid": "Q790",
+          "label_en": "Haiti",
+          "count": 9276
+        },
+        {
+          "code": 158,
+          "qid": "Q191077",
+          "label_en": "Kingdom of Yugoslavia",
+          "count": 9262
+        },
+        {
+          "code": 159,
+          "qid": "Q1019",
+          "label_en": "Madagascar",
+          "count": 9101
+        },
+        {
+          "code": 160,
+          "qid": "Q223",
+          "label_en": "Greenland",
+          "count": 8996
+        },
+        {
+          "code": 161,
+          "qid": "Q842",
+          "label_en": "Oman",
+          "count": 8848
+        },
+        {
+          "code": 162,
+          "qid": "Q963",
+          "label_en": "Botswana",
+          "count": 8817
+        },
+        {
+          "code": 163,
+          "qid": "Q1037",
+          "label_en": "Rwanda",
+          "count": 8628
+        },
+        {
+          "code": 164,
+          "qid": "Q962",
+          "label_en": "Benin",
+          "count": 8578
+        },
+        {
+          "code": 165,
+          "qid": "Q219060",
+          "label_en": "State of Palestine",
+          "count": 8363
+        },
+        {
+          "code": 166,
+          "qid": "Q27306",
+          "label_en": "Kingdom of Prussia",
+          "count": 8292
+        },
+        {
+          "code": 167,
+          "qid": "Q958",
+          "label_en": "South Sudan",
+          "count": 8283
+        },
+        {
+          "code": 168,
+          "qid": "Q792",
+          "label_en": "El Salvador",
+          "count": 8229
+        },
+        {
+          "code": 169,
+          "qid": "Q657",
+          "label_en": "Chad",
+          "count": 8143
+        },
+        {
+          "code": 170,
+          "qid": "Q13426199",
+          "label_en": "Republic of China",
+          "count": 8084
+        },
+        {
+          "code": 171,
+          "qid": "Q424",
+          "label_en": "Cambodia",
+          "count": 7983
+        },
+        {
+          "code": 172,
+          "qid": "Q730",
+          "label_en": "Suriname",
+          "count": 7877
+        },
+        {
+          "code": 173,
+          "qid": "Q766",
+          "label_en": "Jamaica",
+          "count": 7730
+        },
+        {
+          "code": 174,
+          "qid": "Q574",
+          "label_en": "Timor-Leste",
+          "count": 7491
+        },
+        {
+          "code": 175,
+          "qid": "Q711",
+          "label_en": "Mongolia",
+          "count": 7419
+        },
+        {
+          "code": 176,
+          "qid": "Q733",
+          "label_en": "Paraguay",
+          "count": 7411
+        },
+        {
+          "code": 177,
+          "qid": "Q7318",
+          "label_en": "Nazi Germany",
+          "count": 7328
+        },
+        {
+          "code": 178,
+          "qid": "Q43287",
+          "label_en": "German Empire",
+          "count": 7259
+        },
+        {
+          "code": 179,
+          "qid": "Q203493",
+          "label_en": "Kingdom of Romania",
+          "count": 7176
+        },
+        {
+          "code": 180,
+          "qid": "Q811",
+          "label_en": "Nicaragua",
+          "count": 7025
+        },
+        {
+          "code": 181,
+          "qid": "Q945",
+          "label_en": "Togo",
+          "count": 6913
+        },
+        {
+          "code": 182,
+          "qid": "Q1020",
+          "label_en": "Malawi",
+          "count": 6608
+        },
+        {
+          "code": 183,
+          "qid": "Q846",
+          "label_en": "Qatar",
+          "count": 6348
+        },
+        {
+          "code": 184,
+          "qid": "Q1025",
+          "label_en": "Mauritania",
+          "count": 6283
+        },
+        {
+          "code": 185,
+          "qid": "Q45670",
+          "label_en": "Kingdom of Portugal",
+          "count": 6268
+        },
+        {
+          "code": 186,
+          "qid": "Q734",
+          "label_en": "Guyana",
+          "count": 6235
+        },
+        {
+          "code": 187,
+          "qid": "Q205662",
+          "label_en": "Tokugawa shogunate",
+          "count": 6026
+        },
+        {
+          "code": 188,
+          "qid": "Q1030",
+          "label_en": "Namibia",
+          "count": 6016
+        },
+        {
+          "code": 189,
+          "qid": "Q1014",
+          "label_en": "Liberia",
+          "count": 6002
+        },
+        {
+          "code": 190,
+          "qid": "Q967",
+          "label_en": "Burundi",
+          "count": 5788
+        },
+        {
+          "code": 191,
+          "qid": "Q1000",
+          "label_en": "Gabon",
+          "count": 5769
+        },
+        {
+          "code": 192,
+          "qid": "Q819",
+          "label_en": "Laos",
+          "count": 5769
+        },
+        {
+          "code": 193,
+          "qid": "Q842794",
+          "label_en": "Socialist Republic of Romania",
+          "count": 5697
+        },
+        {
+          "code": 194,
+          "qid": "Q2685298",
+          "label_en": "Romanian People's Republic",
+          "count": 5619
+        },
+        {
+          "code": 195,
+          "qid": "Q977",
+          "label_en": "Djibouti",
+          "count": 5353
+        },
+        {
+          "code": 196,
+          "qid": "Q986",
+          "label_en": "Eritrea",
+          "count": 5271
+        },
+        {
+          "code": 197,
+          "qid": "Q34020",
+          "label_en": "Niue",
+          "count": 5211
+        },
+        {
+          "code": 198,
+          "qid": "Q228",
+          "label_en": "Andorra",
+          "count": 5162
+        },
+        {
+          "code": 199,
+          "qid": "Q15102440",
+          "label_en": "Kingdom of Serbs, Croats and Slovenes",
+          "count": 5133
+        },
+        {
+          "code": 200,
+          "qid": "Q25",
+          "label_en": "Wales",
+          "count": 5016
+        },
+        {
+          "code": 201,
+          "qid": "Q2305208",
+          "label_en": "Russian Socialist Federative Soviet Republic",
+          "count": 4987
+        },
+        {
+          "code": 202,
+          "qid": "Q754",
+          "label_en": "Trinidad and Tobago",
+          "count": 4986
+        },
+        {
+          "code": 203,
+          "qid": "Q685",
+          "label_en": "Solomon Islands",
+          "count": 4947
+        },
+        {
+          "code": 204,
+          "qid": "Q1044",
+          "label_en": "Sierra Leone",
+          "count": 4806
+        },
+        {
+          "code": 205,
+          "qid": "Q170072",
+          "label_en": "Dutch Republic",
+          "count": 4518
+        },
+        {
+          "code": 206,
+          "qid": "Q26988",
+          "label_en": "Cook Islands",
+          "count": 4464
+        },
+        {
+          "code": 207,
+          "qid": "Q36704",
+          "label_en": "Yugoslavia",
+          "count": 4400
+        },
+        {
+          "code": 208,
+          "qid": "Q817",
+          "label_en": "Kuwait",
+          "count": 4303
+        },
+        {
+          "code": 209,
+          "qid": "Q186096",
+          "label_en": "Tsardom of Russia",
+          "count": 4283
+        },
+        {
+          "code": 210,
+          "qid": "Q12548",
+          "label_en": "Holy Roman Empire",
+          "count": 4272
+        },
+        {
+          "code": 211,
+          "qid": "Q70972",
+          "label_en": "Kingdom of France",
+          "count": 3989
+        },
+        {
+          "code": 212,
+          "qid": "Q21",
+          "label_en": "England",
+          "count": 3890
+        },
+        {
+          "code": 213,
+          "qid": "Q778",
+          "label_en": "The Bahamas",
+          "count": 3882
+        },
+        {
+          "code": 214,
+          "qid": "Q874",
+          "label_en": "Turkmenistan",
+          "count": 3816
+        },
+        {
+          "code": 215,
+          "qid": "Q28179",
+          "label_en": "Joseon",
+          "count": 3796
+        },
+        {
+          "code": 216,
+          "qid": "Q4948",
+          "label_en": "Republic of Venice",
+          "count": 3762
+        },
+        {
+          "code": 217,
+          "qid": "Q826",
+          "label_en": "Maldives",
+          "count": 3754
+        },
+        {
+          "code": 218,
+          "qid": "Q238",
+          "label_en": "San Marino",
+          "count": 3705
+        },
+        {
+          "code": 219,
+          "qid": "Q983",
+          "label_en": "Equatorial Guinea",
+          "count": 3678
+        },
+        {
+          "code": 220,
+          "qid": "Q153136",
+          "label_en": "Habsburg monarchy",
+          "count": 3622
+        },
+        {
+          "code": 221,
+          "qid": "Q242",
+          "label_en": "Belize",
+          "count": 3618
+        },
+        {
+          "code": 222,
+          "qid": "Q1005",
+          "label_en": "The Gambia",
+          "count": 3609
+        },
+        {
+          "code": 223,
+          "qid": "Q398",
+          "label_en": "Bahrain",
+          "count": 3605
+        },
+        {
+          "code": 224,
+          "qid": "Q12544",
+          "label_en": "Byzantine Empire",
+          "count": 3573
+        },
+        {
+          "code": 225,
+          "qid": "Q2895",
+          "label_en": "Byelorussian Soviet Socialist Republic",
+          "count": 3463
+        },
+        {
+          "code": 226,
+          "qid": "Q235",
+          "label_en": "Monaco",
+          "count": 3448
+        },
+        {
+          "code": 227,
+          "qid": "Q1007",
+          "label_en": "Guinea-Bissau",
+          "count": 3348
+        },
+        {
+          "code": 228,
+          "qid": "Q1027",
+          "label_en": "Mauritius",
+          "count": 3279
+        },
+        {
+          "code": 229,
+          "qid": "Q41304",
+          "label_en": "Weimar Republic",
+          "count": 3142
+        },
+        {
+          "code": 230,
+          "qid": "Q1011",
+          "label_en": "Cape Verde",
+          "count": 3023
+        },
+        {
+          "code": 231,
+          "qid": "Q347",
+          "label_en": "Liechtenstein",
+          "count": 2988
+        },
+        {
+          "code": 232,
+          "qid": "Q243610",
+          "label_en": "Ukrainian People's Republic",
+          "count": 2871
+        },
+        {
+          "code": 233,
+          "qid": "Q686",
+          "label_en": "Vanuatu",
+          "count": 2850
+        },
+        {
+          "code": 234,
+          "qid": "Q171150",
+          "label_en": "Kingdom of Hungary",
+          "count": 2838
+        },
+        {
+          "code": 235,
+          "qid": "Q62633",
+          "label_en": "Grand Principality of Finland",
+          "count": 2750
+        },
+        {
+          "code": 236,
+          "qid": "Q516160",
+          "label_en": "First Hungarian Republic",
+          "count": 2725
+        },
+        {
+          "code": 237,
+          "qid": "Q921",
+          "label_en": "Brunei",
+          "count": 2697
+        },
+        {
+          "code": 238,
+          "qid": "Q958291",
+          "label_en": "United Principalities of Moldavia and Wallachia",
+          "count": 2621
+        },
+        {
+          "code": 239,
+          "qid": "Q244",
+          "label_en": "Barbados",
+          "count": 2524
+        },
+        {
+          "code": 240,
+          "qid": "Q683",
+          "label_en": "Samoa",
+          "count": 2452
+        },
+        {
+          "code": 241,
+          "qid": "Q4204060",
+          "label_en": "Islamic state",
+          "count": 2374
+        },
+        {
+          "code": 242,
+          "qid": "Q695",
+          "label_en": "Palau",
+          "count": 2369
+        },
+        {
+          "code": 243,
+          "qid": "Q133356",
+          "label_en": "Ukrainian Soviet Socialist Republic",
+          "count": 2328
+        },
+        {
+          "code": 244,
+          "qid": "Q39193",
+          "label_en": "Bohemia",
+          "count": 2306
+        },
+        {
+          "code": 245,
+          "qid": "Q917",
+          "label_en": "Bhutan",
+          "count": 2284
+        },
+        {
+          "code": 246,
+          "qid": "Q713750",
+          "label_en": "West Germany",
+          "count": 2282
+        },
+        {
+          "code": 247,
+          "qid": "Q625380",
+          "label_en": "Eastern Hungarian Kingdom",
+          "count": 2282
+        },
+        {
+          "code": 248,
+          "qid": "Q503585",
+          "label_en": "Korea under Japanese rule",
+          "count": 2240
+        },
+        {
+          "code": 249,
+          "qid": "Q16056854",
+          "label_en": "Kingdom of Hungary",
+          "count": 2226
+        },
+        {
+          "code": 250,
+          "qid": "Q655621",
+          "label_en": "Principality of Transylvania",
+          "count": 2204
+        },
+        {
+          "code": 251,
+          "qid": "Q154195",
+          "label_en": "Kingdom of Bavaria",
+          "count": 2199
+        },
+        {
+          "code": 252,
+          "qid": "Q702",
+          "label_en": "Federated States of Micronesia",
+          "count": 2196
+        },
+        {
+          "code": 253,
+          "qid": "Q4628",
+          "label_en": "Faroe Islands",
+          "count": 2191
+        },
+        {
+          "code": 254,
+          "qid": "Q1013",
+          "label_en": "Lesotho",
+          "count": 2163
+        },
+        {
+          "code": 255,
+          "qid": "Q709",
+          "label_en": "Marshall Islands",
+          "count": 2080
+        }
+      ]
+    },
+    "occupation": {
+      "bits": 6,
+      "max_count": 64,
+      "actual_count": 64,
+      "source": "P106 (occupation)",
+      "values": [
+        {
+          "code": 0,
+          "qid": null,
+          "label_en": "Unknown",
+          "count": 0
+        },
+        {
+          "code": 1,
+          "qid": "Q1650915",
+          "label_en": "researcher",
+          "count": 2078523
+        },
+        {
+          "code": 2,
+          "qid": "Q82955",
+          "label_en": "politician",
+          "count": 880372
+        },
+        {
+          "code": 3,
+          "qid": "Q36180",
+          "label_en": "writer",
+          "count": 390854
+        },
+        {
+          "code": 4,
+          "qid": "Q937857",
+          "label_en": "association football player",
+          "count": 379434
+        },
+        {
+          "code": 5,
+          "qid": "Q33999",
+          "label_en": "actor",
+          "count": 358834
+        },
+        {
+          "code": 6,
+          "qid": "Q1622272",
+          "label_en": "university teacher",
+          "count": 287802
+        },
+        {
+          "code": 7,
+          "qid": "Q3665646",
+          "label_en": "basketball player",
+          "count": 228285
+        },
+        {
+          "code": 8,
+          "qid": "Q1028181",
+          "label_en": "painter",
+          "count": 216735
+        },
+        {
+          "code": 9,
+          "qid": "Q1930187",
+          "label_en": "journalist",
+          "count": 178680
+        },
+        {
+          "code": 10,
+          "qid": "Q49757",
+          "label_en": "poet",
+          "count": 124167
+        },
+        {
+          "code": 11,
+          "qid": "Q177220",
+          "label_en": "singer",
+          "count": 121504
+        },
+        {
+          "code": 12,
+          "qid": "Q201788",
+          "label_en": "historian",
+          "count": 118512
+        },
+        {
+          "code": 13,
+          "qid": "Q36834",
+          "label_en": "composer",
+          "count": 113152
+        },
+        {
+          "code": 14,
+          "qid": "Q47064",
+          "label_en": "military personnel",
+          "count": 106832
+        },
+        {
+          "code": 15,
+          "qid": "Q39631",
+          "label_en": "physician",
+          "count": 105677
+        },
+        {
+          "code": 16,
+          "qid": "Q40348",
+          "label_en": "lawyer",
+          "count": 104283
+        },
+        {
+          "code": 17,
+          "qid": "Q2526255",
+          "label_en": "film director",
+          "count": 98579
+        },
+        {
+          "code": 18,
+          "qid": "Q639669",
+          "label_en": "musician",
+          "count": 96092
+        },
+        {
+          "code": 19,
+          "qid": "Q37226",
+          "label_en": "teacher",
+          "count": 89252
+        },
+        {
+          "code": 20,
+          "qid": "Q42973",
+          "label_en": "architect",
+          "count": 87853
+        },
+        {
+          "code": 21,
+          "qid": "Q43845",
+          "label_en": "businessperson",
+          "count": 87722
+        },
+        {
+          "code": 22,
+          "qid": "Q10800557",
+          "label_en": "film actor",
+          "count": 82068
+        },
+        {
+          "code": 23,
+          "qid": "Q28389",
+          "label_en": "screenwriter",
+          "count": 81330
+        },
+        {
+          "code": 24,
+          "qid": "Q483501",
+          "label_en": "artist",
+          "count": 81186
+        },
+        {
+          "code": 25,
+          "qid": "Q250867",
+          "label_en": "Catholic priest",
+          "count": 80147
+        },
+        {
+          "code": 26,
+          "qid": "Q33231",
+          "label_en": "photographer",
+          "count": 78672
+        },
+        {
+          "code": 27,
+          "qid": "Q333634",
+          "label_en": "translator",
+          "count": 74371
+        },
+        {
+          "code": 28,
+          "qid": "Q482980",
+          "label_en": "author",
+          "count": 67299
+        },
+        {
+          "code": 29,
+          "qid": "Q185351",
+          "label_en": "jurist",
+          "count": 66862
+        },
+        {
+          "code": 30,
+          "qid": "Q3391743",
+          "label_en": "visual artist",
+          "count": 65892
+        },
+        {
+          "code": 31,
+          "qid": "Q2374149",
+          "label_en": "botanist",
+          "count": 64112
+        },
+        {
+          "code": 32,
+          "qid": "Q1281618",
+          "label_en": "sculptor",
+          "count": 58813
+        },
+        {
+          "code": 33,
+          "qid": "Q188094",
+          "label_en": "economist",
+          "count": 54917
+        },
+        {
+          "code": 34,
+          "qid": "Q189290",
+          "label_en": "military officer",
+          "count": 54158
+        },
+        {
+          "code": 35,
+          "qid": "Q81096",
+          "label_en": "engineer",
+          "count": 53968
+        },
+        {
+          "code": 36,
+          "qid": "Q193391",
+          "label_en": "diplomat",
+          "count": 52482
+        },
+        {
+          "code": 37,
+          "qid": "Q10798782",
+          "label_en": "television actor",
+          "count": 50906
+        },
+        {
+          "code": 38,
+          "qid": "Q19204627",
+          "label_en": "American football player",
+          "count": 47018
+        },
+        {
+          "code": 39,
+          "qid": "Q3282637",
+          "label_en": "film producer",
+          "count": 46898
+        },
+        {
+          "code": 40,
+          "qid": "Q170790",
+          "label_en": "mathematician",
+          "count": 44917
+        },
+        {
+          "code": 41,
+          "qid": "Q16533",
+          "label_en": "judge",
+          "count": 44557
+        },
+        {
+          "code": 42,
+          "qid": "Q2309784",
+          "label_en": "sport cyclist",
+          "count": 44426
+        },
+        {
+          "code": 43,
+          "qid": "Q611644",
+          "label_en": "Catholic bishop",
+          "count": 44094
+        },
+        {
+          "code": 44,
+          "qid": "Q901",
+          "label_en": "scientist",
+          "count": 43879
+        },
+        {
+          "code": 45,
+          "qid": "Q1234713",
+          "label_en": "theologian",
+          "count": 43387
+        },
+        {
+          "code": 46,
+          "qid": "Q11513337",
+          "label_en": "athletics competitor",
+          "count": 43286
+        },
+        {
+          "code": 47,
+          "qid": "Q10871364",
+          "label_en": "baseball player",
+          "count": 42369
+        },
+        {
+          "code": 48,
+          "qid": "Q2259451",
+          "label_en": "stage actor",
+          "count": 40804
+        },
+        {
+          "code": 49,
+          "qid": "Q12299841",
+          "label_en": "cricketer",
+          "count": 40708
+        },
+        {
+          "code": 50,
+          "qid": "Q11774891",
+          "label_en": "ice hockey player",
+          "count": 40591
+        },
+        {
+          "code": 51,
+          "qid": "Q212238",
+          "label_en": "civil servant",
+          "count": 40068
+        },
+        {
+          "code": 52,
+          "qid": "Q3455803",
+          "label_en": "director",
+          "count": 39274
+        },
+        {
+          "code": 53,
+          "qid": "Q1231865",
+          "label_en": "pedagogue",
+          "count": 38169
+        },
+        {
+          "code": 54,
+          "qid": "Q131524",
+          "label_en": "entrepreneur",
+          "count": 37216
+        },
+        {
+          "code": 55,
+          "qid": "Q3400985",
+          "label_en": "academic",
+          "count": 37047
+        },
+        {
+          "code": 56,
+          "qid": "Q644687",
+          "label_en": "illustrator",
+          "count": 35440
+        },
+        {
+          "code": 57,
+          "qid": "Q4964182",
+          "label_en": "philosopher",
+          "count": 35216
+        },
+        {
+          "code": 58,
+          "qid": "Q169470",
+          "label_en": "physicist",
+          "count": 35182
+        },
+        {
+          "code": 59,
+          "qid": "Q593644",
+          "label_en": "chemist",
+          "count": 33251
+        },
+        {
+          "code": 60,
+          "qid": "Q6625963",
+          "label_en": "novelist",
+          "count": 32827
+        },
+        {
+          "code": 61,
+          "qid": "Q121594",
+          "label_en": "professor",
+          "count": 31758
+        },
+        {
+          "code": 62,
+          "qid": "Q628099",
+          "label_en": "association football manager",
+          "count": 30819
+        },
+        {
+          "code": 63,
+          "qid": "Q1792450",
+          "label_en": "art historian",
+          "count": 28454
+        }
+      ]
+    },
+    "language": {
+      "bits": 6,
+      "max_count": 64,
+      "actual_count": 64,
+      "source": "P407 (language of work), P1412 (languages spoken)",
+      "values": [
+        {
+          "code": 0,
+          "qid": null,
+          "label_en": "Unknown",
+          "count": 0
+        },
+        {
+          "code": 1,
+          "qid": "Q1860",
+          "label_en": "English",
+          "count": 19520821
+        },
+        {
+          "code": 2,
+          "qid": "Q7850",
+          "label_en": "Chinese",
+          "count": 3405753
+        },
+        {
+          "code": 3,
+          "qid": "Q188",
+          "label_en": "German",
+          "count": 1218874
+        },
+        {
+          "code": 4,
+          "qid": "Q150",
+          "label_en": "French",
+          "count": 941550
+        },
+        {
+          "code": 5,
+          "qid": "Q7737",
+          "label_en": "Russian",
+          "count": 862369
+        },
+        {
+          "code": 6,
+          "qid": "Q1321",
+          "label_en": "Spanish",
+          "count": 542366
+        },
+        {
+          "code": 7,
+          "qid": "Q9027",
+          "label_en": "Swedish",
+          "count": 402748
+        },
+        {
+          "code": 8,
+          "qid": "Q652",
+          "label_en": "Italian",
+          "count": 372295
+        },
+        {
+          "code": 9,
+          "qid": "Q9056",
+          "label_en": "Czech",
+          "count": 357320
+        },
+        {
+          "code": 10,
+          "qid": "Q5287",
+          "label_en": "Japanese",
+          "count": 353038
+        },
+        {
+          "code": 11,
+          "qid": "Q809",
+          "label_en": "Polish",
+          "count": 347282
+        },
+        {
+          "code": 12,
+          "qid": "Q5146",
+          "label_en": "Portuguese",
+          "count": 158868
+        },
+        {
+          "code": 13,
+          "qid": "Q37041",
+          "label_en": "Classical Chinese",
+          "count": 118886
+        },
+        {
+          "code": 14,
+          "qid": "Q7411",
+          "label_en": "Dutch",
+          "count": 103794
+        },
+        {
+          "code": 15,
+          "qid": "Q13955",
+          "label_en": "Arabic",
+          "count": 95913
+        },
+        {
+          "code": 16,
+          "qid": "Q7913",
+          "label_en": "Romanian",
+          "count": 94039
+        },
+        {
+          "code": 17,
+          "qid": "Q9299",
+          "label_en": "Serbian",
+          "count": 77552
+        },
+        {
+          "code": 18,
+          "qid": "Q256",
+          "label_en": "Turkish",
+          "count": 70536
+        },
+        {
+          "code": 19,
+          "qid": "Q9035",
+          "label_en": "Danish",
+          "count": 70213
+        },
+        {
+          "code": 20,
+          "qid": "Q7979",
+          "label_en": "British English",
+          "count": 70061
+        },
+        {
+          "code": 21,
+          "qid": "Q750553",
+          "label_en": "Brazilian Portuguese",
+          "count": 66732
+        },
+        {
+          "code": 22,
+          "qid": "Q18130932",
+          "label_en": "Traditional Chinese",
+          "count": 64456
+        },
+        {
+          "code": 23,
+          "qid": "Q9176",
+          "label_en": "Korean",
+          "count": 56300
+        },
+        {
+          "code": 24,
+          "qid": "Q397",
+          "label_en": "Latin",
+          "count": 55118
+        },
+        {
+          "code": 25,
+          "qid": "Q13414913",
+          "label_en": "Simplified Chinese",
+          "count": 52542
+        },
+        {
+          "code": 26,
+          "qid": "Q9063",
+          "label_en": "Slovene",
+          "count": 52375
+        },
+        {
+          "code": 27,
+          "qid": "Q9067",
+          "label_en": "Hungarian",
+          "count": 51313
+        },
+        {
+          "code": 28,
+          "qid": "Q66724591",
+          "label_en": "non-English",
+          "count": 48148
+        },
+        {
+          "code": 29,
+          "qid": "Q1412",
+          "label_en": "Finnish",
+          "count": 46879
+        },
+        {
+          "code": 30,
+          "qid": "Q7026",
+          "label_en": "Catalan",
+          "count": 46539
+        },
+        {
+          "code": 31,
+          "qid": "Q9240",
+          "label_en": "Indonesian",
+          "count": 45881
+        },
+        {
+          "code": 32,
+          "qid": "Q9072",
+          "label_en": "Estonian",
+          "count": 45559
+        },
+        {
+          "code": 33,
+          "qid": "Q9610",
+          "label_en": "Bangla",
+          "count": 42886
+        },
+        {
+          "code": 34,
+          "qid": "Q9043",
+          "label_en": "Norwegian",
+          "count": 41483
+        },
+        {
+          "code": 35,
+          "qid": "Q9309",
+          "label_en": "Welsh",
+          "count": 39648
+        },
+        {
+          "code": 36,
+          "qid": "Q8798",
+          "label_en": "Ukrainian",
+          "count": 35958
+        },
+        {
+          "code": 37,
+          "qid": "Q262828",
+          "label_en": "Standard Taiwanese Mandarin",
+          "count": 35146
+        },
+        {
+          "code": 38,
+          "qid": "Q7976",
+          "label_en": "American English",
+          "count": 34761
+        },
+        {
+          "code": 39,
+          "qid": "Q9288",
+          "label_en": "Hebrew",
+          "count": 34728
+        },
+        {
+          "code": 40,
+          "qid": "Q9058",
+          "label_en": "Slovak",
+          "count": 33305
+        },
+        {
+          "code": 41,
+          "qid": "Q20923490",
+          "label_en": "multiple languages",
+          "count": 31651
+        },
+        {
+          "code": 42,
+          "qid": "Q22282939",
+          "label_en": "no linguistic content",
+          "count": 30703
+        },
+        {
+          "code": 43,
+          "qid": "Q9129",
+          "label_en": "Greek",
+          "count": 29985
+        },
+        {
+          "code": 44,
+          "qid": "Q837169",
+          "label_en": "Old Mandarin",
+          "count": 27172
+        },
+        {
+          "code": 45,
+          "qid": "Q7918",
+          "label_en": "Bulgarian",
+          "count": 26113
+        },
+        {
+          "code": 46,
+          "qid": "Q6654",
+          "label_en": "Croatian",
+          "count": 23581
+        },
+        {
+          "code": 47,
+          "qid": "Q35497",
+          "label_en": "Ancient Greek",
+          "count": 20373
+        },
+        {
+          "code": 48,
+          "qid": "Q8752",
+          "label_en": "Basque",
+          "count": 19345
+        },
+        {
+          "code": 49,
+          "qid": "Q9078",
+          "label_en": "Latvian",
+          "count": 18526
+        },
+        {
+          "code": 50,
+          "qid": "Q9168",
+          "label_en": "Persian",
+          "count": 17645
+        },
+        {
+          "code": 51,
+          "qid": "Q1568",
+          "label_en": "Hindi",
+          "count": 15484
+        },
+        {
+          "code": 52,
+          "qid": "Q36510",
+          "label_en": "Modern Greek",
+          "count": 13992
+        },
+        {
+          "code": 53,
+          "qid": "Q9083",
+          "label_en": "Lithuanian",
+          "count": 13519
+        },
+        {
+          "code": 54,
+          "qid": "Q33810",
+          "label_en": "Odia",
+          "count": 12618
+        },
+        {
+          "code": 55,
+          "qid": "Q8785",
+          "label_en": "Armenian",
+          "count": 10137
+        },
+        {
+          "code": 56,
+          "qid": "Q56649449",
+          "label_en": "Latin American Spanish",
+          "count": 9682
+        },
+        {
+          "code": 57,
+          "qid": "Q9296",
+          "label_en": "Macedonian",
+          "count": 9643
+        },
+        {
+          "code": 58,
+          "qid": "Q5885",
+          "label_en": "Tamil",
+          "count": 9394
+        },
+        {
+          "code": 59,
+          "qid": "Q9307",
+          "label_en": "Galician",
+          "count": 9107
+        },
+        {
+          "code": 60,
+          "qid": "Q143",
+          "label_en": "Esperanto",
+          "count": 8612
+        },
+        {
+          "code": 61,
+          "qid": "Q9199",
+          "label_en": "Vietnamese",
+          "count": 8599
+        },
+        {
+          "code": 62,
+          "qid": "Q9217",
+          "label_en": "Thai",
+          "count": 8557
+        },
+        {
+          "code": 63,
+          "qid": "Q294",
+          "label_en": "Icelandic",
+          "count": 8033
+        }
+      ]
+    },
+    "genre": {
+      "bits": 6,
+      "max_count": 64,
+      "actual_count": 64,
+      "source": "P136 (genre)",
+      "values": [
+        {
+          "code": 0,
+          "qid": null,
+          "label_en": "Unknown",
+          "count": 0
+        },
+        {
+          "code": 1,
+          "qid": "Q134307",
+          "label_en": "portrait",
+          "count": 159944
+        },
+        {
+          "code": 2,
+          "qid": "Q2864737",
+          "label_en": "religious art",
+          "count": 99670
+        },
+        {
+          "code": 3,
+          "qid": "Q130232",
+          "label_en": "drama film",
+          "count": 82827
+        },
+        {
+          "code": 4,
+          "qid": "Q2444973",
+          "label_en": "blue and white ceramic",
+          "count": 67519
+        },
+        {
+          "code": 5,
+          "qid": "Q191163",
+          "label_en": "landscape painting",
+          "count": 58188
+        },
+        {
+          "code": 6,
+          "qid": "Q93204",
+          "label_en": "documentary film",
+          "count": 53285
+        },
+        {
+          "code": 7,
+          "qid": "Q37073",
+          "label_en": "pop music",
+          "count": 46658
+        },
+        {
+          "code": 8,
+          "qid": "Q116953130",
+          "label_en": "hymn text",
+          "count": 45682
+        },
+        {
+          "code": 9,
+          "qid": "Q270948",
+          "label_en": "action game",
+          "count": 45266
+        },
+        {
+          "code": 10,
+          "qid": "Q157443",
+          "label_en": "comedy film",
+          "count": 42198
+        },
+        {
+          "code": 11,
+          "qid": "Q23916",
+          "label_en": "adventure video game",
+          "count": 42165
+        },
+        {
+          "code": 12,
+          "qid": "Q1050023",
+          "label_en": "casual game",
+          "count": 40069
+        },
+        {
+          "code": 13,
+          "qid": "Q11399",
+          "label_en": "rock music",
+          "count": 38477
+        },
+        {
+          "code": 14,
+          "qid": "Q557141",
+          "label_en": "public art",
+          "count": 37157
+        },
+        {
+          "code": 15,
+          "qid": "Q226730",
+          "label_en": "silent film",
+          "count": 36636
+        },
+        {
+          "code": 16,
+          "qid": "Q8341",
+          "label_en": "jazz",
+          "count": 32010
+        },
+        {
+          "code": 17,
+          "qid": "Q482",
+          "label_en": "poetry",
+          "count": 31278
+        },
+        {
+          "code": 18,
+          "qid": "Q637866",
+          "label_en": "book review",
+          "count": 29716
+        },
+        {
+          "code": 19,
+          "qid": "Q170571",
+          "label_en": "still life",
+          "count": 25730
+        },
+        {
+          "code": 20,
+          "qid": "Q131578",
+          "label_en": "J-pop",
+          "count": 25393
+        },
+        {
+          "code": 21,
+          "qid": "Q3236984",
+          "label_en": "Tang poetry",
+          "count": 23492
+        },
+        {
+          "code": 22,
+          "qid": "Q1610017",
+          "label_en": "simulation video game",
+          "count": 22107
+        },
+        {
+          "code": 23,
+          "qid": "Q744038",
+          "label_en": "role-playing video game",
+          "count": 20790
+        },
+        {
+          "code": 24,
+          "qid": "Q11401",
+          "label_en": "hip-hop",
+          "count": 20066
+        },
+        {
+          "code": 25,
+          "qid": "Q472055",
+          "label_en": "strategy video game",
+          "count": 19959
+        },
+        {
+          "code": 26,
+          "qid": "Q1047337",
+          "label_en": "genre art",
+          "count": 17763
+        },
+        {
+          "code": 27,
+          "qid": "Q11366",
+          "label_en": "alternative rock",
+          "count": 17648
+        },
+        {
+          "code": 28,
+          "qid": "Q83440",
+          "label_en": "country music",
+          "count": 16473
+        },
+        {
+          "code": 29,
+          "qid": "Q24925",
+          "label_en": "science fiction",
+          "count": 15755
+        },
+        {
+          "code": 30,
+          "qid": "Q213051",
+          "label_en": "non-fiction",
+          "count": 14984
+        },
+        {
+          "code": 31,
+          "qid": "Q959790",
+          "label_en": "crime film",
+          "count": 13893
+        },
+        {
+          "code": 32,
+          "qid": "Q309481",
+          "label_en": "obituary",
+          "count": 12503
+        },
+        {
+          "code": 33,
+          "qid": "Q484641",
+          "label_en": "pop rock",
+          "count": 12119
+        },
+        {
+          "code": 34,
+          "qid": "Q188473",
+          "label_en": "action film",
+          "count": 12077
+        },
+        {
+          "code": 35,
+          "qid": "Q1054574",
+          "label_en": "romance film",
+          "count": 11445
+        },
+        {
+          "code": 36,
+          "qid": "Q9730",
+          "label_en": "classical music",
+          "count": 11018
+        },
+        {
+          "code": 37,
+          "qid": "Q2083647",
+          "label_en": "funerary art",
+          "count": 10512
+        },
+        {
+          "code": 38,
+          "qid": "Q200092",
+          "label_en": "horror film",
+          "count": 10214
+        },
+        {
+          "code": 39,
+          "qid": "Q1366112",
+          "label_en": "drama television series",
+          "count": 10075
+        },
+        {
+          "code": 40,
+          "qid": "Q83270",
+          "label_en": "hard rock",
+          "count": 10035
+        },
+        {
+          "code": 41,
+          "qid": "Q3071",
+          "label_en": "punk rock",
+          "count": 10019
+        },
+        {
+          "code": 42,
+          "qid": "Q2484376",
+          "label_en": "thriller film",
+          "count": 9829
+        },
+        {
+          "code": 43,
+          "qid": "Q192110",
+          "label_en": "self-portrait",
+          "count": 9708
+        },
+        {
+          "code": 44,
+          "qid": "Q183504",
+          "label_en": "indie rock",
+          "count": 9520
+        },
+        {
+          "code": 45,
+          "qid": "Q158607",
+          "label_en": "marine art",
+          "count": 8966
+        },
+        {
+          "code": 46,
+          "qid": "Q1344",
+          "label_en": "opera",
+          "count": 8764
+        },
+        {
+          "code": 47,
+          "qid": "Q3381576",
+          "label_en": "black-and-white photography",
+          "count": 8731
+        },
+        {
+          "code": 48,
+          "qid": "Q3374376",
+          "label_en": "mythological painting",
+          "count": 8648
+        },
+        {
+          "code": 49,
+          "qid": "Q35760",
+          "label_en": "essay",
+          "count": 8160
+        },
+        {
+          "code": 50,
+          "qid": "Q132311",
+          "label_en": "fantasy",
+          "count": 7931
+        },
+        {
+          "code": 51,
+          "qid": "Q735478",
+          "label_en": "newsreel",
+          "count": 7115
+        },
+        {
+          "code": 52,
+          "qid": "Q842256",
+          "label_en": "musical film",
+          "count": 7033
+        },
+        {
+          "code": 53,
+          "qid": "Q45981",
+          "label_en": "rhythm and blues",
+          "count": 6929
+        },
+        {
+          "code": 54,
+          "qid": "Q319221",
+          "label_en": "adventure film",
+          "count": 6829
+        },
+        {
+          "code": 55,
+          "qid": "Q50488927",
+          "label_en": "fan painting",
+          "count": 6817
+        },
+        {
+          "code": 56,
+          "qid": "Q859369",
+          "label_en": "comedy drama",
+          "count": 6786
+        },
+        {
+          "code": 57,
+          "qid": "Q38848",
+          "label_en": "heavy metal",
+          "count": 6544
+        },
+        {
+          "code": 58,
+          "qid": "Q131272",
+          "label_en": "soul",
+          "count": 6496
+        },
+        {
+          "code": 59,
+          "qid": "Q544440",
+          "label_en": "filmi music",
+          "count": 6390
+        },
+        {
+          "code": 60,
+          "qid": "Q850412",
+          "label_en": "contemporary R&B",
+          "count": 6334
+        },
+        {
+          "code": 61,
+          "qid": "Q860626",
+          "label_en": "romantic comedy",
+          "count": 6282
+        },
+        {
+          "code": 62,
+          "qid": "Q11635",
+          "label_en": "theatre art",
+          "count": 6267
+        },
+        {
+          "code": 63,
+          "qid": "Q49451",
+          "label_en": "progressive rock",
+          "count": 6247
+        }
+      ]
+    },
+    "era": {
+      "bits": 4,
+      "max_count": 16,
+      "actual_count": 16,
+      "source": "predefined (historical periodization)",
+      "values": [
+        {
+          "code": 0,
+          "label_en": "Unknown",
+          "label_ko": "알 수 없음",
+          "range": null
+        },
+        {
+          "code": 1,
+          "label_en": "Prehistoric",
+          "label_ko": "선사시대",
+          "range": "before 3000 BCE"
+        },
+        {
+          "code": 2,
+          "label_en": "Ancient Near East",
+          "label_ko": "고대 근동",
+          "range": "3000-500 BCE"
+        },
+        {
+          "code": 3,
+          "label_en": "Classical Antiquity",
+          "label_ko": "고전 고대",
+          "range": "800 BCE - 500 CE"
+        },
+        {
+          "code": 4,
+          "label_en": "Late Antiquity",
+          "label_ko": "후기 고대",
+          "range": "200-700 CE"
+        },
+        {
+          "code": 5,
+          "label_en": "Early Medieval",
+          "label_ko": "초기 중세",
+          "range": "500-1000 CE"
+        },
+        {
+          "code": 6,
+          "label_en": "High Medieval",
+          "label_ko": "성기 중세",
+          "range": "1000-1300 CE"
+        },
+        {
+          "code": 7,
+          "label_en": "Late Medieval",
+          "label_ko": "후기 중세",
+          "range": "1300-1500 CE"
+        },
+        {
+          "code": 8,
+          "label_en": "Renaissance",
+          "label_ko": "르네상스",
+          "range": "1400-1600 CE"
+        },
+        {
+          "code": 9,
+          "label_en": "Early Modern",
+          "label_ko": "근세",
+          "range": "1500-1800 CE"
+        },
+        {
+          "code": 10,
+          "label_en": "Industrial Era",
+          "label_ko": "산업화 시대",
+          "range": "1760-1914 CE"
+        },
+        {
+          "code": 11,
+          "label_en": "Modern Era",
+          "label_ko": "현대 전기",
+          "range": "1914-1945 CE"
+        },
+        {
+          "code": 12,
+          "label_en": "Cold War Era",
+          "label_ko": "냉전 시대",
+          "range": "1945-1991 CE"
+        },
+        {
+          "code": 13,
+          "label_en": "Post-Cold War",
+          "label_ko": "탈냉전 시대",
+          "range": "1991-2010 CE"
+        },
+        {
+          "code": 14,
+          "label_en": "Contemporary",
+          "label_ko": "동시대",
+          "range": "2010-present"
+        },
+        {
+          "code": 15,
+          "label_en": "Future",
+          "label_ko": "미래",
+          "range": "future"
+        }
+      ]
+    },
+    "constellation": {
+      "bits": 7,
+      "max_count": 128,
+      "actual_count": 89,
+      "source": "predefined (IAU 88 constellations)",
+      "note": "code 89-127 reserved for future use",
+      "values": [
+        {
+          "code": 0,
+          "label_en": "Unknown",
+          "label_ko": "알 수 없음"
+        },
+        {
+          "code": 1,
+          "label_en": "Andromeda",
+          "label_ko": "안드로메다"
+        },
+        {
+          "code": 2,
+          "label_en": "Antlia",
+          "label_ko": "공기펌프자리"
+        },
+        {
+          "code": 3,
+          "label_en": "Apus",
+          "label_ko": "극락조자리"
+        },
+        {
+          "code": 4,
+          "label_en": "Aquarius",
+          "label_ko": "물병자리"
+        },
+        {
+          "code": 5,
+          "label_en": "Aquila",
+          "label_ko": "독수리자리"
+        },
+        {
+          "code": 6,
+          "label_en": "Ara",
+          "label_ko": "제단자리"
+        },
+        {
+          "code": 7,
+          "label_en": "Aries",
+          "label_ko": "양자리"
+        },
+        {
+          "code": 8,
+          "label_en": "Auriga",
+          "label_ko": "마차부자리"
+        },
+        {
+          "code": 9,
+          "label_en": "Bootes",
+          "label_ko": "목동자리"
+        },
+        {
+          "code": 10,
+          "label_en": "Caelum",
+          "label_ko": "조각칼자리"
+        },
+        {
+          "code": 11,
+          "label_en": "Camelopardalis",
+          "label_ko": "기린자리"
+        },
+        {
+          "code": 12,
+          "label_en": "Cancer",
+          "label_ko": "게자리"
+        },
+        {
+          "code": 13,
+          "label_en": "Canes Venatici",
+          "label_ko": "사냥개자리"
+        },
+        {
+          "code": 14,
+          "label_en": "Canis Major",
+          "label_ko": "큰개자리"
+        },
+        {
+          "code": 15,
+          "label_en": "Canis Minor",
+          "label_ko": "작은개자리"
+        },
+        {
+          "code": 16,
+          "label_en": "Capricornus",
+          "label_ko": "염소자리"
+        },
+        {
+          "code": 17,
+          "label_en": "Carina",
+          "label_ko": "용골자리"
+        },
+        {
+          "code": 18,
+          "label_en": "Cassiopeia",
+          "label_ko": "카시오페이아"
+        },
+        {
+          "code": 19,
+          "label_en": "Centaurus",
+          "label_ko": "센타우루스자리"
+        },
+        {
+          "code": 20,
+          "label_en": "Cepheus",
+          "label_ko": "세페우스자리"
+        },
+        {
+          "code": 21,
+          "label_en": "Cetus",
+          "label_ko": "고래자리"
+        },
+        {
+          "code": 22,
+          "label_en": "Chamaeleon",
+          "label_ko": "카멜레온자리"
+        },
+        {
+          "code": 23,
+          "label_en": "Circinus",
+          "label_ko": "컴퍼스자리"
+        },
+        {
+          "code": 24,
+          "label_en": "Columba",
+          "label_ko": "비둘기자리"
+        },
+        {
+          "code": 25,
+          "label_en": "Coma Berenices",
+          "label_ko": "머리털자리"
+        },
+        {
+          "code": 26,
+          "label_en": "Corona Australis",
+          "label_ko": "남쪽왕관자리"
+        },
+        {
+          "code": 27,
+          "label_en": "Corona Borealis",
+          "label_ko": "북쪽왕관자리"
+        },
+        {
+          "code": 28,
+          "label_en": "Corvus",
+          "label_ko": "까마귀자리"
+        },
+        {
+          "code": 29,
+          "label_en": "Crater",
+          "label_ko": "컵자리"
+        },
+        {
+          "code": 30,
+          "label_en": "Crux",
+          "label_ko": "남십자자리"
+        },
+        {
+          "code": 31,
+          "label_en": "Cygnus",
+          "label_ko": "백조자리"
+        },
+        {
+          "code": 32,
+          "label_en": "Delphinus",
+          "label_ko": "돌고래자리"
+        },
+        {
+          "code": 33,
+          "label_en": "Dorado",
+          "label_ko": "황새치자리"
+        },
+        {
+          "code": 34,
+          "label_en": "Draco",
+          "label_ko": "용자리"
+        },
+        {
+          "code": 35,
+          "label_en": "Equuleus",
+          "label_ko": "조랑말자리"
+        },
+        {
+          "code": 36,
+          "label_en": "Eridanus",
+          "label_ko": "에리다누스자리"
+        },
+        {
+          "code": 37,
+          "label_en": "Fornax",
+          "label_ko": "화로자리"
+        },
+        {
+          "code": 38,
+          "label_en": "Gemini",
+          "label_ko": "쌍둥이자리"
+        },
+        {
+          "code": 39,
+          "label_en": "Grus",
+          "label_ko": "두루미자리"
+        },
+        {
+          "code": 40,
+          "label_en": "Hercules",
+          "label_ko": "헤라클레스자리"
+        },
+        {
+          "code": 41,
+          "label_en": "Horologium",
+          "label_ko": "시계자리"
+        },
+        {
+          "code": 42,
+          "label_en": "Hydra",
+          "label_ko": "바다뱀자리"
+        },
+        {
+          "code": 43,
+          "label_en": "Hydrus",
+          "label_ko": "물뱀자리"
+        },
+        {
+          "code": 44,
+          "label_en": "Indus",
+          "label_ko": "인디언자리"
+        },
+        {
+          "code": 45,
+          "label_en": "Lacerta",
+          "label_ko": "도마뱀자리"
+        },
+        {
+          "code": 46,
+          "label_en": "Leo",
+          "label_ko": "사자자리"
+        },
+        {
+          "code": 47,
+          "label_en": "Leo Minor",
+          "label_ko": "작은사자자리"
+        },
+        {
+          "code": 48,
+          "label_en": "Lepus",
+          "label_ko": "토끼자리"
+        },
+        {
+          "code": 49,
+          "label_en": "Libra",
+          "label_ko": "천칭자리"
+        },
+        {
+          "code": 50,
+          "label_en": "Lupus",
+          "label_ko": "이리자리"
+        },
+        {
+          "code": 51,
+          "label_en": "Lynx",
+          "label_ko": "살쾡이자리"
+        },
+        {
+          "code": 52,
+          "label_en": "Lyra",
+          "label_ko": "거문고자리"
+        },
+        {
+          "code": 53,
+          "label_en": "Mensa",
+          "label_ko": "테이블산자리"
+        },
+        {
+          "code": 54,
+          "label_en": "Microscopium",
+          "label_ko": "현미경자리"
+        },
+        {
+          "code": 55,
+          "label_en": "Monoceros",
+          "label_ko": "외뿔소자리"
+        },
+        {
+          "code": 56,
+          "label_en": "Musca",
+          "label_ko": "파리자리"
+        },
+        {
+          "code": 57,
+          "label_en": "Norma",
+          "label_ko": "직각자자리"
+        },
+        {
+          "code": 58,
+          "label_en": "Octans",
+          "label_ko": "팔분의자리"
+        },
+        {
+          "code": 59,
+          "label_en": "Ophiuchus",
+          "label_ko": "뱀주인자리"
+        },
+        {
+          "code": 60,
+          "label_en": "Orion",
+          "label_ko": "오리온자리"
+        },
+        {
+          "code": 61,
+          "label_en": "Pavo",
+          "label_ko": "공작자리"
+        },
+        {
+          "code": 62,
+          "label_en": "Pegasus",
+          "label_ko": "페가수스자리"
+        },
+        {
+          "code": 63,
+          "label_en": "Perseus",
+          "label_ko": "페르세우스자리"
+        },
+        {
+          "code": 64,
+          "label_en": "Phoenix",
+          "label_ko": "불사조자리"
+        },
+        {
+          "code": 65,
+          "label_en": "Pictor",
+          "label_ko": "화가자리"
+        },
+        {
+          "code": 66,
+          "label_en": "Pisces",
+          "label_ko": "물고기자리"
+        },
+        {
+          "code": 67,
+          "label_en": "Piscis Austrinus",
+          "label_ko": "남쪽물고기자리"
+        },
+        {
+          "code": 68,
+          "label_en": "Puppis",
+          "label_ko": "고물자리"
+        },
+        {
+          "code": 69,
+          "label_en": "Pyxis",
+          "label_ko": "나침반자리"
+        },
+        {
+          "code": 70,
+          "label_en": "Reticulum",
+          "label_ko": "그물자리"
+        },
+        {
+          "code": 71,
+          "label_en": "Sagitta",
+          "label_ko": "화살자리"
+        },
+        {
+          "code": 72,
+          "label_en": "Sagittarius",
+          "label_ko": "궁수자리"
+        },
+        {
+          "code": 73,
+          "label_en": "Scorpius",
+          "label_ko": "전갈자리"
+        },
+        {
+          "code": 74,
+          "label_en": "Sculptor",
+          "label_ko": "조각가자리"
+        },
+        {
+          "code": 75,
+          "label_en": "Scutum",
+          "label_ko": "방패자리"
+        },
+        {
+          "code": 76,
+          "label_en": "Serpens",
+          "label_ko": "뱀자리"
+        },
+        {
+          "code": 77,
+          "label_en": "Sextans",
+          "label_ko": "육분의자리"
+        },
+        {
+          "code": 78,
+          "label_en": "Taurus",
+          "label_ko": "황소자리"
+        },
+        {
+          "code": 79,
+          "label_en": "Telescopium",
+          "label_ko": "망원경자리"
+        },
+        {
+          "code": 80,
+          "label_en": "Triangulum",
+          "label_ko": "삼각형자리"
+        },
+        {
+          "code": 81,
+          "label_en": "Triangulum Australe",
+          "label_ko": "남쪽삼각형자리"
+        },
+        {
+          "code": 82,
+          "label_en": "Tucana",
+          "label_ko": "큰부리새자리"
+        },
+        {
+          "code": 83,
+          "label_en": "Ursa Major",
+          "label_ko": "큰곰자리"
+        },
+        {
+          "code": 84,
+          "label_en": "Ursa Minor",
+          "label_ko": "작은곰자리"
+        },
+        {
+          "code": 85,
+          "label_en": "Vela",
+          "label_ko": "돛자리"
+        },
+        {
+          "code": 86,
+          "label_en": "Virgo",
+          "label_ko": "처녀자리"
+        },
+        {
+          "code": 87,
+          "label_en": "Volans",
+          "label_ko": "날치자리"
+        },
+        {
+          "code": 88,
+          "label_en": "Vulpecula",
+          "label_ko": "여우자리"
+        }
+      ]
+    }
+  }
+}

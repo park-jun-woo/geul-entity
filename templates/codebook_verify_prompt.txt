@@ -1,0 +1,54 @@
+아래는 "{entity_type}" 타입의 "{field_name}" 필드 코드북입니다.
+
+## 코드북
+{codebook_table}
+
+## 검증 질문
+
+1. **완전성**: 일반적으로 기대되는 값 중 누락된 것이 있습니까?
+   - 예: 성별 필드에 Male, Female만 있고 Non-binary가 없는 경우
+
+2. **일관성**: 같은 레벨의 값들이 상호 배타적입니까?
+   - 예: "과학자"와 "물리학자"가 동시에 있으면 계층 오류
+
+3. **상식 정합성**: 코드 할당 순서(빈도)가 상식과 일치합니까?
+   - 예: "정치인"이 1번인데 실제로는 "운동선수"가 더 많은 경우
+
+4. **레이블 명확성**: 모든 레이블이 명확하게 해석됩니까?
+   - 예: "Q12345" 같은 미해석 QID가 남아있는 경우
+
+## 응답 형식
+
+다음 JSON 형식으로 응답하세요:
+
+```json
+{
+  "passed": true,
+  "issues": [
+    {
+      "type": "completeness",
+      "severity": "warning",
+      "description": "Non-binary 성별 옵션 누락",
+      "suggestion": "코드 3에 Non-binary 추가"
+    }
+  ],
+  "confidence": 0.85,
+  "notes": "전반적으로 양호하나 소수 케이스 누락"
+}
+```
+
+### 필드 설명
+
+- **passed**: 심각한 오류 없이 사용 가능하면 true
+- **issues**: 발견된 문제 목록
+  - type: completeness | consistency | common_sense | clarity
+  - severity: error (재생성 필요) | warning (검토 필요) | info (참고)
+- **confidence**: 검증 신뢰도 (0.0 ~ 1.0)
+- **notes**: 추가 코멘트
+
+### 참고 사항
+
+- 코드 0은 항상 Unknown/Unspecified이며, 이는 정상입니다.
+- 빈도(Freq) 순으로 코드가 할당됩니다 (높은 빈도 = 낮은 코드).
+- 위키데이터 QID(Q로 시작)가 value에 있을 수 있으며, label이 해석된 이름입니다.
+- 일부 값은 해당 타입에서만 의미가 있을 수 있습니다.

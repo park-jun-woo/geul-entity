@@ -1,0 +1,117 @@
+{
+  "version": "v1.0",
+  "description": "9개 카테고리별 공통 필드 템플릿",
+  "created": "2026-02-01",
+  "templates": {
+    "생물_인물": {
+      "range": "0x00-0x07",
+      "common_bits": 24,
+      "common_fields": [
+        {"name": "taxonomy", "bits": 8, "offset": 0, "description": "분류 계통/소분류"},
+        {"name": "era", "bits": 4, "offset": 8, "description": "시대"},
+        {"name": "region", "bits": 8, "offset": 12, "description": "지역/서식지"},
+        {"name": "status", "bits": 4, "offset": 20, "description": "상태"}
+      ],
+      "specific_bits": 24,
+      "types": ["Human", "Taxon", "Gene", "Protein", "CellLine", "FamilyName", "GivenName", "FictionalCharacter"]
+    },
+    "화학_물질": {
+      "range": "0x08-0x0B",
+      "common_bits": 20,
+      "common_fields": [
+        {"name": "molecular_type", "bits": 8, "offset": 0, "description": "분자 유형"},
+        {"name": "properties", "bits": 8, "offset": 8, "description": "물리화학적 특성"},
+        {"name": "safety", "bits": 4, "offset": 16, "description": "안전 등급"}
+      ],
+      "specific_bits": 28,
+      "types": ["Chemical", "Compound", "Mineral", "Drug"]
+    },
+    "천체": {
+      "range": "0x0C-0x13",
+      "common_bits": 24,
+      "common_fields": [
+        {"name": "constellation", "bits": 7, "offset": 0, "description": "별자리/위치"},
+        {"name": "ra_zone", "bits": 4, "offset": 7, "description": "적경"},
+        {"name": "dec_zone", "bits": 4, "offset": 11, "description": "적위"},
+        {"name": "magnitude", "bits": 4, "offset": 15, "description": "등급"},
+        {"name": "distance", "bits": 5, "offset": 19, "description": "거리 구간"}
+      ],
+      "specific_bits": 24,
+      "types": ["Star", "Galaxy", "Asteroid", "Quasar", "Planet", "Nebula", "StarCluster", "Moon"]
+    },
+    "지형_자연": {
+      "range": "0x14-0x1B",
+      "common_bits": 24,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "소속 국가"},
+        {"name": "lat_zone", "bits": 4, "offset": 8, "description": "위도 구역"},
+        {"name": "lon_zone", "bits": 4, "offset": 12, "description": "경도 구역"},
+        {"name": "admin", "bits": 4, "offset": 16, "description": "행정구역"},
+        {"name": "climate", "bits": 4, "offset": 20, "description": "기후대"}
+      ],
+      "specific_bits": 24,
+      "types": ["Mountain", "Hill", "River", "Lake", "Stream", "Island", "Bay", "Cave"]
+    },
+    "장소_행정": {
+      "range": "0x1C-0x23",
+      "common_bits": 28,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가"},
+        {"name": "admin_level", "bits": 4, "offset": 8, "description": "행정 레벨"},
+        {"name": "admin_code", "bits": 8, "offset": 12, "description": "행정구역 코드"},
+        {"name": "lat_zone", "bits": 4, "offset": 20, "description": "위도"},
+        {"name": "lon_zone", "bits": 4, "offset": 24, "description": "경도"}
+      ],
+      "specific_bits": 20,
+      "types": ["Settlement", "Village", "Hamlet", "Street", "Cemetery", "AdminRegion", "Park", "ProtectedArea"]
+    },
+    "건축물": {
+      "range": "0x24-0x2B",
+      "common_bits": 24,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "국가"},
+        {"name": "location", "bits": 8, "offset": 8, "description": "위치"},
+        {"name": "era", "bits": 4, "offset": 16, "description": "건립 시대"},
+        {"name": "style", "bits": 4, "offset": 20, "description": "건축 양식"}
+      ],
+      "specific_bits": 24,
+      "types": ["Building", "Church", "School", "House", "Structure", "SportsVenue", "Castle", "Bridge"]
+    },
+    "조직": {
+      "range": "0x2C-0x2F",
+      "common_bits": 26,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "본사 국가"},
+        {"name": "org_type", "bits": 4, "offset": 8, "description": "조직 유형"},
+        {"name": "legal_form", "bits": 6, "offset": 12, "description": "법인 형태"},
+        {"name": "industry", "bits": 8, "offset": 18, "description": "산업 분류"}
+      ],
+      "specific_bits": 22,
+      "types": ["Organization", "Business", "PoliticalParty", "SportsTeam"]
+    },
+    "창작물": {
+      "range": "0x30-0x3B",
+      "common_bits": 24,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "제작국/출판국"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "연도 (1900+)"},
+        {"name": "genre", "bits": 6, "offset": 15, "description": "장르"},
+        {"name": "notability", "bits": 3, "offset": 21, "description": "저명도"}
+      ],
+      "specific_bits": 24,
+      "types": ["Painting", "Document", "LiteraryWork", "Film", "Album", "MusicalWork", "TVEpisode", "VideoGame", "TVSeries", "Patent", "Software", "Website"]
+    },
+    "이벤트_예약": {
+      "range": "0x3C-0x3F",
+      "common_bits": 20,
+      "common_fields": [
+        {"name": "country", "bits": 8, "offset": 0, "description": "개최국"},
+        {"name": "year", "bits": 7, "offset": 8, "description": "연도"},
+        {"name": "scale", "bits": 4, "offset": 15, "description": "규모"},
+        {"name": "recurring", "bits": 1, "offset": 19, "description": "반복 여부"}
+      ],
+      "specific_bits": 28,
+      "types": ["SportsSeason", "Event", "Election", "Other"]
+    }
+  }
+}

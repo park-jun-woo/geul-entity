@@ -1,0 +1,8 @@
+.key
+.venv
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
+CLAUDE.md
