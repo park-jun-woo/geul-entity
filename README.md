@@ -1,6 +1,6 @@
 # GEUL Entity Node
 
-**GEUL(General Embedding vector Unified Language) Entity Node의 48비트 속성 스키마를 위키데이터 실데이터 기반으로 자동 설계하는 프로젝트.**
+**GEUL(General Encoding Unified Language) Entity Node의 48비트 속성 스키마를 위키데이터 실데이터 기반으로 자동 설계하는 프로젝트.**
 
 | 항목 | 값 |
 |------|-----|

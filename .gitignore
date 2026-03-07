@@ -1,8 +1,40 @@
-.key
-.venv
-__pycache__/
-*.pyc
-
-# Claude Code
+# Claude
 .claude/
 CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+*.key
+credentials.json
